@@ -14,7 +14,9 @@ __pycache__/
 
 # Secrets
 client_secret.json
+client_secret*.json
 youtube_token.json
+youtube_token*.json
 token.json
 .env
 .env.local

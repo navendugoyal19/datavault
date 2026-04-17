@@ -1,0 +1,45 @@
+{
+  "name": "datavault",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "remotion studio",
+    "studio": "remotion studio",
+    "typecheck": "tsc --noEmit",
+    "render": "remotion render src/index.ts",
+    "render:h264": "remotion render src/index.ts --codec h264 --crf 18",
+    "render:prores": "remotion render src/index.ts --codec prores --image-format png",
+    "thumbs": "python3 scripts/batch_thumbnails.py",
+    "verify:project": "npm run typecheck && python3 -m compileall pipeline scripts"
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.5.0",
+    "@remotion/cli": "4.0.448",
+    "@remotion/fonts": "4.0.448",
+    "@remotion/google-fonts": "4.0.448",
+    "@remotion/layout-utils": "4.0.448",
+    "@remotion/light-leaks": "4.0.448",
+    "@remotion/lottie": "4.0.448",
+    "@remotion/motion-blur": "4.0.448",
+    "@remotion/noise": "4.0.448",
+    "@remotion/paths": "4.0.448",
+    "@remotion/rive": "4.0.448",
+    "@remotion/sfx": "4.0.448",
+    "@remotion/shapes": "4.0.448",
+    "@remotion/skia": "4.0.448",
+    "@remotion/starburst": "4.0.448",
+    "@remotion/three": "4.0.448",
+    "@remotion/transitions": "4.0.448",
+    "@shopify/react-native-skia": "2.6.2",
+    "@types/three": "0.183.1",
+    "lottie-web": "5.13.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "remotion": "4.0.448",
+    "three": "0.183.2"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "typescript": "^5.7.0"
+  }
+}

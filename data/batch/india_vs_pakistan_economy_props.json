@@ -1,0 +1,102 @@
+{
+  "countryA": "INDIA",
+  "countryB": "PAKISTAN",
+  "flagA": "🇮🇳",
+  "flagB": "🇵🇰",
+  "colorA": "#FF9933",
+  "colorB": "#0B8457",
+  "stats": [
+    {
+      "label": "GDP",
+      "valueA": 3909891533858,
+      "valueB": 371570000121,
+      "unit": "USD",
+      "higherIsBetter": true
+    },
+    {
+      "label": "GDP Per Capita",
+      "valueA": 2695,
+      "valueB": 1479,
+      "unit": "USD",
+      "higherIsBetter": true
+    },
+    {
+      "label": "FX Reserves",
+      "valueA": 640000000000,
+      "valueB": 15000000000,
+      "unit": "USD",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Exports",
+      "valueA": 770000000000,
+      "valueB": 39000000000,
+      "unit": "USD",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Equity Market Cap",
+      "valueA": 5000000000000,
+      "valueB": 30000000000,
+      "unit": "USD",
+      "higherIsBetter": true
+    }
+  ],
+  "narrationSrc": "audio/india_vs_pakistan_economy_narration.mp3",
+  "timingLines": [
+    {
+      "index": 0,
+      "text": "India versus Pakistan. Economy only. Who wins?",
+      "startFrame": 0,
+      "endFrame": 122
+    },
+    {
+      "index": 1,
+      "text": "GDP is the biggest gap. India is near 3 point 9 trillion dollars. Pakistan is around 372 billion.",
+      "startFrame": 134,
+      "endFrame": 378
+    },
+    {
+      "index": 2,
+      "text": "GDP per person also favors India. About 2.7 thousand dollars versus 1.5 thousand.",
+      "startFrame": 390,
+      "endFrame": 591
+    },
+    {
+      "index": 3,
+      "text": "Foreign exchange reserves are another major difference. India has far deeper buffers.",
+      "startFrame": 603,
+      "endFrame": 751
+    },
+    {
+      "index": 4,
+      "text": "Exports also lean heavily toward India thanks to scale in services, manufacturing, and refined goods.",
+      "startFrame": 763,
+      "endFrame": 957
+    },
+    {
+      "index": 5,
+      "text": "Stock market depth is not even close. India has one of the largest equity markets in the world.",
+      "startFrame": 969,
+      "endFrame": 1138
+    },
+    {
+      "index": 6,
+      "text": "Pakistan still matters regionally, but by economic scale and resilience, India is on another level.",
+      "startFrame": 1150,
+      "endFrame": 1346
+    },
+    {
+      "index": 7,
+      "text": "That means more fiscal room, more import capacity, and more long-term strategic flexibility.",
+      "startFrame": 1358,
+      "endFrame": 1531
+    },
+    {
+      "index": 8,
+      "text": "So by the economic numbers, India wins this battle comfortably.",
+      "startFrame": 1543,
+      "endFrame": 1660
+    }
+  ]
+}

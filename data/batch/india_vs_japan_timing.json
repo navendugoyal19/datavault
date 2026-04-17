@@ -1,0 +1,90 @@
+{
+  "voice": "af_bella",
+  "speed": 0.95,
+  "fps": 30,
+  "sample_rate": 24000,
+  "duration_seconds": 74.28,
+  "duration_frames": 2229,
+  "lines": [
+    {
+      "index": 0,
+      "text": "India versus Japan. Who wins?",
+      "start_seconds": 0.0,
+      "end_seconds": 3.2,
+      "start_frame": 0,
+      "end_frame": 96
+    },
+    {
+      "index": 1,
+      "text": "Population. India dominates with 1.4 billion people. Japan has just 125 million.",
+      "start_seconds": 3.42,
+      "end_seconds": 11.62,
+      "start_frame": 103,
+      "end_frame": 349
+    },
+    {
+      "index": 2,
+      "text": "GDP. Japan takes this at 4.2 trillion dollars. India follows with 3.7 trillion.",
+      "start_seconds": 11.84,
+      "end_seconds": 19.965,
+      "start_frame": 355,
+      "end_frame": 599
+    },
+    {
+      "index": 3,
+      "text": "Land Area. India is much larger at 3.3 million square kilometers. Japan has just 378 thousand.",
+      "start_seconds": 20.185,
+      "end_seconds": 29.685,
+      "start_frame": 606,
+      "end_frame": 891
+    },
+    {
+      "index": 4,
+      "text": "Military Personnel. India leads with 1.5 million active soldiers. Japan has 247 thousand.",
+      "start_seconds": 29.905,
+      "end_seconds": 39.28,
+      "start_frame": 897,
+      "end_frame": 1178
+    },
+    {
+      "index": 5,
+      "text": "Life Expectancy. Japan dominates at 84 years. One of the highest in the world. India is at 70.",
+      "start_seconds": 39.5,
+      "end_seconds": 47.8,
+      "start_frame": 1185,
+      "end_frame": 1434
+    },
+    {
+      "index": 6,
+      "text": "Nobel Prizes. Japan leads with 29 Nobel laureates. India has 13.",
+      "start_seconds": 48.02,
+      "end_seconds": 54.595,
+      "start_frame": 1441,
+      "end_frame": 1638
+    },
+    {
+      "index": 7,
+      "text": "Internet Users. India wins with 900 million users. Japan has 117 million.",
+      "start_seconds": 54.815,
+      "end_seconds": 62.69,
+      "start_frame": 1644,
+      "end_frame": 1881
+    },
+    {
+      "index": 8,
+      "text": "Space Missions. India has launched over 120 missions. Japan has launched 98.",
+      "start_seconds": 62.91,
+      "end_seconds": 70.185,
+      "start_frame": 1887,
+      "end_frame": 2106
+    },
+    {
+      "index": 9,
+      "text": "The final score. Five to four. India wins!",
+      "start_seconds": 70.405,
+      "end_seconds": 74.28,
+      "start_frame": 2112,
+      "end_frame": 2228
+    }
+  ]
+}

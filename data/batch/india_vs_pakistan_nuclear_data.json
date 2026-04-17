@@ -1,0 +1,75 @@
+{
+  "lines": [
+    "India versus Pakistan. Nuclear balance only. Who has the edge?",
+    "Start with total estimated warheads. India is around 190. Pakistan about 170. That is close.",
+    "Land based missiles matter next. Both have multiple short and medium range systems ready for deterrence.",
+    "Sea based deterrence is where India gains a strategic advantage with a growing submarine leg.",
+    "Pakistan still relies heavily on rapid-response land systems and tactical nuclear signaling.",
+    "So in total warheads, the gap is small. In survivable second strike capability, India looks stronger.",
+    "But the main story is not domination. The real story is that both sides can inflict catastrophic damage.",
+    "That means the nuclear balance stays extremely dangerous, even if one side has a slight structural edge.",
+    "So by pure deterrence math, India may have the broader posture. But this is the closest rivalry in the series."
+  ],
+  "data": {
+    "countryA": "INDIA",
+    "countryB": "PAKISTAN",
+    "flagA": "🇮🇳",
+    "flagB": "🇵🇰",
+    "colorA": "#FF9933",
+    "colorB": "#0B8457",
+    "stats": [
+      {
+        "label": "Estimated Warheads",
+        "valueA": 190,
+        "valueB": 170,
+        "unit": "warheads",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Ballistic Missile Types",
+        "valueA": 6,
+        "valueB": 5,
+        "unit": "systems",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Sea-Based Deterrent",
+        "valueA": 3,
+        "valueB": 1,
+        "unit": "score",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Tactical Nuclear Emphasis",
+        "valueA": 2,
+        "valueB": 4,
+        "unit": "score",
+        "higherIsBetter": false
+      },
+      {
+        "label": "Second-Strike Depth",
+        "valueA": 4,
+        "valueB": 2,
+        "unit": "score",
+        "higherIsBetter": true
+      }
+    ]
+  },
+  "seo": {
+    "title": "India vs Pakistan — Nuclear Balance Explained ☢️",
+    "description": "India vs Pakistan nuclear balance: estimated warheads, deterrence posture, sea-based capability, and second-strike depth.\n\n#shorts #india #pakistan #nuclear #comparison #datavault",
+    "tags": [
+      "India vs Pakistan",
+      "nuclear balance",
+      "India",
+      "Pakistan",
+      "deterrence",
+      "warheads",
+      "shorts",
+      "datavault"
+    ],
+    "published_url": "https://youtube.com/shorts/jG2S6qP_7Uc",
+    "share_url": "https://youtube.com/shorts/jG2S6qP_7Uc?feature=share",
+    "video_id": "jG2S6qP_7Uc"
+  }
+}

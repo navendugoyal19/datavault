@@ -1,0 +1,112 @@
+{
+  "title": "GDP PER CAPITA",
+  "subtitle": "The richest countries in the world by GDP per capita.",
+  "items": [
+    {
+      "name": "UAE",
+      "size": 50000,
+      "unit": "USD",
+      "color": "#009739"
+    },
+    {
+      "name": "Australia",
+      "size": 65000,
+      "unit": "USD",
+      "color": "#FFB800"
+    },
+    {
+      "name": "Denmark",
+      "size": 68000,
+      "unit": "USD",
+      "color": "#C60C30"
+    },
+    {
+      "name": "Netherlands",
+      "size": 70000,
+      "unit": "USD",
+      "color": "#FF6B35"
+    },
+    {
+      "name": "USA",
+      "size": 80000,
+      "unit": "USD",
+      "color": "#3A86FF"
+    },
+    {
+      "name": "Singapore",
+      "size": 88000,
+      "unit": "USD",
+      "color": "#FF3D5A"
+    },
+    {
+      "name": "Ireland",
+      "size": 105000,
+      "unit": "USD",
+      "color": "#00FF6A"
+    },
+    {
+      "name": "Luxembourg",
+      "size": 131000,
+      "unit": "USD",
+      "color": "#00E5FF"
+    }
+  ],
+  "narrationSrc": "audio/gdp_per_capita_narration.wav",
+  "timingLines": [
+    {
+      "index": 0,
+      "text": "The richest countries in the world by GDP per capita.",
+      "startFrame": 0,
+      "endFrame": 129
+    },
+    {
+      "index": 1,
+      "text": "Number 8. United Arab Emirates. 50 thousand dollars per person.",
+      "startFrame": 136,
+      "endFrame": 301
+    },
+    {
+      "index": 2,
+      "text": "Number 7. Australia. 65 thousand dollars.",
+      "startFrame": 308,
+      "endFrame": 452
+    },
+    {
+      "index": 3,
+      "text": "Number 6. Denmark. 68 thousand.",
+      "startFrame": 459,
+      "endFrame": 575
+    },
+    {
+      "index": 4,
+      "text": "Number 5. Netherlands. 70 thousand.",
+      "startFrame": 581,
+      "endFrame": 698
+    },
+    {
+      "index": 5,
+      "text": "Number 4. United States. 80 thousand dollars per person.",
+      "startFrame": 704,
+      "endFrame": 863
+    },
+    {
+      "index": 6,
+      "text": "Number 3. Singapore. 88 thousand.",
+      "startFrame": 870,
+      "endFrame": 979
+    },
+    {
+      "index": 7,
+      "text": "Number 2. Ireland. 105 thousand dollars.",
+      "startFrame": 986,
+      "endFrame": 1125
+    },
+    {
+      "index": 8,
+      "text": "And number 1. Luxembourg. 131 thousand dollars per person. The richest country on Earth.",
+      "startFrame": 1132,
+      "endFrame": 1375
+    }
+  ],
+  "bgVariant": "gradient"
+}

@@ -1,0 +1,34 @@
+{
+  "mode": "country",
+  "title": "INDIA VS JAPAN",
+  "subtitle": "WHO ACTUALLY WINS?",
+  "countryA": "INDIA",
+  "countryB": "JAPAN",
+  "flagA": "🇮🇳",
+  "flagB": "🇯🇵",
+  "colorA": "#FF9933",
+  "colorB": "#BC002D",
+  "stats": [
+    {
+      "label": "Population",
+      "valueA": 1400000000,
+      "valueB": 125000000,
+      "unit": "people",
+      "higherIsBetter": true
+    },
+    {
+      "label": "GDP (Nominal)",
+      "valueA": 3700000000000,
+      "valueB": 4200000000000,
+      "unit": "USD",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Land Area",
+      "valueA": 3287000,
+      "valueB": 378000,
+      "unit": "km²",
+      "higherIsBetter": true
+    }
+  ]
+}

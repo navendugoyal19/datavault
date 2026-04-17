@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06081A"/>
+      <stop offset="100%" stop-color="#0C1029"/>
+    </linearGradient>
+    <linearGradient id="cyanFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="amberFade" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#FFB800" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#FFB800" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="bigGlow">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="720" fill="url(#bgGrad)"/>
+
+  <!-- Subtle grid -->
+  <g opacity="0.04">
+    <line x1="0" y1="180" x2="1280" y2="180" stroke="#00E5FF" stroke-width="0.5"/>
+    <line x1="0" y1="360" x2="1280" y2="360" stroke="#00E5FF" stroke-width="0.5"/>
+    <line x1="0" y1="540" x2="1280" y2="540" stroke="#00E5FF" stroke-width="0.5"/>
+    <line x1="320" y1="0" x2="320" y2="720" stroke="#00E5FF" stroke-width="0.5"/>
+    <line x1="640" y1="0" x2="640" y2="720" stroke="#00E5FF" stroke-width="0.5"/>
+    <line x1="960" y1="0" x2="960" y2="720" stroke="#00E5FF" stroke-width="0.5"/>
+  </g>
+
+  <!-- Left side glow (stat area) -->
+  <rect x="0" y="0" width="500" height="720" fill="url(#cyanFade)"/>
+
+  <!-- Right side glow -->
+  <rect x="780" y="0" width="500" height="720" fill="url(#amberFade)"/>
+
+  <!-- === LAYOUT ZONE GUIDES === -->
+
+  <!-- TITLE AREA (top) -->
+  <rect x="40" y="30" width="1200" height="100" rx="8" fill="none" stroke="#00E5FF" stroke-width="2" stroke-dasharray="10,5" opacity="0.4"/>
+  <text x="640" y="90" text-anchor="middle" font-family="'Space Grotesk', 'Inter', sans-serif"
+        font-weight="700" font-size="42" fill="#FFFFFF" opacity="0.25" letter-spacing="2">
+    BOLD TITLE GOES HERE
+  </text>
+  <text x="640" y="20" text-anchor="middle" font-family="'Inter', sans-serif"
+        font-size="11" fill="#00E5FF" opacity="0.5" letter-spacing="1">TITLE ZONE</text>
+
+  <!-- BIG STAT / NUMBER (left side) -->
+  <rect x="40" y="160" width="440" height="400" rx="12" fill="none" stroke="#00E5FF" stroke-width="2" stroke-dasharray="10,5" opacity="0.35"/>
+  <text x="260" y="390" text-anchor="middle" font-family="'Space Grotesk', 'Inter', sans-serif"
+        font-weight="700" font-size="120" fill="#00E5FF" opacity="0.2" filter="url(#bigGlow)">
+    42%
+  </text>
+  <text x="260" y="150" text-anchor="middle" font-family="'Inter', sans-serif"
+        font-size="11" fill="#00E5FF" opacity="0.5" letter-spacing="1">STAT / NUMBER ZONE</text>
+
+  <!-- VS INDICATOR (center) -->
+  <circle cx="640" cy="360" r="60" fill="none" stroke="#FFB800" stroke-width="2" stroke-dasharray="8,4" opacity="0.4"/>
+  <text x="640" y="375" text-anchor="middle" font-family="'Space Grotesk', 'Inter', sans-serif"
+        font-weight="700" font-size="48" fill="#FFB800" opacity="0.3">
+    VS
+  </text>
+  <text x="640" y="290" text-anchor="middle" font-family="'Inter', sans-serif"
+        font-size="11" fill="#FFB800" opacity="0.5" letter-spacing="1">COMPARISON</text>
+
+  <!-- RIGHT COMPARISON AREA -->
+  <rect x="800" y="160" width="440" height="400" rx="12" fill="none" stroke="#FFB800" stroke-width="2" stroke-dasharray="10,5" opacity="0.3"/>
+  <text x="1020" y="390" text-anchor="middle" font-family="'Space Grotesk', 'Inter', sans-serif"
+        font-weight="700" font-size="120" fill="#FFB800" opacity="0.15">
+    78%
+  </text>
+  <text x="1020" y="150" text-anchor="middle" font-family="'Inter', sans-serif"
+        font-size="11" fill="#FFB800" opacity="0.5" letter-spacing="1">COMPARISON ZONE</text>
+
+  <!-- BOTTOM BAR -->
+  <rect x="40" y="600" width="1060" height="80" rx="8" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-dasharray="8,4" opacity="0.12"/>
+  <text x="570" y="648" text-anchor="middle" font-family="'Inter', sans-serif"
+        font-size="22" fill="#FFFFFF" opacity="0.15" letter-spacing="1">
+    Subtitle / Source / Additional Context
+  </text>
+
+  <!-- LOGO PLACEMENT (bottom-right) -->
+  <g transform="translate(1160, 610)">
+    <rect x="0" y="0" width="80" height="80" rx="40" fill="#06081A" stroke="#00E5FF" stroke-width="1.5" opacity="0.5"/>
+    <text x="40" y="50" text-anchor="middle" font-family="'Space Grotesk', 'Inter', sans-serif"
+          font-weight="700" font-size="24" fill="#00E5FF" opacity="0.5">DV</text>
+    <text x="40" y="-8" text-anchor="middle" font-family="'Inter', sans-serif"
+          font-size="9" fill="#00E5FF" opacity="0.4" letter-spacing="1">LOGO</text>
+  </g>
+
+  <!-- Decorative corner accents -->
+  <path d="M 0,0 L 60,0 L 0,0 L 0,60" fill="none" stroke="#00E5FF" stroke-width="2" opacity="0.2"/>
+  <path d="M 1280,0 L 1220,0 M 1280,0 L 1280,60" fill="none" stroke="#00E5FF" stroke-width="2" opacity="0.2"/>
+  <path d="M 0,720 L 60,720 M 0,720 L 0,660" fill="none" stroke="#00E5FF" stroke-width="2" opacity="0.2"/>
+  <path d="M 1280,720 L 1220,720 M 1280,720 L 1280,660" fill="none" stroke="#00E5FF" stroke-width="2" opacity="0.2"/>
+</svg>

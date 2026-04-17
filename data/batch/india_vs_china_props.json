@@ -1,0 +1,126 @@
+{
+  "countryA": "INDIA",
+  "countryB": "CHINA",
+  "flagA": "🇮🇳",
+  "flagB": "🇨🇳",
+  "colorA": "#FF9933",
+  "colorB": "#DE2910",
+  "stats": [
+    {
+      "label": "Population",
+      "valueA": 1440000000,
+      "valueB": 1410000000,
+      "unit": "people",
+      "higherIsBetter": true
+    },
+    {
+      "label": "GDP (Nominal)",
+      "valueA": 3700000000000,
+      "valueB": 18500000000000,
+      "unit": "USD",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Land Area",
+      "valueA": 3287000,
+      "valueB": 9597000,
+      "unit": "km²",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Military Personnel",
+      "valueA": 1500000,
+      "valueB": 2000000,
+      "unit": "active",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Nuclear Warheads",
+      "valueA": 172,
+      "valueB": 500,
+      "higherIsBetter": true
+    },
+    {
+      "label": "Space Missions",
+      "valueA": 124,
+      "valueB": 200,
+      "higherIsBetter": true
+    },
+    {
+      "label": "Cricket World Cups",
+      "valueA": 2,
+      "valueB": 0,
+      "higherIsBetter": true
+    },
+    {
+      "label": "Internet Users",
+      "valueA": 900000000,
+      "valueB": 1050000000,
+      "unit": "users",
+      "higherIsBetter": true
+    }
+  ],
+  "narrationSrc": "audio/india_vs_china_narration.wav",
+  "timingLines": [
+    {
+      "index": 0,
+      "text": "India versus China. Who wins?",
+      "startFrame": 0,
+      "endFrame": 93
+    },
+    {
+      "index": 1,
+      "text": "Population. India has overtaken China with 1.44 billion. China has 1.41 billion.",
+      "startFrame": 100,
+      "endFrame": 351
+    },
+    {
+      "index": 2,
+      "text": "GDP. China dominates at 18.5 trillion dollars. India has 3.7 trillion.",
+      "startFrame": 357,
+      "endFrame": 597
+    },
+    {
+      "index": 3,
+      "text": "Land Area. China is larger at 9.6 million square kilometers. India has 3.3 million.",
+      "startFrame": 604,
+      "endFrame": 848
+    },
+    {
+      "index": 4,
+      "text": "Military Personnel. India has 1.5 million active. China has 2 million.",
+      "startFrame": 854,
+      "endFrame": 1058
+    },
+    {
+      "index": 5,
+      "text": "Nuclear Warheads. China has 500 warheads. India has 172.",
+      "startFrame": 1065,
+      "endFrame": 1268
+    },
+    {
+      "index": 6,
+      "text": "Space Missions. India has 124 missions. China has over 200.",
+      "startFrame": 1275,
+      "endFrame": 1471
+    },
+    {
+      "index": 7,
+      "text": "Cricket World Cups. India leads with 2 World Cup wins. China has zero.",
+      "startFrame": 1478,
+      "endFrame": 1656
+    },
+    {
+      "index": 8,
+      "text": "Internet Users. China leads with 1.05 billion. India has 900 million.",
+      "startFrame": 1663,
+      "endFrame": 1888
+    },
+    {
+      "index": 9,
+      "text": "The final score. Five to four. China wins!",
+      "startFrame": 1895,
+      "endFrame": 2007
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+.venv/
+.venv_*/
+
+# Build outputs
+out/
+moon-video/out/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets
+client_secret.json
+youtube_token.json
+token.json
+.env
+.env.local
+*.env
+
+# Local runtime state
+.omx/
+.omc/
+.playwright-cli/
+.playwright-mcp/
+
+# Temporary files
+tmp/
+temp_vision_images/
+*.bak
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db

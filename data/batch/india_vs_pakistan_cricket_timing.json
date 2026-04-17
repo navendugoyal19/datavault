@@ -1,0 +1,51 @@
+{
+  "fps": 30,
+  "duration_frames": 1778,
+  "lines": [
+    {
+      "index": 0,
+      "start_frame": 0,
+      "end_frame": 113
+    },
+    {
+      "index": 1,
+      "start_frame": 125,
+      "end_frame": 294
+    },
+    {
+      "index": 2,
+      "start_frame": 306,
+      "end_frame": 462
+    },
+    {
+      "index": 3,
+      "start_frame": 474,
+      "end_frame": 597
+    },
+    {
+      "index": 4,
+      "start_frame": 609,
+      "end_frame": 791
+    },
+    {
+      "index": 5,
+      "start_frame": 803,
+      "end_frame": 943
+    },
+    {
+      "index": 6,
+      "start_frame": 955,
+      "end_frame": 1087
+    },
+    {
+      "index": 7,
+      "start_frame": 1099,
+      "end_frame": 1235
+    },
+    {
+      "index": 8,
+      "start_frame": 1247,
+      "end_frame": 1418
+    }
+  ]
+}

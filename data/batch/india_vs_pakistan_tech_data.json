@@ -1,0 +1,72 @@
+{
+  "lines": [
+    "India versus Pakistan. Technology and internet race. Who wins?",
+    "Start with internet users. India has hundreds of millions more people online.",
+    "Smartphone penetration and total app market size also heavily favor India.",
+    "IT exports are where the difference becomes dramatic. India is a global giant. Pakistan is still far smaller.",
+    "Startup scale and venture funding also point strongly toward India.",
+    "Digital payments are another major advantage. India built one of the biggest instant payment systems on Earth.",
+    "Pakistan is growing fast online, but it is still playing catch-up in size and capital.",
+    "So if the contest is modern tech scale, India wins clearly.",
+    "Pakistan has momentum. India has the ecosystem."
+  ],
+  "data": {
+    "countryA": "INDIA",
+    "countryB": "PAKISTAN",
+    "flagA": "🇮🇳",
+    "flagB": "🇵🇰",
+    "colorA": "#FF9933",
+    "colorB": "#0B8457",
+    "stats": [
+      {
+        "label": "Internet Users",
+        "valueA": 806000000,
+        "valueB": 143000000,
+        "unit": "users",
+        "higherIsBetter": true
+      },
+      {
+        "label": "IT Exports",
+        "valueA": 250000000000,
+        "valueB": 3500000000,
+        "unit": "USD",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Startup Scale",
+        "valueA": 100,
+        "valueB": 8,
+        "unit": "score",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Digital Payments",
+        "valueA": 100,
+        "valueB": 10,
+        "unit": "score",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Smartphone Market",
+        "valueA": 700000000,
+        "valueB": 140000000,
+        "unit": "users",
+        "higherIsBetter": true
+      }
+    ]
+  },
+  "seo": {
+    "title": "India vs Pakistan — Internet & Tech Race 📱",
+    "description": "India vs Pakistan tech comparison: internet users, IT exports, startups, digital payments, and smartphone scale.\n\n#shorts #india #pakistan #technology #comparison #datavault",
+    "tags": [
+      "India vs Pakistan",
+      "tech race",
+      "India",
+      "Pakistan",
+      "internet users",
+      "IT exports",
+      "shorts",
+      "datavault"
+    ]
+  }
+}

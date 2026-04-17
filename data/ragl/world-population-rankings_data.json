@@ -1,0 +1,3582 @@
+{
+  "title": "WORLD POPULATION RANKINGS",
+  "type": "bar-race",
+  "indicator": "SP.POP.TOTL",
+  "frames": [
+    {
+      "year": 1960,
+      "entries": [
+        {
+          "name": "China",
+          "value": 667070000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 435990338,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 180671000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 119897000,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Japan",
+          "value": 93216000,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Indonesia",
+          "value": 88296070,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Germany",
+          "value": 72814900,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Brazil",
+          "value": 72388126,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 52400000,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 51828660,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1961,
+      "entries": [
+        {
+          "name": "China",
+          "value": 660330000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 446564729,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 183691000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 121236000,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Japan",
+          "value": 94055000,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Indonesia",
+          "value": 90791249,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 74605447,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Germany",
+          "value": 73377632,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 53310348,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 52800000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1962,
+      "entries": [
+        {
+          "name": "China",
+          "value": 665770000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 457283090,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 186538000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 122591000,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Japan",
+          "value": 94933000,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Indonesia",
+          "value": 93375850,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 76865323,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Germany",
+          "value": 74025784,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 54881146,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 53250000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1963,
+      "entries": [
+        {
+          "name": "China",
+          "value": 682335000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 468138575,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 189242000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 123960000,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Indonesia",
+          "value": 96051424,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Japan",
+          "value": 95900000,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 79164235,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Germany",
+          "value": 74714353,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 56504402,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 53650000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1964,
+      "entries": [
+        {
+          "name": "China",
+          "value": 698355000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 479229598,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 191889000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 125345000,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Indonesia",
+          "value": 98833749,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Japan",
+          "value": 96903000,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 81488595,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Germany",
+          "value": 75318337,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 58178374,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 54000000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1965,
+      "entries": [
+        {
+          "name": "China",
+          "value": 715185000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 490140146,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 194303000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 126745000,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Indonesia",
+          "value": 101365130,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Japan",
+          "value": 97952000,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 83817583,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Germany",
+          "value": 75963695,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 59902519,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 54348050,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1966,
+      "entries": [
+        {
+          "name": "China",
+          "value": 735400000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 500740247,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 196560000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 127468000,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Indonesia",
+          "value": 103792754,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Japan",
+          "value": 98851000,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 86139359,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Germany",
+          "value": 76600311,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 61669806,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 54648500,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1967,
+      "entries": [
+        {
+          "name": "China",
+          "value": 754550000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 511606372,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 198712000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 128196000,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Indonesia",
+          "value": 106526393,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Japan",
+          "value": 99879000,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 88446124,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Germany",
+          "value": 76951336,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 63510929,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Pakistan",
+          "value": 55214768,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1968,
+      "entries": [
+        {
+          "name": "China",
+          "value": 774510000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 522716889,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 200706000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 128928000,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Indonesia",
+          "value": 109450006,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Japan",
+          "value": 101011000,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 90741240,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Germany",
+          "value": 77294314,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 65408276,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Pakistan",
+          "value": 56810507,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1969,
+      "entries": [
+        {
+          "name": "China",
+          "value": 796025000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 533880544,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 202677000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 129664000,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Indonesia",
+          "value": 112517639,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Japan",
+          "value": 102219000,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 93045777,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Germany",
+          "value": 77909682,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 67294133,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Pakistan",
+          "value": 58460939,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "entries": [
+        {
+          "name": "China",
+          "value": 818315000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 545864268,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 205052000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 130404000,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Indonesia",
+          "value": 115657495,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Japan",
+          "value": 103403000,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 95375651,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Germany",
+          "value": 78169289,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 69058894,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Pakistan",
+          "value": 60166719,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1971,
+      "entries": [
+        {
+          "name": "China",
+          "value": 841105000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 558096387,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 207661000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 131155000,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Indonesia",
+          "value": 118833702,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Japan",
+          "value": 105697000,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 97739273,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Germany",
+          "value": 78312842,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 70276758,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Pakistan",
+          "value": 61847899,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1972,
+      "entries": [
+        {
+          "name": "China",
+          "value": 862030000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 570482142,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 209896000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 131909000,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Indonesia",
+          "value": 122039841,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Japan",
+          "value": 107188000,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 100146797,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Germany",
+          "value": 78688452,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 71641519,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Pakistan",
+          "value": 63583194,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1973,
+      "entries": [
+        {
+          "name": "China",
+          "value": 881940000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 583465598,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 211909000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 132669000,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Indonesia",
+          "value": 125288515,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Japan",
+          "value": 108707000,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 102600976,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Germany",
+          "value": 78936666,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 73722294,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Pakistan",
+          "value": 65461912,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1974,
+      "entries": [
+        {
+          "name": "China",
+          "value": 900350000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 597041391,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 213854000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 133432000,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Indonesia",
+          "value": 128555045,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Japan",
+          "value": 110162000,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 105089675,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Germany",
+          "value": 78967433,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 75839348,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Pakistan",
+          "value": 67415487,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1975,
+      "entries": [
+        {
+          "name": "China",
+          "value": 916395000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 611309535,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 215973000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 134200000,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Indonesia",
+          "value": 131843848,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Japan",
+          "value": 111573000,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 107619565,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Germany",
+          "value": 78673554,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 77854351,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Pakistan",
+          "value": 69461175,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1976,
+      "entries": [
+        {
+          "name": "China",
+          "value": 930685000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 625861883,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 218035000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 135173655,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 135147000,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Japan",
+          "value": 112775000,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 110213349,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 79855318,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Germany",
+          "value": 78336950,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Pakistan",
+          "value": 71620254,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1977,
+      "entries": [
+        {
+          "name": "China",
+          "value": 943455000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 640801103,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 220239000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 138533541,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 136100000,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Japan",
+          "value": 113872000,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 112875292,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 81867264,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Germany",
+          "value": 78159814,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Pakistan",
+          "value": 73901827,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1978,
+      "entries": [
+        {
+          "name": "China",
+          "value": 956165000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 655728229,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 222585000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 141953163,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 137060000,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 115600942,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Japan",
+          "value": 114913000,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 83889655,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Germany",
+          "value": 78091820,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Pakistan",
+          "value": 76307379,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1979,
+      "entries": [
+        {
+          "name": "China",
+          "value": 969005000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 671155747,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 225055000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 145434834,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 138027000,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 118380821,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Japan",
+          "value": 115890000,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 85935072,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Pakistan",
+          "value": 78997039,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Germany",
+          "value": 78126350,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "entries": [
+        {
+          "name": "China",
+          "value": 981235000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 687354025,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 227225000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 148950540,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 139010000,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 121207461,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Japan",
+          "value": 116807000,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 88016432,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Pakistan",
+          "value": 82291010,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Germany",
+          "value": 78288576,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1981,
+      "entries": [
+        {
+          "name": "China",
+          "value": 993885000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 703696250,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 229466000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 152485035,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 139941000,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 124063109,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Japan",
+          "value": 117661000,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 90303105,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Pakistan",
+          "value": 85802049,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Germany",
+          "value": 78407907,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1982,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1008630000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 720313473,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 231664000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 156052152,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 140823000,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 126923155,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Japan",
+          "value": 118480000,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 92814507,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Pakistan",
+          "value": 89089246,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Nigeria",
+          "value": 78378701,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1983,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1023310000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 737372681,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 233792000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 159651381,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 141668000,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 129790077,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Japan",
+          "value": 119307000,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 95335155,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Pakistan",
+          "value": 92227711,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Nigeria",
+          "value": 80438260,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1984,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1036825000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 754875449,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 235825000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 163251124,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 142745000,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 132658864,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Japan",
+          "value": 120083000,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 97814966,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Pakistan",
+          "value": 95164936,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Nigeria",
+          "value": 82526443,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1985,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1051040000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 772647793,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 237924000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 166776185,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 143858000,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 135515595,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Japan",
+          "value": 120837000,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 100253825,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Pakistan",
+          "value": 98229285,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Nigeria",
+          "value": 84897973,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1986,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1066790000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 790689978,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 240133000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 170175065,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 144894000,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 138336370,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Japan",
+          "value": 121482000,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 102635572,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Pakistan",
+          "value": 101606764,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Nigeria",
+          "value": 87235953,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1987,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1084035000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 808931270,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 242289000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 173511154,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 145908000,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 141104944,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Japan",
+          "value": 122069000,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Pakistan",
+          "value": 105130717,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 104959291,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Nigeria",
+          "value": 89591716,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1988,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1101630000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 827342990,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 244499000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 176855065,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 146857000,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 143826357,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Japan",
+          "value": 122578000,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Pakistan",
+          "value": 108724739,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 107216008,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Nigeria",
+          "value": 92020090,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1118650000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 846039529,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 246819000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 180201630,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 147721000,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 146502972,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Japan",
+          "value": 123069000,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Pakistan",
+          "value": 112336629,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 109433799,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Nigeria",
+          "value": 94531014,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1135185000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 864972221,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 249623000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 183501098,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Brazil",
+          "value": 149143223,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 147969406,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Japan",
+          "value": 123478000,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Pakistan",
+          "value": 116155576,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 111633717,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Nigeria",
+          "value": 97120925,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1991,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1150780000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 883927600,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 252981000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 186778238,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Brazil",
+          "value": 151724256,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 148394216,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Japan",
+          "value": 123964000,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Pakistan",
+          "value": 120060406,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 113787109,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Nigeria",
+          "value": 99720162,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1992,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1164970000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 902957070,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 256514000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 190043744,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Brazil",
+          "value": 154275079,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 148538197,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Japan",
+          "value": 124425000,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Pakistan",
+          "value": 123546848,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 115952192,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Nigeria",
+          "value": 102372770,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1993,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1178440000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 922118387,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 259919000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 193305168,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Brazil",
+          "value": 156794577,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 148458777,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Pakistan",
+          "value": 127020117,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Japan",
+          "value": 124829000,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 118132360,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Nigeria",
+          "value": 105122069,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1994,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1191835000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 941163767,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 263126000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 196591828,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Brazil",
+          "value": 159265006,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 148407912,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Pakistan",
+          "value": 130748083,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Japan",
+          "value": 125178000,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 120343179,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Nigeria",
+          "value": 107935714,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1204855000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 960301044,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 266278000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 199888057,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Brazil",
+          "value": 161735073,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 148375787,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Pakistan",
+          "value": 134582253,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Japan",
+          "value": 125472000,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 122600370,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Nigeria",
+          "value": 110819428,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1996,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1217550000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 979678458,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 269394000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 203204348,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Brazil",
+          "value": 164202549,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 148160129,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Pakistan",
+          "value": 138557092,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Japan",
+          "value": 125757000,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 124862179,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Nigeria",
+          "value": 113754779,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1997,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1230075000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 999133762,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 272657000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 206536095,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Brazil",
+          "value": 166661659,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 147915361,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Pakistan",
+          "value": 142531804,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 127198069,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Japan",
+          "value": 126057000,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Nigeria",
+          "value": 116754792,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1241935000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1018665080,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 275854000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 209826788,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Brazil",
+          "value": 169159655,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 147670784,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Pakistan",
+          "value": 146522356,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 129622332,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Japan",
+          "value": 126400000,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Nigeria",
+          "value": 119846254,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1252735000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1038225823,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 279040000,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 213004668,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Brazil",
+          "value": 171641543,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Pakistan",
+          "value": 150565377,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 147214776,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 132108065,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Japan",
+          "value": 126631000,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Nigeria",
+          "value": 123047320,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1262645000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1057922733,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 282162411,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 216077790,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Brazil",
+          "value": 174018282,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Pakistan",
+          "value": 154879127,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 146596869,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 134544304,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Japan",
+          "value": 126843000,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Nigeria",
+          "value": 126382494,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1271850000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1077898575,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 284968955,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 219097902,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Brazil",
+          "value": 176301203,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Pakistan",
+          "value": 159270907,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 145976482,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 136805810,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Nigeria",
+          "value": 129862595,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 127149000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1280400000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1097600380,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 287625193,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 222088495,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Brazil",
+          "value": 178503484,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Pakistan",
+          "value": 163222549,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 145306497,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 138933658,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Nigeria",
+          "value": 133471989,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 127445000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1288400000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1116803006,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 290107933,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 225048008,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Brazil",
+          "value": 180622688,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Pakistan",
+          "value": 167110248,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 144648618,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 140970351,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Nigeria",
+          "value": 137202644,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 127718000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1296075000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1135991513,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 292805298,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 227926649,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Brazil",
+          "value": 182675143,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Pakistan",
+          "value": 171286000,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 144067316,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 142902856,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Nigeria",
+          "value": 141057045,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 127761000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1303720000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1154676322,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 295516599,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 230871650,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Brazil",
+          "value": 184688101,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Pakistan",
+          "value": 175453212,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Nigeria",
+          "value": 145017253,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 144715786,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 143518814,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 127773000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1311020000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1172878890,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 298379912,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 233951652,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Brazil",
+          "value": 186653106,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Pakistan",
+          "value": 179682690,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Nigeria",
+          "value": 149077334,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 146405973,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 143049637,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 127854000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1317885000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1190676021,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 301231207,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 237062337,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Brazil",
+          "value": 188552320,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Pakistan",
+          "value": 184493231,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Nigeria",
+          "value": 153267261,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 147989278,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 142805114,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 128001000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1324655000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1207930964,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 304093966,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 240157903,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Brazil",
+          "value": 190367302,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Pakistan",
+          "value": 189499113,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Nigeria",
+          "value": 157595014,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 149474264,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 142742366,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 128063000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1331260000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1225524753,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 306771529,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 243220028,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Pakistan",
+          "value": 194376534,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 192079951,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Nigeria",
+          "value": 162049464,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 150873714,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 142785348,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 128047000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1337705000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1243481564,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 309378227,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 246305322,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Pakistan",
+          "value": 199239047,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 193701929,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Nigeria",
+          "value": 166642886,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 152201981,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 142849468,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 128070000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1345035000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1261224954,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 311839461,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 249470032,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Pakistan",
+          "value": 203746065,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 195284734,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Nigeria",
+          "value": 171379598,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 153591076,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 143018195,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 127833000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1354190000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1278674502,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 314339099,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 252698525,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Pakistan",
+          "value": 207667125,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 196876111,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Nigeria",
+          "value": 176200625,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 155070101,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 143378447,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 127629000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1363240000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1295829511,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 316726282,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 255852467,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Pakistan",
+          "value": 211073978,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 198478299,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Nigeria",
+          "value": 181049443,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 156532141,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 143805638,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 127445000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1371860000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1312277191,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 319257560,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 258877399,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Pakistan",
+          "value": 214264647,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 200085127,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Nigeria",
+          "value": 185896915,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 157964929,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 144237223,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 127276000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1379860000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1328024498,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 321815121,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 261799249,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Pakistan",
+          "value": 217290883,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 201675532,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Nigeria",
+          "value": 190671878,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 159383179,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 144640716,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 127141000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1387790000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1343944296,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 324353340,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 264627418,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Pakistan",
+          "value": 220138869,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 203218114,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Nigeria",
+          "value": 195443700,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 160811932,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 145015460,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 127076000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1396215000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1359657400,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 326608609,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 267346658,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Pakistan",
+          "value": 223273967,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 204703445,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Nigeria",
+          "value": 200254579,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 162186147,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 145293260,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 126972000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1402760000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1374659064,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 328529577,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 269951846,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Pakistan",
+          "value": 226928892,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Brazil",
+          "value": 206107261,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Nigeria",
+          "value": 204938755,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 163523103,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 145398106,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 126811000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1407745000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1389030312,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 330226227,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 272489381,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Pakistan",
+          "value": 230800899,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Nigeria",
+          "value": 209485641,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 207455459,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 164913055,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 145453291,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 126633000,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "entries": [
+        {
+          "name": "China",
+          "value": 1411100000,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "India",
+          "value": 1402617695,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 331577720,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 274814866,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Pakistan",
+          "value": 235001746,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Nigeria",
+          "value": 213996181,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 208660842,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 166298024,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 145245148,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Mexico",
+          "value": 126799054,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "entries": [
+        {
+          "name": "India",
+          "value": 1414203896,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "China",
+          "value": 1412360000,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 332099760,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 276758053,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Pakistan",
+          "value": 239477801,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Nigeria",
+          "value": 218529286,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 209550294,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 167658854,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 144746762,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Mexico",
+          "value": 127648148,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "entries": [
+        {
+          "name": "India",
+          "value": 1425423212,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "China",
+          "value": 1412175000,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 334017321,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 278830529,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Pakistan",
+          "value": 243700667,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Nigeria",
+          "value": 223150896,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 210306415,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 169384897,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 144236933,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Mexico",
+          "value": 128613117,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "entries": [
+        {
+          "name": "India",
+          "value": 1438069596,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "China",
+          "value": 1410710000,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 336806231,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 281190067,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Pakistan",
+          "value": 247504495,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Nigeria",
+          "value": 227882945,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 211140729,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 171466990,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 143826130,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Mexico",
+          "value": 129739759,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "entries": [
+        {
+          "name": "India",
+          "value": 1450935791,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "China",
+          "value": 1408975000,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 340110988,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Indonesia",
+          "value": 283487931,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Pakistan",
+          "value": 251269164,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Nigeria",
+          "value": 232679478,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Brazil",
+          "value": 211998573,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 173562364,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 143533851,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Ethiopia",
+          "value": 132059767,
+          "color": "#85C1E9"
+        }
+      ]
+    }
+  ]
+}

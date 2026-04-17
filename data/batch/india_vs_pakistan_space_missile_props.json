@@ -1,0 +1,102 @@
+{
+  "countryA": "INDIA",
+  "countryB": "PAKISTAN",
+  "flagA": "🇮🇳",
+  "flagB": "🇵🇰",
+  "colorA": "#FF9933",
+  "colorB": "#0B8457",
+  "stats": [
+    {
+      "label": "Space Missions",
+      "valueA": 125,
+      "valueB": 6,
+      "unit": "missions",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Launch Capability",
+      "valueA": 4,
+      "valueB": 0,
+      "unit": "score",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Satellites",
+      "valueA": 130,
+      "valueB": 8,
+      "unit": "satellites",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Missile Program Depth",
+      "valueA": 5,
+      "valueB": 3,
+      "unit": "score",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Max Public Range",
+      "valueA": 5000,
+      "valueB": 2750,
+      "unit": "km",
+      "higherIsBetter": true
+    }
+  ],
+  "narrationSrc": "audio/india_vs_pakistan_space_missile_narration.mp3",
+  "timingLines": [
+    {
+      "index": 0,
+      "text": "India versus Pakistan. Space and missile race. Who wins?",
+      "startFrame": 0,
+      "endFrame": 132
+    },
+    {
+      "index": 1,
+      "text": "Space missions are the biggest gap. India has launched well over one hundred missions. Pakistan has launched only a few satellites.",
+      "startFrame": 144,
+      "endFrame": 375
+    },
+    {
+      "index": 2,
+      "text": "Launch capability is another huge difference. India can launch from its own pads. Pakistan cannot match that.",
+      "startFrame": 387,
+      "endFrame": 588
+    },
+    {
+      "index": 3,
+      "text": "Satellite count and domestic space infrastructure also strongly favor India.",
+      "startFrame": 600,
+      "endFrame": 741
+    },
+    {
+      "index": 4,
+      "text": "Missile range is where the rivalry becomes more balanced. Both sides field nuclear-capable systems.",
+      "startFrame": 753,
+      "endFrame": 934
+    },
+    {
+      "index": 5,
+      "text": "But India has broader depth across short, medium, and longer-range missile programs.",
+      "startFrame": 946,
+      "endFrame": 1102
+    },
+    {
+      "index": 6,
+      "text": "Pakistan still maintains a credible deterrent with rapid-response systems aimed at the regional balance.",
+      "startFrame": 1114,
+      "endFrame": 1292
+    },
+    {
+      "index": 7,
+      "text": "So in space technology and missile depth together, India has the wider capability base.",
+      "startFrame": 1304,
+      "endFrame": 1471
+    },
+    {
+      "index": 8,
+      "text": "Pakistan remains strategically relevant. But by the numbers, India wins this race.",
+      "startFrame": 1483,
+      "endFrame": 1642
+    }
+  ]
+}

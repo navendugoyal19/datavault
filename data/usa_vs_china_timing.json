@@ -1,0 +1,90 @@
+{
+  "voice": "af_bella",
+  "speed": 0.95,
+  "fps": 30,
+  "sample_rate": 24000,
+  "duration_seconds": 78.405,
+  "duration_frames": 2353,
+  "lines": [
+    {
+      "index": 0,
+      "text": "USA versus China. Who wins?",
+      "start_seconds": 0.0,
+      "end_seconds": 3.175,
+      "start_frame": 0,
+      "end_frame": 95
+    },
+    {
+      "index": 1,
+      "text": "Population. China dominates with 1.4 billion people. The USA has 340 million.",
+      "start_seconds": 3.395,
+      "end_seconds": 11.32,
+      "start_frame": 102,
+      "end_frame": 340
+    },
+    {
+      "index": 2,
+      "text": "GDP. The United States takes this one at 28.8 trillion dollars. China follows with 18.5 trillion.",
+      "start_seconds": 11.54,
+      "end_seconds": 20.94,
+      "start_frame": 346,
+      "end_frame": 628
+    },
+    {
+      "index": 3,
+      "text": "Land Area. China edges ahead with 9.6 million square kilometers. The US has 9.8 million. USA wins.",
+      "start_seconds": 21.16,
+      "end_seconds": 31.16,
+      "start_frame": 635,
+      "end_frame": 935
+    },
+    {
+      "index": 4,
+      "text": "Military Personnel. China leads with over 2 million active soldiers. The US has 1.4 million.",
+      "start_seconds": 31.38,
+      "end_seconds": 39.755,
+      "start_frame": 941,
+      "end_frame": 1193
+    },
+    {
+      "index": 5,
+      "text": "Nuclear Warheads. The USA dominates with 5,550 warheads. China has just 500.",
+      "start_seconds": 39.975,
+      "end_seconds": 48.5,
+      "start_frame": 1199,
+      "end_frame": 1455
+    },
+    {
+      "index": 6,
+      "text": "Olympic Medals. The USA leads all time with 2,636 medals. China has 696.",
+      "start_seconds": 48.72,
+      "end_seconds": 57.77,
+      "start_frame": 1462,
+      "end_frame": 1733
+    },
+    {
+      "index": 7,
+      "text": "Internet Users. China wins with 1.05 billion users. The US has 312 million.",
+      "start_seconds": 57.99,
+      "end_seconds": 66.69,
+      "start_frame": 1740,
+      "end_frame": 2001
+    },
+    {
+      "index": 8,
+      "text": "Life Expectancy. It's extremely close. China at 78 years, USA at 77.",
+      "start_seconds": 66.91,
+      "end_seconds": 74.26,
+      "start_frame": 2007,
+      "end_frame": 2228
+    },
+    {
+      "index": 9,
+      "text": "The final score. Four to four. It's a perfect tie!",
+      "start_seconds": 74.48,
+      "end_seconds": 78.405,
+      "start_frame": 2234,
+      "end_frame": 2352
+    }
+  ]
+}

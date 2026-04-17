@@ -1,0 +1,31 @@
+{
+  "mode": "country",
+  "title": "INDIA VS PAKISTAN",
+  "subtitle": "ECONOMY GAP BY THE NUMBERS",
+  "countryA": "INDIA",
+  "countryB": "PAKISTAN",
+  "flagA": "🇮🇳",
+  "flagB": "🇵🇰",
+  "colorA": "#FF9933",
+  "colorB": "#0B8457",
+  "stats": [
+    {
+      "label": "GDP",
+      "valueA": 3909891533858,
+      "valueB": 371570000121,
+      "unit": "USD"
+    },
+    {
+      "label": "GDP PER CAPITA",
+      "valueA": 2695,
+      "valueB": 1479,
+      "unit": "USD"
+    },
+    {
+      "label": "EQUITY MARKET CAP",
+      "valueA": 5000000000000,
+      "valueB": 30000000000,
+      "unit": "USD"
+    }
+  ]
+}

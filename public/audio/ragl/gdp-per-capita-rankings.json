@@ -1,0 +1,90 @@
+{
+  "voice": "af_bella",
+  "speed": 0.95,
+  "fps": 30,
+  "sample_rate": 24000,
+  "duration_seconds": 66.58,
+  "duration_frames": 1998,
+  "lines": [
+    {
+      "index": 0,
+      "text": "This is how wealth per person changed across the world, from 1960 to 2024.",
+      "start_seconds": 0.0,
+      "end_seconds": 6.8,
+      "start_frame": 0,
+      "end_frame": 204
+    },
+    {
+      "index": 1,
+      "text": "At the start, United States leads, with New Zealand and Canada right behind.",
+      "start_seconds": 7.02,
+      "end_seconds": 12.995,
+      "start_frame": 211,
+      "end_frame": 390
+    },
+    {
+      "index": 2,
+      "text": "By 1971, Monaco moves into first place, pushing United States off the top spot.",
+      "start_seconds": 13.215,
+      "end_seconds": 20.49,
+      "start_frame": 396,
+      "end_frame": 615
+    },
+    {
+      "index": 3,
+      "text": "By 1981, Brunei Darussalam moves into first place, pushing Monaco off the top spot.",
+      "start_seconds": 20.71,
+      "end_seconds": 28.11,
+      "start_frame": 621,
+      "end_frame": 843
+    },
+    {
+      "index": 4,
+      "text": "By 1992, Monaco moves into first place, pushing Brunei Darussalam off the top spot.",
+      "start_seconds": 28.33,
+      "end_seconds": 35.755,
+      "start_frame": 850,
+      "end_frame": 1073
+    },
+    {
+      "index": 5,
+      "text": "In 2003, the front of the table is Monaco, Liechtenstein, and Bermuda.",
+      "start_seconds": 35.975,
+      "end_seconds": 41.925,
+      "start_frame": 1079,
+      "end_frame": 1258
+    },
+    {
+      "index": 6,
+      "text": "In 2013, the front of the table is Monaco, Liechtenstein, and Luxembourg.",
+      "start_seconds": 42.145,
+      "end_seconds": 48.195,
+      "start_frame": 1264,
+      "end_frame": 1446
+    },
+    {
+      "index": 7,
+      "text": "By 2024, the leading names are Monaco, Bermuda, Luxembourg.",
+      "start_seconds": 48.415,
+      "end_seconds": 54.015,
+      "start_frame": 1452,
+      "end_frame": 1620
+    },
+    {
+      "index": 8,
+      "text": "The big story here is the difference between large economies and truly rich societies.",
+      "start_seconds": 54.235,
+      "end_seconds": 60.685,
+      "start_frame": 1627,
+      "end_frame": 1821
+    },
+    {
+      "index": 9,
+      "text": "Follow Datavault for more animated data stories driven by real numbers.",
+      "start_seconds": 60.905,
+      "end_seconds": 66.58,
+      "start_frame": 1827,
+      "end_frame": 1997
+    }
+  ]
+}

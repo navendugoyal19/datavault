@@ -1,0 +1,72 @@
+{
+  "lines": [
+    "India versus Pakistan. Quality of life only. Who comes out ahead?",
+    "Life expectancy favors India. Roughly 72 years versus 67 point 8.",
+    "Internet access also leans India, which changes education, work, and services.",
+    "GDP per person still favors India, though neither country is rich by global standards.",
+    "Infant mortality and health access remain major development challenges for both sides.",
+    "Literacy and school access are closer, but India still has the larger system and more capacity.",
+    "Pakistan faces similar pressures with fewer resources and a smaller economy.",
+    "So the overall quality-of-life picture is mixed, but India has the stronger baseline by the numbers.",
+    "Neither country is perfect. But on this scoreboard, India still leads."
+  ],
+  "data": {
+    "countryA": "INDIA",
+    "countryB": "PAKISTAN",
+    "flagA": "🇮🇳",
+    "flagB": "🇵🇰",
+    "colorA": "#FF9933",
+    "colorB": "#0B8457",
+    "stats": [
+      {
+        "label": "Life Expectancy",
+        "valueA": 72.235,
+        "valueB": 67.799,
+        "unit": "years",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Internet Access",
+        "valueA": 70,
+        "valueB": 57.253,
+        "unit": "%",
+        "higherIsBetter": true
+      },
+      {
+        "label": "GDP Per Capita",
+        "valueA": 2695,
+        "valueB": 1479,
+        "unit": "USD",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Infant Survival",
+        "valueA": 97,
+        "valueB": 92,
+        "unit": "score",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Literacy Estimate",
+        "valueA": 78,
+        "valueB": 62,
+        "unit": "%",
+        "higherIsBetter": true
+      }
+    ]
+  },
+  "seo": {
+    "title": "India vs Pakistan — Quality of Life Battle 📊",
+    "description": "India vs Pakistan quality of life comparison: life expectancy, internet access, GDP per capita, literacy, and core living indicators.\n\n#shorts #india #pakistan #qualityoflife #comparison #datavault",
+    "tags": [
+      "India vs Pakistan",
+      "quality of life",
+      "India",
+      "Pakistan",
+      "life expectancy",
+      "literacy",
+      "shorts",
+      "datavault"
+    ]
+  }
+}

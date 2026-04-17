@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" width="150" height="150">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- DV monogram - semi-transparent -->
+  <g filter="url(#glow)" opacity="0.45">
+    <!-- D -->
+    <path d="M 25,35 L 25,115 L 55,115 Q 85,115 85,75 Q 85,35 55,35 Z"
+          fill="none" stroke="#00E5FF" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+    <!-- V -->
+    <path d="M 78,35 L 105,115 L 132,35"
+          fill="none" stroke="#00E5FF" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+
+  <!-- Tiny accent bar -->
+  <rect x="100" y="105" width="4" height="10" rx="1" fill="#FFB800" opacity="0.35"/>
+  <rect x="108" y="98" width="4" height="17" rx="1" fill="#00E5FF" opacity="0.3"/>
+  <rect x="116" y="92" width="4" height="23" rx="1" fill="#00E5FF" opacity="0.35"/>
+</svg>

@@ -1,0 +1,90 @@
+{
+  "lines": [
+    "India versus Pakistan. Military only. Who wins?",
+    "Active personnel gives India the first edge. About 1 point 43 million versus 660 thousand.",
+    "Defense budget is where the gap explodes. India spends about 109 billion dollars. Pakistan is near 9 billion.",
+    "Total aircraft also favor India. About 2,183 versus 1,397.",
+    "Fighter aircraft are closer, but India still leads. 476 versus 331.",
+    "Tank strength goes to India too. 3,913 tanks versus 2,677.",
+    "At sea, India has overwhelming depth. 343 naval assets versus 120.",
+    "But nuclear warheads are far closer. India is estimated around 190. Pakistan around 170.",
+    "So in conventional military depth, India wins clearly. But the nuclear balance keeps the rivalry dangerous."
+  ],
+  "data": {
+    "countryA": "INDIA",
+    "countryB": "PAKISTAN",
+    "flagA": "🇮🇳",
+    "flagB": "🇵🇰",
+    "colorA": "#FF9933",
+    "colorB": "#0B8457",
+    "stats": [
+      {
+        "label": "Active Personnel",
+        "valueA": 1431000,
+        "valueB": 660000,
+        "unit": "active",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Defense Budget",
+        "valueA": 109000000000,
+        "valueB": 9102115350,
+        "unit": "USD",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Total Aircraft",
+        "valueA": 2183,
+        "valueB": 1397,
+        "unit": "aircraft",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Fighter Aircraft",
+        "valueA": 476,
+        "valueB": 331,
+        "unit": "fighters",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Tank Strength",
+        "valueA": 3913,
+        "valueB": 2677,
+        "unit": "tanks",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Fleet Strength",
+        "valueA": 343,
+        "valueB": 120,
+        "unit": "assets",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Nuclear Warheads",
+        "valueA": 190,
+        "valueB": 170,
+        "unit": "warheads",
+        "higherIsBetter": true
+      }
+    ]
+  },
+  "seo": {
+    "title": "India vs Pakistan — Who Wins Militarily? 🇮🇳🇵🇰",
+    "description": "India vs Pakistan military comparison: active troops, defense budget, aircraft, fighters, tanks, naval assets, and nuclear warheads.\n\n#shorts #india #pakistan #military #comparison #datavault",
+    "tags": [
+      "India vs Pakistan",
+      "military comparison",
+      "India",
+      "Pakistan",
+      "defense budget",
+      "fighter aircraft",
+      "nuclear warheads",
+      "shorts",
+      "datavault"
+    ],
+    "published_url": "https://youtube.com/shorts/Ea8pKp_I-DQ",
+    "share_url": "https://youtube.com/shorts/Ea8pKp_I-DQ?feature=share",
+    "video_id": "Ea8pKp_I-DQ"
+  }
+}

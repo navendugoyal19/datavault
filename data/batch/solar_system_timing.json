@@ -1,0 +1,74 @@
+{
+  "voice": "af_bella",
+  "speed": 0.95,
+  "fps": 30,
+  "sample_rate": 24000,
+  "duration_seconds": 55.74,
+  "duration_frames": 1673,
+  "lines": [
+    {
+      "index": 0,
+      "text": "The planets of our solar system. Smallest to largest.",
+      "start_seconds": 0.0,
+      "end_seconds": 4.175,
+      "start_frame": 0,
+      "end_frame": 125
+    },
+    {
+      "index": 1,
+      "text": "Mercury. The smallest planet. Just 4,879 kilometers across.",
+      "start_seconds": 4.395,
+      "end_seconds": 11.245,
+      "start_frame": 132,
+      "end_frame": 337
+    },
+    {
+      "index": 2,
+      "text": "Mars. The red planet. 6,779 kilometers.",
+      "start_seconds": 11.465,
+      "end_seconds": 17.39,
+      "start_frame": 344,
+      "end_frame": 522
+    },
+    {
+      "index": 3,
+      "text": "Venus. Almost the same size as Earth. 12,104 kilometers.",
+      "start_seconds": 17.61,
+      "end_seconds": 23.91,
+      "start_frame": 528,
+      "end_frame": 717
+    },
+    {
+      "index": 4,
+      "text": "Earth. Our home. 12,742 kilometers.",
+      "start_seconds": 24.13,
+      "end_seconds": 29.48,
+      "start_frame": 724,
+      "end_frame": 884
+    },
+    {
+      "index": 5,
+      "text": "Neptune. The first ice giant. 49,528 kilometers. Nearly 4 times wider than Earth.",
+      "start_seconds": 29.7,
+      "end_seconds": 38.675,
+      "start_frame": 891,
+      "end_frame": 1160
+    },
+    {
+      "index": 6,
+      "text": "Saturn. Famous for its rings. 116,460 kilometers across.",
+      "start_seconds": 38.895,
+      "end_seconds": 45.945,
+      "start_frame": 1167,
+      "end_frame": 1378
+    },
+    {
+      "index": 7,
+      "text": "Jupiter. The king of planets. 139,820 kilometers. You could fit every other planet inside it.",
+      "start_seconds": 46.165,
+      "end_seconds": 55.74,
+      "start_frame": 1385,
+      "end_frame": 1672
+    }
+  ]
+}

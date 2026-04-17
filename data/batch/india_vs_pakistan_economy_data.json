@@ -1,0 +1,76 @@
+{
+  "lines": [
+    "India versus Pakistan. Economy only. Who wins?",
+    "GDP is the biggest gap. India is near 3 point 9 trillion dollars. Pakistan is around 372 billion.",
+    "GDP per person also favors India. About 2.7 thousand dollars versus 1.5 thousand.",
+    "Foreign exchange reserves are another major difference. India has far deeper buffers.",
+    "Exports also lean heavily toward India thanks to scale in services, manufacturing, and refined goods.",
+    "Stock market depth is not even close. India has one of the largest equity markets in the world.",
+    "Pakistan still matters regionally, but by economic scale and resilience, India is on another level.",
+    "That means more fiscal room, more import capacity, and more long-term strategic flexibility.",
+    "So by the economic numbers, India wins this battle comfortably."
+  ],
+  "data": {
+    "countryA": "INDIA",
+    "countryB": "PAKISTAN",
+    "flagA": "🇮🇳",
+    "flagB": "🇵🇰",
+    "colorA": "#FF9933",
+    "colorB": "#0B8457",
+    "stats": [
+      {
+        "label": "GDP",
+        "valueA": 3909891533858,
+        "valueB": 371570000121,
+        "unit": "USD",
+        "higherIsBetter": true
+      },
+      {
+        "label": "GDP Per Capita",
+        "valueA": 2695,
+        "valueB": 1479,
+        "unit": "USD",
+        "higherIsBetter": true
+      },
+      {
+        "label": "FX Reserves",
+        "valueA": 640000000000,
+        "valueB": 15000000000,
+        "unit": "USD",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Exports",
+        "valueA": 770000000000,
+        "valueB": 39000000000,
+        "unit": "USD",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Equity Market Cap",
+        "valueA": 5000000000000,
+        "valueB": 30000000000,
+        "unit": "USD",
+        "higherIsBetter": true
+      }
+    ]
+  },
+  "seo": {
+    "title": "India vs Pakistan — Economy Gap by the Numbers 💰",
+    "description": "India vs Pakistan economy comparison: GDP, GDP per capita, reserves, exports, and market depth.\n\n#shorts #india #pakistan #economy #comparison #datavault",
+    "tags": [
+      "India vs Pakistan",
+      "economy gap",
+      "India",
+      "Pakistan",
+      "GDP",
+      "reserves",
+      "exports",
+      "shorts",
+      "datavault"
+    ],
+    "published_url": "https://youtube.com/shorts/yjBt5eECfEw",
+    "share_url": "https://youtube.com/shorts/yjBt5eECfEw?feature=share",
+    "video_id": "yjBt5eECfEw"
+  }
+}

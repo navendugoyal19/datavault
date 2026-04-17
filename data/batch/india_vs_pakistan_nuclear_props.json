@@ -1,0 +1,102 @@
+{
+  "countryA": "INDIA",
+  "countryB": "PAKISTAN",
+  "flagA": "🇮🇳",
+  "flagB": "🇵🇰",
+  "colorA": "#FF9933",
+  "colorB": "#0B8457",
+  "stats": [
+    {
+      "label": "Estimated Warheads",
+      "valueA": 190,
+      "valueB": 170,
+      "unit": "warheads",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Ballistic Missile Types",
+      "valueA": 6,
+      "valueB": 5,
+      "unit": "systems",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Sea-Based Deterrent",
+      "valueA": 3,
+      "valueB": 1,
+      "unit": "score",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Tactical Nuclear Emphasis",
+      "valueA": 2,
+      "valueB": 4,
+      "unit": "score",
+      "higherIsBetter": false
+    },
+    {
+      "label": "Second-Strike Depth",
+      "valueA": 4,
+      "valueB": 2,
+      "unit": "score",
+      "higherIsBetter": true
+    }
+  ],
+  "narrationSrc": "audio/india_vs_pakistan_nuclear_narration.mp3",
+  "timingLines": [
+    {
+      "index": 0,
+      "text": "India versus Pakistan. Nuclear balance only. Who has the edge?",
+      "startFrame": 0,
+      "endFrame": 135
+    },
+    {
+      "index": 1,
+      "text": "Start with total estimated warheads. India is around 190. Pakistan about 170. That is close.",
+      "startFrame": 147,
+      "endFrame": 381
+    },
+    {
+      "index": 2,
+      "text": "Land based missiles matter next. Both have multiple short and medium range systems ready for deterrence.",
+      "startFrame": 393,
+      "endFrame": 573
+    },
+    {
+      "index": 3,
+      "text": "Sea based deterrence is where India gains a strategic advantage with a growing submarine leg.",
+      "startFrame": 585,
+      "endFrame": 751
+    },
+    {
+      "index": 4,
+      "text": "Pakistan still relies heavily on rapid-response land systems and tactical nuclear signaling.",
+      "startFrame": 763,
+      "endFrame": 947
+    },
+    {
+      "index": 5,
+      "text": "So in total warheads, the gap is small. In survivable second strike capability, India looks stronger.",
+      "startFrame": 959,
+      "endFrame": 1167
+    },
+    {
+      "index": 6,
+      "text": "But the main story is not domination. The real story is that both sides can inflict catastrophic damage.",
+      "startFrame": 1179,
+      "endFrame": 1374
+    },
+    {
+      "index": 7,
+      "text": "That means the nuclear balance stays extremely dangerous, even if one side has a slight structural edge.",
+      "startFrame": 1386,
+      "endFrame": 1573
+    },
+    {
+      "index": 8,
+      "text": "So by pure deterrence math, India may have the broader posture. But this is the closest rivalry in the series.",
+      "startFrame": 1585,
+      "endFrame": 1801
+    }
+  ]
+}

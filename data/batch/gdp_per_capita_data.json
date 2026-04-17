@@ -1,0 +1,74 @@
+{
+  "lines": [
+    "The richest countries in the world by GDP per capita.",
+    "Number 8. United Arab Emirates. 50 thousand dollars per person.",
+    "Number 7. Australia. 65 thousand dollars.",
+    "Number 6. Denmark. 68 thousand.",
+    "Number 5. Netherlands. 70 thousand.",
+    "Number 4. United States. 80 thousand dollars per person.",
+    "Number 3. Singapore. 88 thousand.",
+    "Number 2. Ireland. 105 thousand dollars.",
+    "And number 1. Luxembourg. 131 thousand dollars per person. The richest country on Earth."
+  ],
+  "items": [
+    {
+      "name": "UAE",
+      "size": 50000,
+      "unit": "USD",
+      "color": "#009739"
+    },
+    {
+      "name": "Australia",
+      "size": 65000,
+      "unit": "USD",
+      "color": "#FFB800"
+    },
+    {
+      "name": "Denmark",
+      "size": 68000,
+      "unit": "USD",
+      "color": "#C60C30"
+    },
+    {
+      "name": "Netherlands",
+      "size": 70000,
+      "unit": "USD",
+      "color": "#FF6B35"
+    },
+    {
+      "name": "USA",
+      "size": 80000,
+      "unit": "USD",
+      "color": "#3A86FF"
+    },
+    {
+      "name": "Singapore",
+      "size": 88000,
+      "unit": "USD",
+      "color": "#FF3D5A"
+    },
+    {
+      "name": "Ireland",
+      "size": 105000,
+      "unit": "USD",
+      "color": "#00FF6A"
+    },
+    {
+      "name": "Luxembourg",
+      "size": 131000,
+      "unit": "USD",
+      "color": "#00E5FF"
+    }
+  ],
+  "seo": {
+    "title": "Richest Countries by GDP Per Capita \ud83d\udcb0 #1 Will Surprise You",
+    "tags": [
+      "richest countries",
+      "GDP per capita",
+      "Luxembourg",
+      "wealth comparison",
+      "shorts",
+      "datavault"
+    ]
+  }
+}

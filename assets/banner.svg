@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2560 1440" width="2560" height="1440">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06081A"/>
+      <stop offset="50%" stop-color="#090D22"/>
+      <stop offset="100%" stop-color="#0C1029"/>
+    </linearGradient>
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00E5FF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="lineGradV" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00E5FF" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="lineGradH" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00E5FF" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="textGlow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="bigGlow">
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="2560" height="1440" fill="url(#bgGradient)"/>
+
+  <!-- Subtle grid lines -->
+  <g>
+    <!-- Vertical lines -->
+    <line x1="480" y1="0" x2="480" y2="1440" stroke="url(#lineGradV)" stroke-width="0.5"/>
+    <line x1="720" y1="0" x2="720" y2="1440" stroke="url(#lineGradV)" stroke-width="0.5"/>
+    <line x1="960" y1="0" x2="960" y2="1440" stroke="url(#lineGradV)" stroke-width="0.5"/>
+    <line x1="1200" y1="0" x2="1200" y2="1440" stroke="url(#lineGradV)" stroke-width="0.5"/>
+    <line x1="1440" y1="0" x2="1440" y2="1440" stroke="url(#lineGradV)" stroke-width="0.5"/>
+    <line x1="1680" y1="0" x2="1680" y2="1440" stroke="url(#lineGradV)" stroke-width="0.5"/>
+    <line x1="1920" y1="0" x2="1920" y2="1440" stroke="url(#lineGradV)" stroke-width="0.5"/>
+    <line x1="2160" y1="0" x2="2160" y2="1440" stroke="url(#lineGradV)" stroke-width="0.5"/>
+    <!-- Horizontal lines -->
+    <line x1="0" y1="360" x2="2560" y2="360" stroke="url(#lineGradH)" stroke-width="0.5"/>
+    <line x1="0" y1="600" x2="2560" y2="600" stroke="url(#lineGradH)" stroke-width="0.5"/>
+    <line x1="0" y1="840" x2="2560" y2="840" stroke="url(#lineGradH)" stroke-width="0.5"/>
+    <line x1="0" y1="1080" x2="2560" y2="1080" stroke="url(#lineGradH)" stroke-width="0.5"/>
+  </g>
+
+  <!-- Floating data bars - left side -->
+  <g opacity="0.12">
+    <rect x="120" y="500" width="10" height="60" rx="2" fill="#00E5FF"/>
+    <rect x="140" y="520" width="10" height="40" rx="2" fill="#00E5FF"/>
+    <rect x="160" y="480" width="10" height="80" rx="2" fill="#FFB800"/>
+    <rect x="180" y="510" width="10" height="50" rx="2" fill="#00E5FF"/>
+    <rect x="200" y="470" width="10" height="90" rx="2" fill="#00E5FF"/>
+
+    <rect x="300" y="850" width="8" height="45" rx="2" fill="#00E5FF"/>
+    <rect x="316" y="830" width="8" height="65" rx="2" fill="#00E5FF"/>
+    <rect x="332" y="860" width="8" height="35" rx="2" fill="#FFB800"/>
+    <rect x="348" y="810" width="8" height="85" rx="2" fill="#00E5FF"/>
+  </g>
+
+  <!-- Floating data bars - right side -->
+  <g opacity="0.12">
+    <rect x="2340" y="550" width="10" height="50" rx="2" fill="#00E5FF"/>
+    <rect x="2360" y="520" width="10" height="80" rx="2" fill="#FFB800"/>
+    <rect x="2380" y="540" width="10" height="60" rx="2" fill="#00E5FF"/>
+    <rect x="2400" y="500" width="10" height="100" rx="2" fill="#00E5FF"/>
+    <rect x="2420" y="530" width="10" height="70" rx="2" fill="#00E5FF"/>
+
+    <rect x="2200" y="820" width="8" height="55" rx="2" fill="#00E5FF"/>
+    <rect x="2216" y="800" width="8" height="75" rx="2" fill="#00E5FF"/>
+    <rect x="2232" y="840" width="8" height="35" rx="2" fill="#FFB800"/>
+    <rect x="2248" y="790" width="8" height="85" rx="2" fill="#00E5FF"/>
+  </g>
+
+  <!-- Floating data points scattered -->
+  <g opacity="0.08">
+    <circle cx="350" cy="400" r="3" fill="#00E5FF"/>
+    <circle cx="520" cy="350" r="2" fill="#00E5FF"/>
+    <circle cx="680" cy="420" r="3" fill="#FFB800"/>
+    <circle cx="450" cy="1050" r="2" fill="#00E5FF"/>
+    <circle cx="600" cy="980" r="3" fill="#00E5FF"/>
+    <circle cx="2100" cy="380" r="3" fill="#00E5FF"/>
+    <circle cx="1950" cy="430" r="2" fill="#FFB800"/>
+    <circle cx="2200" cy="1020" r="3" fill="#00E5FF"/>
+    <circle cx="2050" cy="1060" r="2" fill="#00E5FF"/>
+    <circle cx="1900" cy="990" r="3" fill="#00E5FF"/>
+  </g>
+
+  <!-- Pulse line - left decoration -->
+  <polyline points="80,720 200,720 240,680 280,750 320,690 360,720 500,720"
+            fill="none" stroke="#00E5FF" stroke-width="1.5" opacity="0.1"/>
+
+  <!-- Pulse line - right decoration -->
+  <polyline points="2060,720 2180,720 2220,680 2260,750 2300,690 2340,720 2480,720"
+            fill="none" stroke="#00E5FF" stroke-width="1.5" opacity="0.1"/>
+
+  <!-- Central glow behind text -->
+  <ellipse cx="1280" cy="680" rx="400" ry="120" fill="#00E5FF" opacity="0.03" filter="url(#bigGlow)"/>
+
+  <!-- DATAVAULT main text -->
+  <text x="1280" y="700" text-anchor="middle" font-family="'Space Grotesk', 'Inter', 'Segoe UI', sans-serif"
+        font-weight="700" font-size="140" fill="#FFFFFF" letter-spacing="16" filter="url(#textGlow)">
+    DATAVAULT
+  </text>
+
+  <!-- Cyan underline accent -->
+  <rect x="880" y="740" width="800" height="3" rx="1.5" fill="url(#cyanGrad)"/>
+
+  <!-- Tagline -->
+  <text x="1280" y="810" text-anchor="middle" font-family="'Space Grotesk', 'Inter', 'Segoe UI', sans-serif"
+        font-weight="400" font-size="36" fill="#00E5FF" letter-spacing="12" opacity="0.7">
+    DATA
+    <tspan dx="10" fill="#FFFFFF" opacity="0.3">&#x2022;</tspan>
+    <tspan dx="10" fill="#00E5FF">VISUALIZED</tspan>
+    <tspan dx="10" fill="#FFFFFF" opacity="0.3">&#x2022;</tspan>
+    <tspan dx="10" fill="#00E5FF">COMPARED</tspan>
+  </text>
+
+  <!-- TV-safe area indicator (invisible in production, useful as reference) -->
+  <!-- Safe area: centered 1546x423 => x: 507, y: 508.5, w: 1546, h: 423 -->
+  <!--<rect x="507" y="509" width="1546" height="423" fill="none" stroke="red" stroke-width="1" stroke-dasharray="8,4" opacity="0.3"/>-->
+</svg>

@@ -1,0 +1,75 @@
+{
+  "lines": [
+    "India versus Pakistan. Cricket only. Who wins?",
+    "Start with World Cups. India leads with two ODI World Cups. Pakistan has one.",
+    "In T20 World Cups, India also leads with two titles. Pakistan has one.",
+    "Champions Trophy is tighter. Pakistan has one major edge there.",
+    "Head to head history across formats is mixed, but India has dominated the biggest World Cup meetings.",
+    "Star power and batting depth also give India a strong modern advantage.",
+    "Pakistan still has explosive pace bowling and can beat anyone on the day.",
+    "But if the question is who owns the bigger cricket resume, India comes out ahead.",
+    "So in the cricket rivalry, Pakistan is always dangerous. But the numbers still lean India."
+  ],
+  "data": {
+    "countryA": "INDIA",
+    "countryB": "PAKISTAN",
+    "flagA": "🇮🇳",
+    "flagB": "🇵🇰",
+    "colorA": "#FF9933",
+    "colorB": "#0B8457",
+    "stats": [
+      {
+        "label": "ODI World Cups",
+        "valueA": 2,
+        "valueB": 1,
+        "unit": "titles",
+        "higherIsBetter": true
+      },
+      {
+        "label": "T20 World Cups",
+        "valueA": 2,
+        "valueB": 1,
+        "unit": "titles",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Champions Trophy",
+        "valueA": 2,
+        "valueB": 1,
+        "unit": "titles",
+        "higherIsBetter": true
+      },
+      {
+        "label": "World Cup Head-to-Head",
+        "valueA": 8,
+        "valueB": 0,
+        "unit": "wins",
+        "higherIsBetter": true
+      },
+      {
+        "label": "ICC Revenue Share",
+        "valueA": 38,
+        "valueB": 5,
+        "unit": "score",
+        "higherIsBetter": true
+      }
+    ]
+  },
+  "seo": {
+    "title": "India vs Pakistan — Cricket Powerhouse? 🏏",
+    "description": "India vs Pakistan cricket comparison: World Cups, T20 titles, Champions Trophy, head-to-head record, and modern cricket strength.\n\n#shorts #india #pakistan #cricket #comparison #datavault",
+    "tags": [
+      "India vs Pakistan",
+      "cricket rivalry",
+      "India",
+      "Pakistan",
+      "World Cup",
+      "T20",
+      "shorts",
+      "datavault"
+    ],
+    "published_url": "https://youtube.com/shorts/anFfe97zqV4",
+    "share_url": "https://youtube.com/shorts/anFfe97zqV4?feature=share",
+    "video_id": "anFfe97zqV4"
+  }
+}

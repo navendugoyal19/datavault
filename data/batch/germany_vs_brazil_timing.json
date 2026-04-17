@@ -1,0 +1,90 @@
+{
+  "voice": "af_bella",
+  "speed": 0.95,
+  "fps": 30,
+  "sample_rate": 24000,
+  "duration_seconds": 74.88,
+  "duration_frames": 2247,
+  "lines": [
+    {
+      "index": 0,
+      "text": "Germany versus Brazil. Who wins?",
+      "start_seconds": 0.0,
+      "end_seconds": 3.25,
+      "start_frame": 0,
+      "end_frame": 98
+    },
+    {
+      "index": 1,
+      "text": "Population. Brazil leads with 216 million people. Germany has 84 million.",
+      "start_seconds": 3.47,
+      "end_seconds": 10.92,
+      "start_frame": 104,
+      "end_frame": 328
+    },
+    {
+      "index": 2,
+      "text": "GDP. Germany takes this at 4.5 trillion dollars. Brazil follows with 2.1 trillion.",
+      "start_seconds": 11.14,
+      "end_seconds": 19.315,
+      "start_frame": 334,
+      "end_frame": 579
+    },
+    {
+      "index": 3,
+      "text": "Land Area. Brazil is massive at 8.5 million square kilometers. Germany has just 357 thousand.",
+      "start_seconds": 19.535,
+      "end_seconds": 29.06,
+      "start_frame": 586,
+      "end_frame": 872
+    },
+    {
+      "index": 4,
+      "text": "Manufacturing Output. Germany is a powerhouse at 780 billion dollars. Brazil has 260 billion.",
+      "start_seconds": 29.28,
+      "end_seconds": 38.955,
+      "start_frame": 878,
+      "end_frame": 1169
+    },
+    {
+      "index": 5,
+      "text": "FIFA World Cup Wins. Brazil leads all time with 5 World Cups. Germany has 4.",
+      "start_seconds": 39.175,
+      "end_seconds": 46.1,
+      "start_frame": 1175,
+      "end_frame": 1383
+    },
+    {
+      "index": 6,
+      "text": "Life Expectancy. Germany leads at 81 years. Brazil is at 76.",
+      "start_seconds": 46.32,
+      "end_seconds": 52.62,
+      "start_frame": 1390,
+      "end_frame": 1579
+    },
+    {
+      "index": 7,
+      "text": "Forest Coverage. Brazil has 4.9 million square kilometers of forest. Germany has 114 thousand.",
+      "start_seconds": 52.84,
+      "end_seconds": 62.065,
+      "start_frame": 1585,
+      "end_frame": 1862
+    },
+    {
+      "index": 8,
+      "text": "Olympic Medals. Germany leads with 1,350 total medals. Brazil has 150.",
+      "start_seconds": 62.285,
+      "end_seconds": 70.835,
+      "start_frame": 1869,
+      "end_frame": 2125
+    },
+    {
+      "index": 9,
+      "text": "The final score. Five to four. Germany wins!",
+      "start_seconds": 71.055,
+      "end_seconds": 74.88,
+      "start_frame": 2132,
+      "end_frame": 2246
+    }
+  ]
+}

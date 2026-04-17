@@ -1,0 +1,90 @@
+{
+  "voice": "af_bella",
+  "speed": 0.95,
+  "fps": 30,
+  "sample_rate": 24000,
+  "duration_seconds": 66.905,
+  "duration_frames": 2008,
+  "lines": [
+    {
+      "index": 0,
+      "text": "India versus China. Who wins?",
+      "start_seconds": 0.0,
+      "end_seconds": 3.1,
+      "start_frame": 0,
+      "end_frame": 93
+    },
+    {
+      "index": 1,
+      "text": "Population. India has overtaken China with 1.44 billion. China has 1.41 billion.",
+      "start_seconds": 3.32,
+      "end_seconds": 11.695,
+      "start_frame": 100,
+      "end_frame": 351
+    },
+    {
+      "index": 2,
+      "text": "GDP. China dominates at 18.5 trillion dollars. India has 3.7 trillion.",
+      "start_seconds": 11.915,
+      "end_seconds": 19.915,
+      "start_frame": 357,
+      "end_frame": 597
+    },
+    {
+      "index": 3,
+      "text": "Land Area. China is larger at 9.6 million square kilometers. India has 3.3 million.",
+      "start_seconds": 20.135,
+      "end_seconds": 28.26,
+      "start_frame": 604,
+      "end_frame": 848
+    },
+    {
+      "index": 4,
+      "text": "Military Personnel. India has 1.5 million active. China has 2 million.",
+      "start_seconds": 28.48,
+      "end_seconds": 35.28,
+      "start_frame": 854,
+      "end_frame": 1058
+    },
+    {
+      "index": 5,
+      "text": "Nuclear Warheads. China has 500 warheads. India has 172.",
+      "start_seconds": 35.5,
+      "end_seconds": 42.275,
+      "start_frame": 1065,
+      "end_frame": 1268
+    },
+    {
+      "index": 6,
+      "text": "Space Missions. India has 124 missions. China has over 200.",
+      "start_seconds": 42.495,
+      "end_seconds": 49.045,
+      "start_frame": 1275,
+      "end_frame": 1471
+    },
+    {
+      "index": 7,
+      "text": "Cricket World Cups. India leads with 2 World Cup wins. China has zero.",
+      "start_seconds": 49.265,
+      "end_seconds": 55.215,
+      "start_frame": 1478,
+      "end_frame": 1656
+    },
+    {
+      "index": 8,
+      "text": "Internet Users. China leads with 1.05 billion. India has 900 million.",
+      "start_seconds": 55.435,
+      "end_seconds": 62.935,
+      "start_frame": 1663,
+      "end_frame": 1888
+    },
+    {
+      "index": 9,
+      "text": "The final score. Five to four. China wins!",
+      "start_seconds": 63.155,
+      "end_seconds": 66.905,
+      "start_frame": 1895,
+      "end_frame": 2007
+    }
+  ]
+}

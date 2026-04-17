@@ -1,0 +1,67 @@
+{
+  "lines": [
+    "The tallest buildings on Earth. How high do they go?",
+    "Leaning Tower of Pisa. The famous lean. Just 56 meters.",
+    "Statue of Liberty. Standing at 93 meters including the pedestal.",
+    "Big Ben. The iconic London clock tower. 96 meters.",
+    "Eiffel Tower. Once the tallest structure in the world. 330 meters.",
+    "Empire State Building. A New York legend. 443 meters tall.",
+    "Shanghai Tower. China's tallest. 632 meters of glass and steel.",
+    "Burj Khalifa. The king. 828 meters. Nearly a full kilometer into the sky."
+  ],
+  "items": [
+    {
+      "name": "Leaning Tower",
+      "size": 56,
+      "unit": "m",
+      "color": "#F5F5DC"
+    },
+    {
+      "name": "Statue of Liberty",
+      "size": 93,
+      "unit": "m",
+      "color": "#00FF6A"
+    },
+    {
+      "name": "Big Ben",
+      "size": 96,
+      "unit": "m",
+      "color": "#FFB800"
+    },
+    {
+      "name": "Eiffel Tower",
+      "size": 330,
+      "unit": "m",
+      "color": "#8B8FA3"
+    },
+    {
+      "name": "Empire State",
+      "size": 443,
+      "unit": "m",
+      "color": "#3A86FF"
+    },
+    {
+      "name": "Shanghai Tower",
+      "size": 632,
+      "unit": "m",
+      "color": "#FF3D5A"
+    },
+    {
+      "name": "Burj Khalifa",
+      "size": 828,
+      "unit": "m",
+      "color": "#00E5FF"
+    }
+  ],
+  "seo": {
+    "title": "Tallest Buildings Comparison \u2014 How High Can We Build? \ud83c\udfd7\ufe0f",
+    "tags": [
+      "tallest buildings",
+      "Burj Khalifa",
+      "size comparison",
+      "architecture",
+      "shorts",
+      "datavault"
+    ]
+  }
+}

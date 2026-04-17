@@ -1,0 +1,90 @@
+{
+  "voice": "af_bella",
+  "speed": 0.95,
+  "fps": 30,
+  "sample_rate": 24000,
+  "duration_seconds": 64.48,
+  "duration_frames": 1935,
+  "lines": [
+    {
+      "index": 0,
+      "text": "This is how economic size changed across the world, from 1960 to 2024.",
+      "start_seconds": 0.0,
+      "end_seconds": 6.775,
+      "start_frame": 0,
+      "end_frame": 203
+    },
+    {
+      "index": 1,
+      "text": "At the start, United States leads, with Germany and United Kingdom right behind.",
+      "start_seconds": 6.995,
+      "end_seconds": 13.22,
+      "start_frame": 210,
+      "end_frame": 397
+    },
+    {
+      "index": 2,
+      "text": "In 1971, the front of the table is United States, Germany, and Japan.",
+      "start_seconds": 13.44,
+      "end_seconds": 19.765,
+      "start_frame": 403,
+      "end_frame": 593
+    },
+    {
+      "index": 3,
+      "text": "In 1981, the front of the table is United States, Japan, and Germany.",
+      "start_seconds": 19.985,
+      "end_seconds": 26.185,
+      "start_frame": 600,
+      "end_frame": 786
+    },
+    {
+      "index": 4,
+      "text": "In 1992, the front of the table is United States, Japan, and Germany.",
+      "start_seconds": 26.405,
+      "end_seconds": 32.58,
+      "start_frame": 792,
+      "end_frame": 977
+    },
+    {
+      "index": 5,
+      "text": "In 2003, the front of the table is United States, Japan, and Germany.",
+      "start_seconds": 32.8,
+      "end_seconds": 38.9,
+      "start_frame": 984,
+      "end_frame": 1167
+    },
+    {
+      "index": 6,
+      "text": "In 2013, the front of the table is United States, China, and Japan.",
+      "start_seconds": 39.12,
+      "end_seconds": 44.945,
+      "start_frame": 1174,
+      "end_frame": 1348
+    },
+    {
+      "index": 7,
+      "text": "By 2024, the leading names are United States, China, Germany.",
+      "start_seconds": 45.165,
+      "end_seconds": 50.765,
+      "start_frame": 1355,
+      "end_frame": 1523
+    },
+    {
+      "index": 8,
+      "text": "The big story here is how the United States stayed on top while China and India changed the table underneath it.",
+      "start_seconds": 50.985,
+      "end_seconds": 58.585,
+      "start_frame": 1530,
+      "end_frame": 1758
+    },
+    {
+      "index": 9,
+      "text": "Follow Datavault for more animated data stories driven by real numbers.",
+      "start_seconds": 58.805,
+      "end_seconds": 64.48,
+      "start_frame": 1764,
+      "end_frame": 1934
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "version": "datavault-ragl-2026-04-16-v1",
+  "completed": {
+    "world-population-rankings": {
+      "kind": "longform",
+      "title": "How World Population Rankings Changed Since 1960",
+      "url": "https://youtube.com/watch?v=tZ66v3HF5WE",
+      "video_id": "tZ66v3HF5WE",
+      "completed_at": "2026-04-16T04:35:08Z"
+    }
+  },
+  "history": [
+    {
+      "slug": "world-population-rankings",
+      "status": "built_only",
+      "title": "How World Population Rankings Changed Since 1960",
+      "timestamp": "2026-04-16T04:02:40Z"
+    },
+    {
+      "slug": "world-population-rankings",
+      "status": "uploaded",
+      "title": "How World Population Rankings Changed Since 1960",
+      "timestamp": "2026-04-16T04:03:36Z",
+      "url": "https://youtube.com/watch?v=SLZz1ZxcAUg"
+    },
+    {
+      "slug": "world-gdp-race",
+      "status": "uploaded",
+      "title": "The Rise of the World's Largest Economies",
+      "timestamp": "2026-04-16T04:08:13Z",
+      "url": "https://youtube.com/watch?v=Gx51DDQwuCI"
+    },
+    {
+      "slug": "gdp-per-capita-rankings",
+      "status": "uploaded",
+      "title": "GDP Per Person: Who Actually Got Rich",
+      "timestamp": "2026-04-16T04:12:11Z",
+      "url": "https://youtube.com/watch?v=MH-Dxw5f1HU"
+    },
+    {
+      "slug": "world-population-rankings",
+      "status": "deleted_for_rebuild"
+    },
+    {
+      "slug": "world-gdp-race",
+      "status": "deleted_for_rebuild"
+    },
+    {
+      "slug": "gdp-per-capita-rankings",
+      "status": "deleted_for_rebuild"
+    },
+    {
+      "slug": "world-population-rankings",
+      "status": "built_only",
+      "title": "How World Population Rankings Changed Since 1960",
+      "timestamp": "2026-04-16T04:34:12Z"
+    },
+    {
+      "slug": "world-population-rankings",
+      "status": "uploaded",
+      "title": "How World Population Rankings Changed Since 1960",
+      "timestamp": "2026-04-16T04:35:08Z",
+      "url": "https://youtube.com/watch?v=tZ66v3HF5WE"
+    },
+    {
+      "slug": "world-gdp-race",
+      "status": "built_only",
+      "title": "The Rise of the World's Largest Economies",
+      "timestamp": "2026-04-16T04:37:39Z"
+    },
+    {
+      "slug": "world-gdp-race",
+      "status": "built_only",
+      "title": "The Rise of the World's Largest Economies",
+      "timestamp": "2026-04-16T05:07:13Z"
+    }
+  ],
+  "blocked": {
+    "slug": "world-gdp-race",
+    "title": "The Rise of the World's Largest Economies",
+    "status": "quota",
+    "timestamp": "2026-04-16T04:38:53Z",
+    "log": "12:38:51 [INFO] file_cache is only supported with oauth2client<4.0.0\n12:38:51 [INFO] Uploading: 'The Rise of the World's Largest Economies' (9 MB)\n12:38:53 [ERROR] YouTube API quota exceeded — try again tomorrow"
+  }
+}

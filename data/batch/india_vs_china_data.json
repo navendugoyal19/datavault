@@ -1,0 +1,89 @@
+{
+  "lines": [
+    "India versus China. Who wins?",
+    "Population. India has overtaken China with 1.44 billion. China has 1.41 billion.",
+    "GDP. China dominates at 18.5 trillion dollars. India has 3.7 trillion.",
+    "Land Area. China is larger at 9.6 million square kilometers. India has 3.3 million.",
+    "Military Personnel. India has 1.5 million active. China has 2 million.",
+    "Nuclear Warheads. China has 500 warheads. India has 172.",
+    "Space Missions. India has 124 missions. China has over 200.",
+    "Cricket World Cups. India leads with 2 World Cup wins. China has zero.",
+    "Internet Users. China leads with 1.05 billion. India has 900 million.",
+    "The final score. Five to four. China wins!"
+  ],
+  "data": {
+    "countryA": "INDIA",
+    "countryB": "CHINA",
+    "flagA": "\ud83c\uddee\ud83c\uddf3",
+    "flagB": "\ud83c\udde8\ud83c\uddf3",
+    "colorA": "#FF9933",
+    "colorB": "#DE2910",
+    "stats": [
+      {
+        "label": "Population",
+        "valueA": 1440000000,
+        "valueB": 1410000000,
+        "unit": "people",
+        "higherIsBetter": true
+      },
+      {
+        "label": "GDP (Nominal)",
+        "valueA": 3700000000000,
+        "valueB": 18500000000000,
+        "unit": "USD",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Land Area",
+        "valueA": 3287000,
+        "valueB": 9597000,
+        "unit": "km\u00b2",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Military Personnel",
+        "valueA": 1500000,
+        "valueB": 2000000,
+        "unit": "active",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Nuclear Warheads",
+        "valueA": 172,
+        "valueB": 500,
+        "higherIsBetter": true
+      },
+      {
+        "label": "Space Missions",
+        "valueA": 124,
+        "valueB": 200,
+        "higherIsBetter": true
+      },
+      {
+        "label": "Cricket World Cups",
+        "valueA": 2,
+        "valueB": 0,
+        "higherIsBetter": true
+      },
+      {
+        "label": "Internet Users",
+        "valueA": 900000000,
+        "valueB": 1050000000,
+        "unit": "users",
+        "higherIsBetter": true
+      }
+    ]
+  },
+  "seo": {
+    "title": "India vs China \u2014 Who ACTUALLY Wins? \ud83c\uddee\ud83c\uddf3\ud83c\udde8\ud83c\uddf3",
+    "tags": [
+      "India vs China",
+      "country comparison",
+      "India",
+      "China",
+      "population",
+      "shorts",
+      "datavault"
+    ]
+  }
+}

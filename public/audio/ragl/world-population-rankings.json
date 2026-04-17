@@ -1,0 +1,90 @@
+{
+  "voice": "af_bella",
+  "speed": 0.95,
+  "fps": 30,
+  "sample_rate": 24000,
+  "duration_seconds": 61.98,
+  "duration_frames": 1860,
+  "lines": [
+    {
+      "index": 0,
+      "text": "This is how population rankings changed across the world, from 1960 to 2024.",
+      "start_seconds": 0.0,
+      "end_seconds": 7.1,
+      "start_frame": 0,
+      "end_frame": 213
+    },
+    {
+      "index": 1,
+      "text": "At the start, China leads, with India and United States right behind.",
+      "start_seconds": 7.32,
+      "end_seconds": 12.895,
+      "start_frame": 220,
+      "end_frame": 387
+    },
+    {
+      "index": 2,
+      "text": "In 1971, the front of the table is China, India, and United States.",
+      "start_seconds": 13.115,
+      "end_seconds": 19.265,
+      "start_frame": 393,
+      "end_frame": 578
+    },
+    {
+      "index": 3,
+      "text": "In 1981, the front of the table is China, India, and United States.",
+      "start_seconds": 19.485,
+      "end_seconds": 25.335,
+      "start_frame": 585,
+      "end_frame": 760
+    },
+    {
+      "index": 4,
+      "text": "In 1992, the front of the table is China, India, and United States.",
+      "start_seconds": 25.555,
+      "end_seconds": 31.33,
+      "start_frame": 767,
+      "end_frame": 940
+    },
+    {
+      "index": 5,
+      "text": "In 2003, the front of the table is China, India, and United States.",
+      "start_seconds": 31.55,
+      "end_seconds": 37.275,
+      "start_frame": 946,
+      "end_frame": 1118
+    },
+    {
+      "index": 6,
+      "text": "In 2013, the front of the table is China, India, and United States.",
+      "start_seconds": 37.495,
+      "end_seconds": 43.145,
+      "start_frame": 1125,
+      "end_frame": 1294
+    },
+    {
+      "index": 7,
+      "text": "By 2024, the leading names are India, China, United States.",
+      "start_seconds": 43.365,
+      "end_seconds": 48.715,
+      "start_frame": 1301,
+      "end_frame": 1461
+    },
+    {
+      "index": 8,
+      "text": "The big story here is India's climb to the top and the steady rise of Africa's biggest populations.",
+      "start_seconds": 48.935,
+      "end_seconds": 56.085,
+      "start_frame": 1468,
+      "end_frame": 1683
+    },
+    {
+      "index": 9,
+      "text": "Follow Datavault for more animated data stories driven by real numbers.",
+      "start_seconds": 56.305,
+      "end_seconds": 61.98,
+      "start_frame": 1689,
+      "end_frame": 1859
+    }
+  ]
+}

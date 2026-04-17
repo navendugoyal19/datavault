@@ -1,0 +1,31 @@
+{
+  "mode": "country",
+  "title": "INDIA VS PAKISTAN",
+  "subtitle": "CRICKET POWERHOUSE?",
+  "countryA": "INDIA",
+  "countryB": "PAKISTAN",
+  "flagA": "🇮🇳",
+  "flagB": "🇵🇰",
+  "colorA": "#FF9933",
+  "colorB": "#0B8457",
+  "stats": [
+    {
+      "label": "CRICKET",
+      "valueA": 2,
+      "valueB": 1,
+      "unit": "titles"
+    },
+    {
+      "label": "T20 WORLD CUPS",
+      "valueA": 2,
+      "valueB": 1,
+      "unit": "titles"
+    },
+    {
+      "label": "ICC REVENUE SHARE",
+      "valueA": 38,
+      "valueB": 5,
+      "unit": "score"
+    }
+  ]
+}

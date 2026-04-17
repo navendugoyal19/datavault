@@ -1,0 +1,127 @@
+{
+  "countryA": "GERMANY",
+  "countryB": "BRAZIL",
+  "flagA": "🇩🇪",
+  "flagB": "🇧🇷",
+  "colorA": "#FFCC00",
+  "colorB": "#009739",
+  "stats": [
+    {
+      "label": "Population",
+      "valueA": 84000000,
+      "valueB": 216000000,
+      "unit": "people",
+      "higherIsBetter": true
+    },
+    {
+      "label": "GDP (Nominal)",
+      "valueA": 4500000000000,
+      "valueB": 2100000000000,
+      "unit": "USD",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Land Area",
+      "valueA": 357000,
+      "valueB": 8516000,
+      "unit": "km²",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Manufacturing",
+      "valueA": 780000000000,
+      "valueB": 260000000000,
+      "unit": "USD",
+      "higherIsBetter": true
+    },
+    {
+      "label": "FIFA World Cups",
+      "valueA": 4,
+      "valueB": 5,
+      "higherIsBetter": true
+    },
+    {
+      "label": "Life Expectancy",
+      "valueA": 81,
+      "valueB": 76,
+      "unit": "years",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Forest Area",
+      "valueA": 114000,
+      "valueB": 4900000,
+      "unit": "km²",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Olympic Medals",
+      "valueA": 1350,
+      "valueB": 150,
+      "higherIsBetter": true
+    }
+  ],
+  "narrationSrc": "audio/germany_vs_brazil_narration.wav",
+  "timingLines": [
+    {
+      "index": 0,
+      "text": "Germany versus Brazil. Who wins?",
+      "startFrame": 0,
+      "endFrame": 98
+    },
+    {
+      "index": 1,
+      "text": "Population. Brazil leads with 216 million people. Germany has 84 million.",
+      "startFrame": 104,
+      "endFrame": 328
+    },
+    {
+      "index": 2,
+      "text": "GDP. Germany takes this at 4.5 trillion dollars. Brazil follows with 2.1 trillion.",
+      "startFrame": 334,
+      "endFrame": 579
+    },
+    {
+      "index": 3,
+      "text": "Land Area. Brazil is massive at 8.5 million square kilometers. Germany has just 357 thousand.",
+      "startFrame": 586,
+      "endFrame": 872
+    },
+    {
+      "index": 4,
+      "text": "Manufacturing Output. Germany is a powerhouse at 780 billion dollars. Brazil has 260 billion.",
+      "startFrame": 878,
+      "endFrame": 1169
+    },
+    {
+      "index": 5,
+      "text": "FIFA World Cup Wins. Brazil leads all time with 5 World Cups. Germany has 4.",
+      "startFrame": 1175,
+      "endFrame": 1383
+    },
+    {
+      "index": 6,
+      "text": "Life Expectancy. Germany leads at 81 years. Brazil is at 76.",
+      "startFrame": 1390,
+      "endFrame": 1579
+    },
+    {
+      "index": 7,
+      "text": "Forest Coverage. Brazil has 4.9 million square kilometers of forest. Germany has 114 thousand.",
+      "startFrame": 1585,
+      "endFrame": 1862
+    },
+    {
+      "index": 8,
+      "text": "Olympic Medals. Germany leads with 1,350 total medals. Brazil has 150.",
+      "startFrame": 1869,
+      "endFrame": 2125
+    },
+    {
+      "index": 9,
+      "text": "The final score. Five to four. Germany wins!",
+      "startFrame": 2132,
+      "endFrame": 2246
+    }
+  ]
+}

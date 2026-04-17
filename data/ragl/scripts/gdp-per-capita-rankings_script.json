@@ -1,0 +1,54 @@
+{
+  "segments": [
+    {
+      "text": "This is how wealth per person changed across the world, from 1960 to 2024.",
+      "startFrame": 0,
+      "endFrame": 180
+    },
+    {
+      "text": "At the start, United States leads, with New Zealand and Canada right behind.",
+      "startFrame": 180,
+      "endFrame": 360
+    },
+    {
+      "text": "By 1971, Monaco moves into first place, pushing United States off the top spot.",
+      "startFrame": 360,
+      "endFrame": 540
+    },
+    {
+      "text": "By 1981, Brunei Darussalam moves into first place, pushing Monaco off the top spot.",
+      "startFrame": 540,
+      "endFrame": 720
+    },
+    {
+      "text": "By 1992, Monaco moves into first place, pushing Brunei Darussalam off the top spot.",
+      "startFrame": 720,
+      "endFrame": 900
+    },
+    {
+      "text": "In 2003, the front of the table is Monaco, Liechtenstein, and Bermuda.",
+      "startFrame": 900,
+      "endFrame": 1080
+    },
+    {
+      "text": "In 2013, the front of the table is Monaco, Liechtenstein, and Luxembourg.",
+      "startFrame": 1080,
+      "endFrame": 1260
+    },
+    {
+      "text": "By 2024, the leading names are Monaco, Bermuda, Luxembourg.",
+      "startFrame": 1260,
+      "endFrame": 1440
+    },
+    {
+      "text": "The big story here is the difference between large economies and truly rich societies.",
+      "startFrame": 1440,
+      "endFrame": 1620
+    },
+    {
+      "text": "Follow Datavault for more animated data stories driven by real numbers.",
+      "startFrame": 1620,
+      "endFrame": 1800
+    }
+  ]
+}

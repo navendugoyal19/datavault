@@ -1,0 +1,126 @@
+{
+  "countryA": "USA",
+  "countryB": "RUSSIA",
+  "flagA": "🇺🇸",
+  "flagB": "🇷🇺",
+  "colorA": "#3A86FF",
+  "colorB": "#CC0000",
+  "stats": [
+    {
+      "label": "Population",
+      "valueA": 340000000,
+      "valueB": 144000000,
+      "unit": "people",
+      "higherIsBetter": true
+    },
+    {
+      "label": "GDP (Nominal)",
+      "valueA": 28780000000000,
+      "valueB": 2200000000000,
+      "unit": "USD",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Land Area",
+      "valueA": 9834000,
+      "valueB": 17100000,
+      "unit": "km²",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Nuclear Warheads",
+      "valueA": 5550,
+      "valueB": 5977,
+      "higherIsBetter": true
+    },
+    {
+      "label": "Military Personnel",
+      "valueA": 1400000,
+      "valueB": 1300000,
+      "unit": "active",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Olympic Gold Medals",
+      "valueA": 1180,
+      "valueB": 596,
+      "higherIsBetter": true
+    },
+    {
+      "label": "Oil Production",
+      "valueA": 13000000,
+      "valueB": 10800000,
+      "unit": "bbl/day",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Space Firsts",
+      "valueA": 5,
+      "valueB": 4,
+      "higherIsBetter": true
+    }
+  ],
+  "narrationSrc": "audio/usa_vs_russia_narration.wav",
+  "timingLines": [
+    {
+      "index": 0,
+      "text": "USA versus Russia. Who wins?",
+      "startFrame": 0,
+      "endFrame": 98
+    },
+    {
+      "index": 1,
+      "text": "Population. The USA leads with 340 million. Russia has 144 million.",
+      "startFrame": 104,
+      "endFrame": 336
+    },
+    {
+      "index": 2,
+      "text": "GDP. The US dominates at 28.8 trillion dollars. Russia has just 2.2 trillion.",
+      "startFrame": 342,
+      "endFrame": 590
+    },
+    {
+      "index": 3,
+      "text": "Land Area. Russia is the largest country on Earth. 17.1 million square kilometers. The US has 9.8 million.",
+      "startFrame": 597,
+      "endFrame": 903
+    },
+    {
+      "index": 4,
+      "text": "Nuclear Warheads. Russia leads with 5,977 warheads. The USA has 5,550.",
+      "startFrame": 910,
+      "endFrame": 1204
+    },
+    {
+      "index": 5,
+      "text": "Military Personnel. Russia has 1.3 million active. The US has 1.4 million. USA wins.",
+      "startFrame": 1210,
+      "endFrame": 1482
+    },
+    {
+      "index": 6,
+      "text": "Olympic Gold Medals. The USA leads with 1,180 golds. Russia has 596.",
+      "startFrame": 1489,
+      "endFrame": 1741
+    },
+    {
+      "index": 7,
+      "text": "Oil Production. The USA produces 13 million barrels per day. Russia produces 10.8 million.",
+      "startFrame": 1748,
+      "endFrame": 1986
+    },
+    {
+      "index": 8,
+      "text": "Space Achievements. Both pioneered space exploration. Russia was first to space. The USA landed on the moon.",
+      "startFrame": 1992,
+      "endFrame": 2255
+    },
+    {
+      "index": 9,
+      "text": "The final score. Five to three. The USA wins!",
+      "startFrame": 2261,
+      "endFrame": 2389
+    }
+  ]
+}

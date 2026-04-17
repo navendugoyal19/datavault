@@ -1,0 +1,83 @@
+{
+  "lines": [
+    "India versus Pakistan. Air force only. Who wins?",
+    "Start with total aircraft. India leads with about 2,183. Pakistan has about 1,397.",
+    "Fighter aircraft are closer, but India still leads. 476 versus 331.",
+    "Attack aircraft also go to India. 124 versus 90.",
+    "Helicopter strength gives India another edge. 594 versus 379.",
+    "Special mission aircraft matter for surveillance and coordination. India has 72. Pakistan has 27.",
+    "One surprise: trainer aircraft actually favor Pakistan. 563 versus 334.",
+    "So for total airpower, India is ahead in scale, fighters, attack aircraft, helicopters, and support platforms.",
+    "Pakistan stays dangerous in a direct contest, but by the numbers, India wins the air force showdown."
+  ],
+  "data": {
+    "countryA": "INDIA",
+    "countryB": "PAKISTAN",
+    "flagA": "🇮🇳",
+    "flagB": "🇵🇰",
+    "colorA": "#FF9933",
+    "colorB": "#0B8457",
+    "stats": [
+      {
+        "label": "Total Aircraft",
+        "valueA": 2183,
+        "valueB": 1397,
+        "unit": "aircraft",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Fighter Aircraft",
+        "valueA": 476,
+        "valueB": 331,
+        "unit": "fighters",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Attack Aircraft",
+        "valueA": 124,
+        "valueB": 90,
+        "unit": "attack",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Helicopters",
+        "valueA": 594,
+        "valueB": 379,
+        "unit": "helos",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Special Mission",
+        "valueA": 72,
+        "valueB": 27,
+        "unit": "special",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Trainer Aircraft",
+        "valueA": 334,
+        "valueB": 563,
+        "unit": "trainers",
+        "higherIsBetter": true
+      }
+    ]
+  },
+  "seo": {
+    "title": "India vs Pakistan — Air Force Showdown 🇮🇳✈️🇵🇰",
+    "description": "India vs Pakistan air force comparison: total aircraft, fighters, attack aircraft, helicopters, and support aircraft.\n\n#shorts #india #pakistan #airforce #comparison #datavault",
+    "tags": [
+      "India vs Pakistan",
+      "air force showdown",
+      "India",
+      "Pakistan",
+      "fighter aircraft",
+      "military aircraft",
+      "airpower",
+      "shorts",
+      "datavault"
+    ],
+    "published_url": "https://youtube.com/shorts/9TFdQI-GknA",
+    "share_url": "https://youtube.com/shorts/9TFdQI-GknA?feature=share",
+    "video_id": "9TFdQI-GknA"
+  }
+}

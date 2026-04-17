@@ -1,0 +1,74 @@
+{
+  "voice": "af_bella",
+  "speed": 0.95,
+  "fps": 30,
+  "sample_rate": 24000,
+  "duration_seconds": 56.165,
+  "duration_frames": 1685,
+  "lines": [
+    {
+      "index": 0,
+      "text": "How big is the universe? Let's find out.",
+      "start_seconds": 0.0,
+      "end_seconds": 3.3,
+      "start_frame": 0,
+      "end_frame": 99
+    },
+    {
+      "index": 1,
+      "text": "Earth. Our home. 12,742 kilometers across.",
+      "start_seconds": 3.52,
+      "end_seconds": 9.47,
+      "start_frame": 106,
+      "end_frame": 284
+    },
+    {
+      "index": 2,
+      "text": "Jupiter. The giant. 11 times wider than Earth at 139,820 kilometers.",
+      "start_seconds": 9.69,
+      "end_seconds": 17.965,
+      "start_frame": 291,
+      "end_frame": 539
+    },
+    {
+      "index": 3,
+      "text": "The Sun. 1.4 million kilometers. You could fit 1,300 Jupiters inside.",
+      "start_seconds": 18.185,
+      "end_seconds": 25.485,
+      "start_frame": 546,
+      "end_frame": 765
+    },
+    {
+      "index": 4,
+      "text": "UY Scuti. One of the largest known stars. 2.4 billion kilometers across. It would swallow Saturn's orbit.",
+      "start_seconds": 25.705,
+      "end_seconds": 34.68,
+      "start_frame": 771,
+      "end_frame": 1040
+    },
+    {
+      "index": 5,
+      "text": "The Solar System. 18 billion kilometers from edge to edge.",
+      "start_seconds": 34.9,
+      "end_seconds": 39.825,
+      "start_frame": 1047,
+      "end_frame": 1195
+    },
+    {
+      "index": 6,
+      "text": "The Milky Way. Our galaxy. 100,000 light years across. 950 quadrillion kilometers.",
+      "start_seconds": 40.045,
+      "end_seconds": 48.295,
+      "start_frame": 1201,
+      "end_frame": 1449
+    },
+    {
+      "index": 7,
+      "text": "The Observable Universe. 93 billion light years. The scale is beyond human comprehension.",
+      "start_seconds": 48.515,
+      "end_seconds": 56.165,
+      "start_frame": 1455,
+      "end_frame": 1685
+    }
+  ]
+}

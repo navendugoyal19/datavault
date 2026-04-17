@@ -1,0 +1,60 @@
+{
+  "fps": 30,
+  "duration_frames": 2340,
+  "lines": [
+    {
+      "index": 0,
+      "text": "India versus Pakistan. Military only. Who wins?",
+      "start_frame": 0,
+      "end_frame": 120
+    },
+    {
+      "index": 1,
+      "text": "Active personnel gives India the first edge. About 1 point 43 million versus 660 thousand.",
+      "start_frame": 132,
+      "end_frame": 348
+    },
+    {
+      "index": 2,
+      "text": "Defense budget is where the gap explodes. India spends about 109 billion dollars. Pakistan is near 9 billion.",
+      "start_frame": 360,
+      "end_frame": 590
+    },
+    {
+      "index": 3,
+      "text": "Total aircraft also favor India. About 2,183 versus 1,397.",
+      "start_frame": 602,
+      "end_frame": 822
+    },
+    {
+      "index": 4,
+      "text": "Fighter aircraft are closer, but India still leads. 476 versus 331.",
+      "start_frame": 834,
+      "end_frame": 1070
+    },
+    {
+      "index": 5,
+      "text": "Tank strength goes to India too. 3,913 tanks versus 2,677.",
+      "start_frame": 1082,
+      "end_frame": 1296
+    },
+    {
+      "index": 6,
+      "text": "At sea, India has overwhelming depth. 343 naval assets versus 120.",
+      "start_frame": 1308,
+      "end_frame": 1508
+    },
+    {
+      "index": 7,
+      "text": "But nuclear warheads are far closer. India is estimated around 190. Pakistan around 170.",
+      "start_frame": 1520,
+      "end_frame": 1733
+    },
+    {
+      "index": 8,
+      "text": "So in conventional military depth, India wins clearly. But the nuclear balance keeps the rivalry dangerous.",
+      "start_frame": 1745,
+      "end_frame": 1980
+    }
+  ]
+}

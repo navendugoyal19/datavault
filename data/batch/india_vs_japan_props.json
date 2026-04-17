@@ -1,0 +1,127 @@
+{
+  "countryA": "INDIA",
+  "countryB": "JAPAN",
+  "flagA": "🇮🇳",
+  "flagB": "🇯🇵",
+  "colorA": "#FF9933",
+  "colorB": "#BC002D",
+  "stats": [
+    {
+      "label": "Population",
+      "valueA": 1400000000,
+      "valueB": 125000000,
+      "unit": "people",
+      "higherIsBetter": true
+    },
+    {
+      "label": "GDP (Nominal)",
+      "valueA": 3700000000000,
+      "valueB": 4200000000000,
+      "unit": "USD",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Land Area",
+      "valueA": 3287000,
+      "valueB": 378000,
+      "unit": "km²",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Military Personnel",
+      "valueA": 1500000,
+      "valueB": 247000,
+      "unit": "active",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Life Expectancy",
+      "valueA": 70,
+      "valueB": 84,
+      "unit": "years",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Nobel Prizes",
+      "valueA": 13,
+      "valueB": 29,
+      "higherIsBetter": true
+    },
+    {
+      "label": "Internet Users",
+      "valueA": 900000000,
+      "valueB": 117000000,
+      "unit": "users",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Space Missions",
+      "valueA": 120,
+      "valueB": 98,
+      "higherIsBetter": true
+    }
+  ],
+  "narrationSrc": "audio/india_vs_japan_narration.wav",
+  "timingLines": [
+    {
+      "index": 0,
+      "text": "India versus Japan. Who wins?",
+      "startFrame": 0,
+      "endFrame": 96
+    },
+    {
+      "index": 1,
+      "text": "Population. India dominates with 1.4 billion people. Japan has just 125 million.",
+      "startFrame": 103,
+      "endFrame": 349
+    },
+    {
+      "index": 2,
+      "text": "GDP. Japan takes this at 4.2 trillion dollars. India follows with 3.7 trillion.",
+      "startFrame": 355,
+      "endFrame": 599
+    },
+    {
+      "index": 3,
+      "text": "Land Area. India is much larger at 3.3 million square kilometers. Japan has just 378 thousand.",
+      "startFrame": 606,
+      "endFrame": 891
+    },
+    {
+      "index": 4,
+      "text": "Military Personnel. India leads with 1.5 million active soldiers. Japan has 247 thousand.",
+      "startFrame": 897,
+      "endFrame": 1178
+    },
+    {
+      "index": 5,
+      "text": "Life Expectancy. Japan dominates at 84 years. One of the highest in the world. India is at 70.",
+      "startFrame": 1185,
+      "endFrame": 1434
+    },
+    {
+      "index": 6,
+      "text": "Nobel Prizes. Japan leads with 29 Nobel laureates. India has 13.",
+      "startFrame": 1441,
+      "endFrame": 1638
+    },
+    {
+      "index": 7,
+      "text": "Internet Users. India wins with 900 million users. Japan has 117 million.",
+      "startFrame": 1644,
+      "endFrame": 1881
+    },
+    {
+      "index": 8,
+      "text": "Space Missions. India has launched over 120 missions. Japan has launched 98.",
+      "startFrame": 1887,
+      "endFrame": 2106
+    },
+    {
+      "index": 9,
+      "text": "The final score. Five to four. India wins!",
+      "startFrame": 2112,
+      "endFrame": 2228
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "voice": "af_bella",
+  "speed": 0.95,
+  "fps": 30,
+  "sample_rate": 24000,
+  "duration_seconds": 79.63,
+  "duration_frames": 2389,
+  "lines": [
+    {
+      "index": 0,
+      "text": "USA versus Russia. Who wins?",
+      "start_seconds": 0.0,
+      "end_seconds": 3.25,
+      "start_frame": 0,
+      "end_frame": 98
+    },
+    {
+      "index": 1,
+      "text": "Population. The USA leads with 340 million. Russia has 144 million.",
+      "start_seconds": 3.47,
+      "end_seconds": 11.195,
+      "start_frame": 104,
+      "end_frame": 336
+    },
+    {
+      "index": 2,
+      "text": "GDP. The US dominates at 28.8 trillion dollars. Russia has just 2.2 trillion.",
+      "start_seconds": 11.415,
+      "end_seconds": 19.665,
+      "start_frame": 342,
+      "end_frame": 590
+    },
+    {
+      "index": 3,
+      "text": "Land Area. Russia is the largest country on Earth. 17.1 million square kilometers. The US has 9.8 million.",
+      "start_seconds": 19.885,
+      "end_seconds": 30.11,
+      "start_frame": 597,
+      "end_frame": 903
+    },
+    {
+      "index": 4,
+      "text": "Nuclear Warheads. Russia leads with 5,977 warheads. The USA has 5,550.",
+      "start_seconds": 30.33,
+      "end_seconds": 40.13,
+      "start_frame": 910,
+      "end_frame": 1204
+    },
+    {
+      "index": 5,
+      "text": "Military Personnel. Russia has 1.3 million active. The US has 1.4 million. USA wins.",
+      "start_seconds": 40.35,
+      "end_seconds": 49.4,
+      "start_frame": 1210,
+      "end_frame": 1482
+    },
+    {
+      "index": 6,
+      "text": "Olympic Gold Medals. The USA leads with 1,180 golds. Russia has 596.",
+      "start_seconds": 49.62,
+      "end_seconds": 58.045,
+      "start_frame": 1489,
+      "end_frame": 1741
+    },
+    {
+      "index": 7,
+      "text": "Oil Production. The USA produces 13 million barrels per day. Russia produces 10.8 million.",
+      "start_seconds": 58.265,
+      "end_seconds": 66.19,
+      "start_frame": 1748,
+      "end_frame": 1986
+    },
+    {
+      "index": 8,
+      "text": "Space Achievements. Both pioneered space exploration. Russia was first to space. The USA landed on the moon.",
+      "start_seconds": 66.41,
+      "end_seconds": 75.16,
+      "start_frame": 1992,
+      "end_frame": 2255
+    },
+    {
+      "index": 9,
+      "text": "The final score. Five to three. The USA wins!",
+      "start_seconds": 75.38,
+      "end_seconds": 79.63,
+      "start_frame": 2261,
+      "end_frame": 2389
+    }
+  ]
+}

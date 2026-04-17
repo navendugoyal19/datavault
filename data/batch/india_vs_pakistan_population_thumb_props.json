@@ -1,0 +1,31 @@
+{
+  "mode": "country",
+  "title": "INDIA VS PAKISTAN",
+  "subtitle": "POPULATION BATTLE",
+  "countryA": "INDIA",
+  "countryB": "PAKISTAN",
+  "flagA": "🇮🇳",
+  "flagB": "🇵🇰",
+  "colorA": "#FF9933",
+  "colorB": "#0B8457",
+  "stats": [
+    {
+      "label": "POPULATION",
+      "valueA": 1450935791,
+      "valueB": 251269164,
+      "unit": "people"
+    },
+    {
+      "label": "WORKING-AGE POP",
+      "valueA": 980000000,
+      "valueB": 157000000,
+      "unit": "people"
+    },
+    {
+      "label": "MEDIAN AGE EDGE",
+      "valueA": 28,
+      "valueB": 21,
+      "unit": "years"
+    }
+  ]
+}

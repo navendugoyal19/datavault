@@ -1,0 +1,31 @@
+{
+  "mode": "country",
+  "title": "INDIA VS PAKISTAN",
+  "subtitle": "INTERNET & TECH RACE",
+  "countryA": "INDIA",
+  "countryB": "PAKISTAN",
+  "flagA": "🇮🇳",
+  "flagB": "🇵🇰",
+  "colorA": "#FF9933",
+  "colorB": "#0B8457",
+  "stats": [
+    {
+      "label": "TECH",
+      "valueA": 806000000,
+      "valueB": 143000000,
+      "unit": "users"
+    },
+    {
+      "label": "IT EXPORTS",
+      "valueA": 250000000000,
+      "valueB": 3500000000,
+      "unit": "USD"
+    },
+    {
+      "label": "SMARTPHONE MARKET",
+      "valueA": 700000000,
+      "valueB": 140000000,
+      "unit": "users"
+    }
+  ]
+}

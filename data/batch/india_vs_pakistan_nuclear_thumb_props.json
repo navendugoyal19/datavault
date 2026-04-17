@@ -1,0 +1,31 @@
+{
+  "mode": "country",
+  "title": "INDIA VS PAKISTAN",
+  "subtitle": "NUCLEAR BALANCE EXPLAINED",
+  "countryA": "INDIA",
+  "countryB": "PAKISTAN",
+  "flagA": "🇮🇳",
+  "flagB": "🇵🇰",
+  "colorA": "#FF9933",
+  "colorB": "#0B8457",
+  "stats": [
+    {
+      "label": "NUKES",
+      "valueA": 190,
+      "valueB": 170,
+      "unit": "warheads"
+    },
+    {
+      "label": "BALLISTIC MISSILE TYPES",
+      "valueA": 6,
+      "valueB": 5,
+      "unit": "systems"
+    },
+    {
+      "label": "SECOND-STRIKE DEPTH",
+      "valueA": 4,
+      "valueB": 2,
+      "unit": "score"
+    }
+  ]
+}

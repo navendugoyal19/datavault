@@ -1,0 +1,75 @@
+{
+  "lines": [
+    "India versus Pakistan. Population only. Who has the bigger human advantage?",
+    "Total population is the obvious headline. India has about 1 point 45 billion people. Pakistan about 251 million.",
+    "Working-age population also massively favors India, which means a larger labor and recruitment base.",
+    "Urban population is another huge gap. India has far more people concentrated in major economic centers.",
+    "Median age is lower in Pakistan, which means it is younger. But India still wins overall scale by an enormous margin.",
+    "Internet users in absolute numbers are also heavily in India’s favor.",
+    "So if the question is pure demographic weight, this one is not close.",
+    "Pakistan has a young and growing population, but India combines growth with much bigger total scale.",
+    "By population power alone, India wins decisively."
+  ],
+  "data": {
+    "countryA": "INDIA",
+    "countryB": "PAKISTAN",
+    "flagA": "🇮🇳",
+    "flagB": "🇵🇰",
+    "colorA": "#FF9933",
+    "colorB": "#0B8457",
+    "stats": [
+      {
+        "label": "Population",
+        "valueA": 1450935791,
+        "valueB": 251269164,
+        "unit": "people",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Working-Age Pop",
+        "valueA": 980000000,
+        "valueB": 157000000,
+        "unit": "people",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Urban Population",
+        "valueA": 535000000,
+        "valueB": 98000000,
+        "unit": "people",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Internet Users",
+        "valueA": 806000000,
+        "valueB": 143000000,
+        "unit": "users",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Median Age Edge",
+        "valueA": 28,
+        "valueB": 21,
+        "unit": "years",
+        "higherIsBetter": true
+      }
+    ]
+  },
+  "seo": {
+    "title": "India vs Pakistan — Population Battle 🇮🇳👥🇵🇰",
+    "description": "India vs Pakistan population comparison: total population, working-age population, urbanization, internet users, and age profile.\n\n#shorts #india #pakistan #population #comparison #datavault",
+    "tags": [
+      "India vs Pakistan",
+      "population battle",
+      "India",
+      "Pakistan",
+      "demographics",
+      "population",
+      "shorts",
+      "datavault"
+    ],
+    "published_url": "https://youtube.com/shorts/xgqO02XnWdY",
+    "share_url": "https://youtube.com/shorts/xgqO02XnWdY?feature=share",
+    "video_id": "xgqO02XnWdY"
+  }
+}

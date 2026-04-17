@@ -1,0 +1,102 @@
+{
+  "countryA": "INDIA",
+  "countryB": "PAKISTAN",
+  "flagA": "🇮🇳",
+  "flagB": "🇵🇰",
+  "colorA": "#FF9933",
+  "colorB": "#0B8457",
+  "stats": [
+    {
+      "label": "ODI World Cups",
+      "valueA": 2,
+      "valueB": 1,
+      "unit": "titles",
+      "higherIsBetter": true
+    },
+    {
+      "label": "T20 World Cups",
+      "valueA": 2,
+      "valueB": 1,
+      "unit": "titles",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Champions Trophy",
+      "valueA": 2,
+      "valueB": 1,
+      "unit": "titles",
+      "higherIsBetter": true
+    },
+    {
+      "label": "World Cup Head-to-Head",
+      "valueA": 8,
+      "valueB": 0,
+      "unit": "wins",
+      "higherIsBetter": true
+    },
+    {
+      "label": "ICC Revenue Share",
+      "valueA": 38,
+      "valueB": 5,
+      "unit": "score",
+      "higherIsBetter": true
+    }
+  ],
+  "narrationSrc": "audio/india_vs_pakistan_cricket_narration.mp3",
+  "timingLines": [
+    {
+      "index": 0,
+      "text": "India versus Pakistan. Cricket only. Who wins?",
+      "startFrame": 0,
+      "endFrame": 113
+    },
+    {
+      "index": 1,
+      "text": "Start with World Cups. India leads with two ODI World Cups. Pakistan has one.",
+      "startFrame": 125,
+      "endFrame": 294
+    },
+    {
+      "index": 2,
+      "text": "In T20 World Cups, India also leads with two titles. Pakistan has one.",
+      "startFrame": 306,
+      "endFrame": 462
+    },
+    {
+      "index": 3,
+      "text": "Champions Trophy is tighter. Pakistan has one major edge there.",
+      "startFrame": 474,
+      "endFrame": 597
+    },
+    {
+      "index": 4,
+      "text": "Head to head history across formats is mixed, but India has dominated the biggest World Cup meetings.",
+      "startFrame": 609,
+      "endFrame": 791
+    },
+    {
+      "index": 5,
+      "text": "Star power and batting depth also give India a strong modern advantage.",
+      "startFrame": 803,
+      "endFrame": 943
+    },
+    {
+      "index": 6,
+      "text": "Pakistan still has explosive pace bowling and can beat anyone on the day.",
+      "startFrame": 955,
+      "endFrame": 1087
+    },
+    {
+      "index": 7,
+      "text": "But if the question is who owns the bigger cricket resume, India comes out ahead.",
+      "startFrame": 1099,
+      "endFrame": 1235
+    },
+    {
+      "index": 8,
+      "text": "So in the cricket rivalry, Pakistan is always dangerous. But the numbers still lean India.",
+      "startFrame": 1247,
+      "endFrame": 1418
+    }
+  ]
+}

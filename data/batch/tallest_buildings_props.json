@@ -1,0 +1,100 @@
+{
+  "title": "TALLEST BUILDINGS",
+  "subtitle": "The tallest buildings on Earth. How high do they go?",
+  "items": [
+    {
+      "name": "Leaning Tower",
+      "size": 56,
+      "unit": "m",
+      "color": "#F5F5DC"
+    },
+    {
+      "name": "Statue of Liberty",
+      "size": 93,
+      "unit": "m",
+      "color": "#00FF6A"
+    },
+    {
+      "name": "Big Ben",
+      "size": 96,
+      "unit": "m",
+      "color": "#FFB800"
+    },
+    {
+      "name": "Eiffel Tower",
+      "size": 330,
+      "unit": "m",
+      "color": "#8B8FA3"
+    },
+    {
+      "name": "Empire State",
+      "size": 443,
+      "unit": "m",
+      "color": "#3A86FF"
+    },
+    {
+      "name": "Shanghai Tower",
+      "size": 632,
+      "unit": "m",
+      "color": "#FF3D5A"
+    },
+    {
+      "name": "Burj Khalifa",
+      "size": 828,
+      "unit": "m",
+      "color": "#00E5FF"
+    }
+  ],
+  "narrationSrc": "audio/tallest_buildings_narration.wav",
+  "timingLines": [
+    {
+      "index": 0,
+      "text": "The tallest buildings on Earth. How high do they go?",
+      "startFrame": 0,
+      "endFrame": 114
+    },
+    {
+      "index": 1,
+      "text": "Leaning Tower of Pisa. The famous lean. Just 56 meters.",
+      "startFrame": 121,
+      "endFrame": 280
+    },
+    {
+      "index": 2,
+      "text": "Statue of Liberty. Standing at 93 meters including the pedestal.",
+      "startFrame": 287,
+      "endFrame": 450
+    },
+    {
+      "index": 3,
+      "text": "Big Ben. The iconic London clock tower. 96 meters.",
+      "startFrame": 457,
+      "endFrame": 608
+    },
+    {
+      "index": 4,
+      "text": "Eiffel Tower. Once the tallest structure in the world. 330 meters.",
+      "startFrame": 614,
+      "endFrame": 789
+    },
+    {
+      "index": 5,
+      "text": "Empire State Building. A New York legend. 443 meters tall.",
+      "startFrame": 796,
+      "endFrame": 976
+    },
+    {
+      "index": 6,
+      "text": "Shanghai Tower. China's tallest. 632 meters of glass and steel.",
+      "startFrame": 982,
+      "endFrame": 1171
+    },
+    {
+      "index": 7,
+      "text": "Burj Khalifa. The king. 828 meters. Nearly a full kilometer into the sky.",
+      "startFrame": 1177,
+      "endFrame": 1393
+    }
+  ],
+  "bgVariant": "gradient"
+}

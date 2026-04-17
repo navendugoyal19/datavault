@@ -1,0 +1,72 @@
+{
+  "lines": [
+    "India versus Pakistan. Biggest cities compared. Who wins?",
+    "Mega-city scale starts with Delhi and Mumbai, which together dwarf anything Pakistan can match.",
+    "Karachi and Lahore are huge cities, but India simply has more giant metros.",
+    "Airport traffic is another major difference. India moves far more passengers through its top hubs.",
+    "Metro rail footprint also leans heavily toward India.",
+    "Skylines, office districts, and urban GDP all point in the same direction.",
+    "Pakistan still has powerful urban centers with real regional importance.",
+    "But if the question is city scale and urban weight, India wins comfortably.",
+    "Pakistan has strong cities. India has a bigger urban universe."
+  ],
+  "data": {
+    "countryA": "INDIA",
+    "countryB": "PAKISTAN",
+    "flagA": "🇮🇳",
+    "flagB": "🇵🇰",
+    "colorA": "#FF9933",
+    "colorB": "#0B8457",
+    "stats": [
+      {
+        "label": "Top 2 Metro Pop",
+        "valueA": 56000000,
+        "valueB": 30000000,
+        "unit": "people",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Major Airports",
+        "valueA": 120,
+        "valueB": 40,
+        "unit": "score",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Metro Rail Scale",
+        "valueA": 11,
+        "valueB": 1,
+        "unit": "score",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Top City GDP",
+        "valueA": 370000000000,
+        "valueB": 78000000000,
+        "unit": "USD",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Tier-1 Cities",
+        "valueA": 8,
+        "valueB": 2,
+        "unit": "score",
+        "higherIsBetter": true
+      }
+    ]
+  },
+  "seo": {
+    "title": "India vs Pakistan — Biggest Cities Compared 🌆",
+    "description": "India vs Pakistan city comparison: mega-city population, airport scale, metro systems, and urban economic weight.\n\n#shorts #india #pakistan #cities #comparison #datavault",
+    "tags": [
+      "India vs Pakistan",
+      "cities comparison",
+      "India",
+      "Pakistan",
+      "Delhi",
+      "Karachi",
+      "shorts",
+      "datavault"
+    ]
+  }
+}

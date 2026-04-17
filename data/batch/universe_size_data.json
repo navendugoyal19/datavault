@@ -1,0 +1,67 @@
+{
+  "lines": [
+    "How big is the universe? Let's find out.",
+    "Earth. Our home. 12,742 kilometers across.",
+    "Jupiter. The giant. 11 times wider than Earth at 139,820 kilometers.",
+    "The Sun. 1.4 million kilometers. You could fit 1,300 Jupiters inside.",
+    "UY Scuti. One of the largest known stars. 2.4 billion kilometers across. It would swallow Saturn's orbit.",
+    "The Solar System. 18 billion kilometers from edge to edge.",
+    "The Milky Way. Our galaxy. 100,000 light years across. 950 quadrillion kilometers.",
+    "The Observable Universe. 93 billion light years. The scale is beyond human comprehension."
+  ],
+  "items": [
+    {
+      "name": "Earth",
+      "size": 12742,
+      "unit": "km",
+      "color": "#3A86FF"
+    },
+    {
+      "name": "Jupiter",
+      "size": 139820,
+      "unit": "km",
+      "color": "#FF6B35"
+    },
+    {
+      "name": "The Sun",
+      "size": 1392000,
+      "unit": "km",
+      "color": "#FFB800"
+    },
+    {
+      "name": "UY Scuti",
+      "size": 2400000000,
+      "unit": "km",
+      "color": "#FF3D5A"
+    },
+    {
+      "name": "Solar System",
+      "size": 18000000000,
+      "unit": "km",
+      "color": "#A855F7"
+    },
+    {
+      "name": "Milky Way",
+      "size": 9.5e+17,
+      "unit": "km",
+      "color": "#00E5FF"
+    },
+    {
+      "name": "Observable Universe",
+      "size": 8.8e+23,
+      "unit": "km",
+      "color": "#F72585"
+    }
+  ],
+  "seo": {
+    "title": "Universe Size Comparison \u2014 Mind Blowing Scale \ud83c\udf0d\ud83c\udf0c",
+    "tags": [
+      "universe size comparison",
+      "space",
+      "how big is the universe",
+      "scale comparison",
+      "shorts",
+      "datavault"
+    ]
+  }
+}

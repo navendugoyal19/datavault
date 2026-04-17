@@ -1,0 +1,82 @@
+{
+  "voice": "af_bella",
+  "speed": 0.95,
+  "fps": 30,
+  "sample_rate": 24000,
+  "duration_seconds": 45.835,
+  "duration_frames": 1376,
+  "lines": [
+    {
+      "index": 0,
+      "text": "The richest countries in the world by GDP per capita.",
+      "start_seconds": 0.0,
+      "end_seconds": 4.3,
+      "start_frame": 0,
+      "end_frame": 129
+    },
+    {
+      "index": 1,
+      "text": "Number 8. United Arab Emirates. 50 thousand dollars per person.",
+      "start_seconds": 4.52,
+      "end_seconds": 10.045,
+      "start_frame": 136,
+      "end_frame": 301
+    },
+    {
+      "index": 2,
+      "text": "Number 7. Australia. 65 thousand dollars.",
+      "start_seconds": 10.265,
+      "end_seconds": 15.065,
+      "start_frame": 308,
+      "end_frame": 452
+    },
+    {
+      "index": 3,
+      "text": "Number 6. Denmark. 68 thousand.",
+      "start_seconds": 15.285,
+      "end_seconds": 19.16,
+      "start_frame": 459,
+      "end_frame": 575
+    },
+    {
+      "index": 4,
+      "text": "Number 5. Netherlands. 70 thousand.",
+      "start_seconds": 19.38,
+      "end_seconds": 23.255,
+      "start_frame": 581,
+      "end_frame": 698
+    },
+    {
+      "index": 5,
+      "text": "Number 4. United States. 80 thousand dollars per person.",
+      "start_seconds": 23.475,
+      "end_seconds": 28.775,
+      "start_frame": 704,
+      "end_frame": 863
+    },
+    {
+      "index": 6,
+      "text": "Number 3. Singapore. 88 thousand.",
+      "start_seconds": 28.995,
+      "end_seconds": 32.645,
+      "start_frame": 870,
+      "end_frame": 979
+    },
+    {
+      "index": 7,
+      "text": "Number 2. Ireland. 105 thousand dollars.",
+      "start_seconds": 32.865,
+      "end_seconds": 37.515,
+      "start_frame": 986,
+      "end_frame": 1125
+    },
+    {
+      "index": 8,
+      "text": "And number 1. Luxembourg. 131 thousand dollars per person. The richest country on Earth.",
+      "start_seconds": 37.735,
+      "end_seconds": 45.835,
+      "start_frame": 1132,
+      "end_frame": 1375
+    }
+  ]
+}

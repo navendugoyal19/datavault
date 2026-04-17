@@ -1,0 +1,74 @@
+{
+  "voice": "af_bella",
+  "speed": 0.95,
+  "fps": 30,
+  "sample_rate": 24000,
+  "duration_seconds": 46.44,
+  "duration_frames": 1394,
+  "lines": [
+    {
+      "index": 0,
+      "text": "The tallest buildings on Earth. How high do they go?",
+      "start_seconds": 0.0,
+      "end_seconds": 3.8,
+      "start_frame": 0,
+      "end_frame": 114
+    },
+    {
+      "index": 1,
+      "text": "Leaning Tower of Pisa. The famous lean. Just 56 meters.",
+      "start_seconds": 4.02,
+      "end_seconds": 9.345,
+      "start_frame": 121,
+      "end_frame": 280
+    },
+    {
+      "index": 2,
+      "text": "Statue of Liberty. Standing at 93 meters including the pedestal.",
+      "start_seconds": 9.565,
+      "end_seconds": 15.015,
+      "start_frame": 287,
+      "end_frame": 450
+    },
+    {
+      "index": 3,
+      "text": "Big Ben. The iconic London clock tower. 96 meters.",
+      "start_seconds": 15.235,
+      "end_seconds": 20.26,
+      "start_frame": 457,
+      "end_frame": 608
+    },
+    {
+      "index": 4,
+      "text": "Eiffel Tower. Once the tallest structure in the world. 330 meters.",
+      "start_seconds": 20.48,
+      "end_seconds": 26.305,
+      "start_frame": 614,
+      "end_frame": 789
+    },
+    {
+      "index": 5,
+      "text": "Empire State Building. A New York legend. 443 meters tall.",
+      "start_seconds": 26.525,
+      "end_seconds": 32.525,
+      "start_frame": 796,
+      "end_frame": 976
+    },
+    {
+      "index": 6,
+      "text": "Shanghai Tower. China's tallest. 632 meters of glass and steel.",
+      "start_seconds": 32.745,
+      "end_seconds": 39.02,
+      "start_frame": 982,
+      "end_frame": 1171
+    },
+    {
+      "index": 7,
+      "text": "Burj Khalifa. The king. 828 meters. Nearly a full kilometer into the sky.",
+      "start_seconds": 39.24,
+      "end_seconds": 46.44,
+      "start_frame": 1177,
+      "end_frame": 1393
+    }
+  ]
+}

@@ -1,0 +1,3654 @@
+{
+  "title": "GDP PER PERSON",
+  "data": [
+    {
+      "year": 1960,
+      "entries": [
+        {
+          "name": "United States",
+          "value": 2999.86487154495,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "New Zealand",
+          "value": 2334.1337214332,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Canada",
+          "value": 2264.94849658191,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 2261.17741836594,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Sweden",
+          "value": 2128.36441205712,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Switzerland",
+          "value": 1954.3113206427,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Australia",
+          "value": 1813.43109917039,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bermuda",
+          "value": 1715.31463229719,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Iceland",
+          "value": 1486.46439009414,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Bahamas, The",
+          "value": 1459.25382495907,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1961,
+      "entries": [
+        {
+          "name": "United States",
+          "value": 3059.16082086127,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "New Zealand",
+          "value": 2364.75383900097,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Sweden",
+          "value": 2304.47143531351,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Canada",
+          "value": 2246.08356619252,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 2241.36003221423,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Switzerland",
+          "value": 2155.44996908648,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Australia",
+          "value": 1880.48489498232,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bermuda",
+          "value": 1773.99531572479,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Israel",
+          "value": 1697.29357961733,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Norway",
+          "value": 1570.63804374719,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1962,
+      "entries": [
+        {
+          "name": "Kuwait",
+          "value": 4748.39284354226,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 3236.01311150062,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Sweden",
+          "value": 2485.46561781218,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "New Zealand",
+          "value": 2471.05500895111,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 2331.55685801925,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Switzerland",
+          "value": 2330.47736501501,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Canada",
+          "value": 2274.4284708191,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Australia",
+          "value": 1857.56127281956,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bermuda",
+          "value": 1824.18228260132,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Denmark",
+          "value": 1711.2181376602,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1963,
+      "entries": [
+        {
+          "name": "Kuwait",
+          "value": 4444.5230858112,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 3366.36978960346,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Sweden",
+          "value": 2675.07291656901,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "New Zealand",
+          "value": 2646.23652937762,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Switzerland",
+          "value": 2508.47430732203,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 2461.90112384487,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Canada",
+          "value": 2380.31732899108,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Australia",
+          "value": 1970.17748417817,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Iceland",
+          "value": 1924.23982220827,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Bermuda",
+          "value": 1821.79091310101,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1964,
+      "entries": [
+        {
+          "name": "Kuwait",
+          "value": 4378.78429775998,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 3565.31443016356,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Sweden",
+          "value": 2961.02884624727,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "New Zealand",
+          "value": 2839.31554692453,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 2779.18439746326,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Switzerland",
+          "value": 2734.93009044177,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Canada",
+          "value": 2561.63849088572,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Iceland",
+          "value": 2414.00707361378,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Australia",
+          "value": 2134.48946124608,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Denmark",
+          "value": 2049.39724281483,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1965,
+      "entries": [
+        {
+          "name": "Kuwait",
+          "value": 4023.99037772478,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 3818.28825117968,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Sweden",
+          "value": 3227.87974049912,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Switzerland",
+          "value": 2865.2448479366,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Iceland",
+          "value": 2861.10787055081,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 2803.85304611765,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Canada",
+          "value": 2777.18317301162,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Australia",
+          "value": 2284.35582738664,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Denmark",
+          "value": 2284.22850484956,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Norway",
+          "value": 2178.77508111808,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1966,
+      "entries": [
+        {
+          "name": "Kuwait",
+          "value": 4176.11038180964,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 4136.30829579106,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Sweden",
+          "value": 3477.89737890027,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Iceland",
+          "value": 3378.14472198321,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Canada",
+          "value": 3055.28807884507,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Switzerland",
+          "value": 3044.84560389449,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 2925.22204723477,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Denmark",
+          "value": 2487.13627144432,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bermuda",
+          "value": 2369.47294680018,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Australia",
+          "value": 2347.37656646515,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1967,
+      "entries": [
+        {
+          "name": "United States",
+          "value": 4325.95935063186,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Kuwait",
+          "value": 3887.34562038245,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Sweden",
+          "value": 3746.2048797826,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Iceland",
+          "value": 3283.55115538008,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Switzerland",
+          "value": 3237.27315217356,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Canada",
+          "value": 3226.38273682011,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 2934.52832111007,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bermuda",
+          "value": 2722.46233388537,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Denmark",
+          "value": 2700.74637883336,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Australia",
+          "value": 2583.9075241973,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1968,
+      "entries": [
+        {
+          "name": "United States",
+          "value": 4684.58840293763,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Sweden",
+          "value": 3953.08297234501,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Kuwait",
+          "value": 3871.94559219275,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Canada",
+          "value": 3473.23722551871,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Switzerland",
+          "value": 3413.49358157003,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 3202.50594852825,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Bermuda",
+          "value": 2975.95428934212,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Denmark",
+          "value": 2776.13544525805,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Australia",
+          "value": 2728.23426114901,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Norway",
+          "value": 2679.71300438189,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1969,
+      "entries": [
+        {
+          "name": "United States",
+          "value": 5019.99818634473,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Sweden",
+          "value": 4262.92603293035,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Canada",
+          "value": 3776.15613110238,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Kuwait",
+          "value": 3694.96497750415,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 3690.17182620062,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Switzerland",
+          "value": 3657.20794240553,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Bermuda",
+          "value": 3214.04903909874,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Denmark",
+          "value": 3151.13324311543,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bahamas, The",
+          "value": 3026.72757204421,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Australia",
+          "value": 2995.86119857452,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 12098.2018753587,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 5234.2966662115,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Sweden",
+          "value": 4729.35071602705,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 4298.03389742102,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 4262.03220640334,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Canada",
+          "value": 4135.82149842006,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 4044.42068227245,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Andorra",
+          "value": 3935.41127779609,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bermuda",
+          "value": 3574.16928861945,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Kuwait",
+          "value": 3551.58710706336,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1971,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 13334.3998386726,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 5609.38259952519,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Sweden",
+          "value": 5125.27034757101,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 4856.0090432336,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Switzerland",
+          "value": 4834.74049399485,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Canada",
+          "value": 4535.39338907773,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Kuwait",
+          "value": 4485.60842678202,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 4435.39800823681,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Andorra",
+          "value": 4169.69537103885,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Bermuda",
+          "value": 4012.77396544186,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1972,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 16187.4306500397,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 6094.01798986165,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Sweden",
+          "value": 6018.39052977191,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Switzerland",
+          "value": 5884.77524107186,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 5645.23266418851,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 5486.72062789089,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Canada",
+          "value": 5106.73708049128,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Andorra",
+          "value": 4940.29696239207,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Kuwait",
+          "value": 4835.69104574325,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Denmark",
+          "value": 4653.95587889115,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1973,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 20882.02134665,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United Arab Emirates",
+          "value": 9695.81418807304,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Switzerland",
+          "value": 7855.91887040854,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 7447.21301786664,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Sweden",
+          "value": 7290.6303239401,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 7282.37355960148,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "United States",
+          "value": 6726.35895596695,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Andorra",
+          "value": 6151.02717030722,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Denmark",
+          "value": 6116.89199229142,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Canada",
+          "value": 5858.33407318788,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1974,
+      "entries": [
+        {
+          "name": "United Arab Emirates",
+          "value": 23822.9715560307,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Monaco",
+          "value": 22347.8999054501,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Brunei Darussalam",
+          "value": 15194.792305663,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Qatar",
+          "value": 13539.5587974924,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Kuwait",
+          "value": 12526.6031710726,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 10503.4280777085,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 9004.788599,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 8966.72895879047,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 8271.73531542796,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Sweden",
+          "value": 8078.18604272449,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1975,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 27920.7436036735,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United Arab Emirates",
+          "value": 27117.1880729614,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Brunei Darussalam",
+          "value": 15793.1312553958,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Qatar",
+          "value": 13013.6838099496,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Kuwait",
+          "value": 10881.7216440289,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 10332.5128681378,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 10328.1089388433,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 10265.6414406471,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Sweden",
+          "value": 10102.6388909372,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 8701.30473139249,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1976,
+      "entries": [
+        {
+          "name": "United Arab Emirates",
+          "value": 31196.9791785759,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Monaco",
+          "value": 28396.3794040315,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Brunei Darussalam",
+          "value": 18671.3624129294,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Qatar",
+          "value": 15710.3208135683,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 13312.5119926546,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 11326.3488431219,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Kuwait",
+          "value": 11141.1981409668,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Switzerland",
+          "value": 10864.971231108,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Sweden",
+          "value": 10852.5192441428,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 9490.6903118849,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1977,
+      "entries": [
+        {
+          "name": "United Arab Emirates",
+          "value": 35020.3604355962,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Monaco",
+          "value": 30875.4764291964,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Brunei Darussalam",
+          "value": 21746.8559126458,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Qatar",
+          "value": 16057.7252719384,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 14595.3739933329,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 12416.8693020523,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 11643.6467397732,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Sweden",
+          "value": 11432.0214920218,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Kuwait",
+          "value": 11237.7967179507,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 10486.3357891095,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1978,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 37607.7886875432,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United Arab Emirates",
+          "value": 29379.1277424991,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Brunei Darussalam",
+          "value": 23446.5341231193,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 17456.9309487089,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Qatar",
+          "value": 16757.0982461328,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Switzerland",
+          "value": 16282.1932458492,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 14914.1542686138,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 13034.3882079614,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Sweden",
+          "value": 12602.2217238449,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Denmark",
+          "value": 11817.6250875179,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1979,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 44989.9653239249,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United Arab Emirates",
+          "value": 34238.2864453187,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Brunei Darussalam",
+          "value": 33501.2782714145,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Qatar",
+          "value": 21776.6381753833,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 19674.4126839447,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 19611.565126033,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 18265.5588649103,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Kuwait",
+          "value": 17385.8942886966,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 15204.3308191994,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Sweden",
+          "value": 14855.5957561141,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "entries": [
+        {
+          "name": "Brunei Darussalam",
+          "value": 58005.3424763282,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Monaco",
+          "value": 50813.9342272643,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United Arab Emirates",
+          "value": 42925.2338784407,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Qatar",
+          "value": 28375.4852501113,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 27205.6452285141,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 20958.7395302666,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 19393.8805480097,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Kuwait",
+          "value": 19031.9051902,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Sweden",
+          "value": 17073.0446711494,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 16531.1148988397,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1981,
+      "entries": [
+        {
+          "name": "Brunei Darussalam",
+          "value": 48793.4422577232,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United Arab Emirates",
+          "value": 44854.4800315615,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Monaco",
+          "value": 44157.4267369518,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Qatar",
+          "value": 29504.9403812472,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 28703.35585508,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 19929.4102802351,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 17665.0138979789,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Kuwait",
+          "value": 15825.191918191,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Iceland",
+          "value": 15666.3769807272,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Sweden",
+          "value": 15563.8332773497,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1982,
+      "entries": [
+        {
+          "name": "Brunei Darussalam",
+          "value": 45074.5499241983,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Monaco",
+          "value": 41479.49844229,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United Arab Emirates",
+          "value": 39972.4946674594,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Qatar",
+          "value": 24384.5938501228,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 22454.4843169614,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 19885.6126562976,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 17999.969257078,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Norway",
+          "value": 15224.8939100982,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bermuda",
+          "value": 14442.7902256054,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United States",
+          "value": 14433.787727053,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1983,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 39075.8356409009,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Brunei Darussalam",
+          "value": 38720.0939254718,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United Arab Emirates",
+          "value": 34650.0041245988,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 19814.8538489961,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Qatar",
+          "value": 19616.0320394418,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Switzerland",
+          "value": 17859.2323695837,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 17809.5527471054,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bermuda",
+          "value": 16236.741698158,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "United States",
+          "value": 15543.8937174925,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Norway",
+          "value": 14927.5174766339,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1984,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 36582.3672009832,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Brunei Darussalam",
+          "value": 36061.3815259405,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United Arab Emirates",
+          "value": 32012.3141540273,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Qatar",
+          "value": 19272.2616094603,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 18898.3678693391,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Bermuda",
+          "value": 17866.9174355163,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "United States",
+          "value": 17121.2254849995,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Switzerland",
+          "value": 16991.2458841517,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 15541.1312184609,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Norway",
+          "value": 14989.4857665906,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1985,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 37689.8648613491,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Brunei Darussalam",
+          "value": 31827.4059557344,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United Arab Emirates",
+          "value": 29467.5419758929,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 19684.2626852288,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Bermuda",
+          "value": 18713.8825139071,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "United States",
+          "value": 18236.8277265009,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 17152.0948495991,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Qatar",
+          "value": 16815.0419632835,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Norway",
+          "value": 15753.5527652129,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Canada",
+          "value": 14170.1249406067,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1986,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 52082.4508807502,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 28612.8865004795,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Switzerland",
+          "value": 24459.8536348433,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "United Arab Emirates",
+          "value": 23132.0739675988,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Bermuda",
+          "value": 20996.9767217163,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "United States",
+          "value": 19071.2271949295,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Norway",
+          "value": 18883.2333523873,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Brunei Darussalam",
+          "value": 18500.5408625966,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 18149.8692500239,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Sweden",
+          "value": 17954.9510185679,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1987,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 62456.0708848997,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 38206.2269467289,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Switzerland",
+          "value": 30440.5108240499,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Iceland",
+          "value": 23238.0398336304,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "United Arab Emirates",
+          "value": 23112.623420646,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Bermuda",
+          "value": 23042.7435883764,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Norway",
+          "value": 22505.8622623684,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 22443.4314633012,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Sweden",
+          "value": 21760.9646490625,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Denmark",
+          "value": 21295.6768566078,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1988,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 67180.5763713568,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 41568.5441182755,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Switzerland",
+          "value": 32690.4302734561,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Japan",
+          "value": 25499.8811728107,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Iceland",
+          "value": 25306.6926061001,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 25219.3542781732,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Bermuda",
+          "value": 24958.1127004004,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Sweden",
+          "value": 24499.1240758517,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Norway",
+          "value": 24207.281468963,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Denmark",
+          "value": 22524.5792595476,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 66815.7104498273,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 39551.6404002324,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Switzerland",
+          "value": 31308.6508343136,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 26618.0695774968,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Bermuda",
+          "value": 26282.6240963434,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Sweden",
+          "value": 25625.0162127747,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Japan",
+          "value": 25265.9487590208,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Norway",
+          "value": 24281.1304051396,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Finland",
+          "value": 23969.052798644,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Iceland",
+          "value": 23218.5398304599,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 81734.8664968011,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 49457.5609343203,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Switzerland",
+          "value": 39574.5398083788,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 33465.478207919,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Sweden",
+          "value": 30549.3185706762,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Finland",
+          "value": 28366.204276071,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Norway",
+          "value": 28242.981402822,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bermuda",
+          "value": 27665.525808301,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Denmark",
+          "value": 26885.6994188191,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United Arab Emirates",
+          "value": 26709.993440327,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1991,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 80997.2520924871,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 50811.7464531317,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Switzerland",
+          "value": 39544.4946826768,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 35747.3377992066,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Sweden",
+          "value": 31776.6680192213,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Japan",
+          "value": 29428.4289039469,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Norway",
+          "value": 28596.9330036444,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bermuda",
+          "value": 28195.7091611479,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Iceland",
+          "value": 27739.8886025504,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Denmark",
+          "value": 27002.8057705804,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1992,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 88614.926367223,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 55057.1110625654,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Switzerland",
+          "value": 40713.6881521435,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 39570.8615665986,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Sweden",
+          "value": 32753.4287003642,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Japan",
+          "value": 31992.7902119161,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Norway",
+          "value": 30523.9850558974,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Denmark",
+          "value": 29579.4913648682,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Bermuda",
+          "value": 28761.9634632835,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Iceland",
+          "value": 28072.4041083276,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1993,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 82685.4559266948,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 55604.5479972049,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 40066.7242518773,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Switzerland",
+          "value": 39237.1186558781,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Japan",
+          "value": 36345.2441262708,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Bermuda",
+          "value": 30950.0799102285,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Norway",
+          "value": 27963.6979095744,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Denmark",
+          "value": 27581.7241097459,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "United States",
+          "value": 26387.2937338171,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Germany",
+          "value": 25616.6508772405,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1994,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 86703.8130529474,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 63935.9902445462,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 43933.235442736,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Switzerland",
+          "value": 43091.7770970073,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Japan",
+          "value": 39933.5150564874,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Bermuda",
+          "value": 31543.0634861641,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Denmark",
+          "value": 29967.8303903163,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Norway",
+          "value": 29315.8092337732,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "United States",
+          "value": 27694.853416234,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Germany",
+          "value": 27201.9593555204,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 99032.2375054091,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 78909.7043377718,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 51032.349635318,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Switzerland",
+          "value": 50113.8321221345,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Japan",
+          "value": 44197.6191013908,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Denmark",
+          "value": 35321.0980773087,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Norway",
+          "value": 34875.7043347536,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Bermuda",
+          "value": 34115.3445553204,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Germany",
+          "value": 31747.2449398447,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Sweden",
+          "value": 30254.0273028727,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1996,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 98561.0137425657,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 80688.7182490376,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 50444.3591236175,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Switzerland",
+          "value": 48092.6433036512,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Bermuda",
+          "value": 45063.6149332085,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Japan",
+          "value": 39150.0396308089,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Norway",
+          "value": 37321.9741993473,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Denmark",
+          "value": 35621.9878051732,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Sweden",
+          "value": 33022.2444768661,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Germany",
+          "value": 30599.7891048363,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1997,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 88581.7044683607,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 73590.8620289713,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Bermuda",
+          "value": 48736.6768034299,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 46641.6408754876,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Switzerland",
+          "value": 41584.441782159,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "San Marino",
+          "value": 37852.9810311,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Norway",
+          "value": 36629.0309036621,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Japan",
+          "value": 35638.2319556941,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Denmark",
+          "value": 32779.879045297,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United States",
+          "value": 31459.1389804773,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 90947.2051224438,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 78302.9905905848,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Bermuda",
+          "value": 51629.2814855126,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 47445.3810812051,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Switzerland",
+          "value": 42680.5867322391,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Channel Islands",
+          "value": 40472.6653548172,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "San Marino",
+          "value": 40126.93686908,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Norway",
+          "value": 34803.4634058738,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Denmark",
+          "value": 33346.4884298957,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United States",
+          "value": 32853.6769523009,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 89698.1993575302,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 82682.284882177,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Bermuda",
+          "value": 54388.3417315621,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 50872.4492684624,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Channel Islands",
+          "value": 42443.7199726991,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "San Marino",
+          "value": 41931.7951488407,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 41695.6912912021,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Japan",
+          "value": 36610.1683163197,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Norway",
+          "value": 36393.2927471088,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United States",
+          "value": 34515.3902272076,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 81789.0206522549,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 76087.911114202,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Bermuda",
+          "value": 56542.9569455727,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 48659.5988753233,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Channel Islands",
+          "value": 43479.1940767689,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Japan",
+          "value": 39169.3595701504,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 38865.021939688,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Norway",
+          "value": 38178.2368777076,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "San Marino",
+          "value": 37600.7077379601,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United States",
+          "value": 36329.9560727102,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 82402.7809570189,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 75067.8001680043,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Bermuda",
+          "value": 59490.2452034202,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 48440.1420151355,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Channel Islands",
+          "value": 41873.7406146127,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Switzerland",
+          "value": 39638.7911061864,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "San Marino",
+          "value": 39035.1034290445,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Norway",
+          "value": 38601.897639231,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "United States",
+          "value": 37133.623113437,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 34406.1824638092,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 90051.4459877468,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 79795.1785891101,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Bermuda",
+          "value": 63358.5658652763,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 53005.7339209179,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Channel Islands",
+          "value": 44459.7318188977,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Norway",
+          "value": 43170.557174499,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 42458.7384679187,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "San Marino",
+          "value": 41790.8432718184,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "United States",
+          "value": 37997.7596573051,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Denmark",
+          "value": 33257.1622586509,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 111110.451312249,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 90108.3673647008,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Bermuda",
+          "value": 67106.8028083224,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 65689.3214536911,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "San Marino",
+          "value": 52529.9093701059,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Norway",
+          "value": 50250.3298214345,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 49335.7456291067,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Channel Islands",
+          "value": 48570.7796632166,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Ireland",
+          "value": 41203.5295847568,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Denmark",
+          "value": 40519.0974905924,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 125160.228087598,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 100280.831356705,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 76544.9170868473,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Bermuda",
+          "value": 71692.1589001679,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "San Marino",
+          "value": 58232.0176184948,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Norway",
+          "value": 57768.6980958462,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Channel Islands",
+          "value": 56259.5344226334,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Switzerland",
+          "value": 54659.4571488233,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Iceland",
+          "value": 47809.6073050042,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Ireland",
+          "value": 47754.2023194244,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 130538.742587117,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 105295.057027611,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 80988.1376230858,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Bermuda",
+          "value": 77628.103522508,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Norway",
+          "value": 67047.1704558264,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "San Marino",
+          "value": 59877.8005839737,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Iceland",
+          "value": 57783.7745608117,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Channel Islands",
+          "value": 57647.1188908006,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Switzerland",
+          "value": 56242.8933645639,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Qatar",
+          "value": 53949.6764091147,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 143083.461107202,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 114167.939211301,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Bermuda",
+          "value": 97781.4558996721,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 90788.8004876145,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Cayman Islands",
+          "value": 87085.0945866141,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Norway",
+          "value": 74434.4996835671,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "San Marino",
+          "value": 63270.7780755157,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Channel Islands",
+          "value": 62745.1006593557,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Qatar",
+          "value": 62582.4453138755,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Switzerland",
+          "value": 59011.0324592016,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 184558.556593338,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 130492.595349517,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 107475.320297978,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Bermuda",
+          "value": 107395.651483891,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Cayman Islands",
+          "value": 89888.2611264853,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Norway",
+          "value": 85502.2677087731,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Channel Islands",
+          "value": 74139.97799443,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Iceland",
+          "value": 70483.0117228535,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "San Marino",
+          "value": 70124.4634385624,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Qatar",
+          "value": 65954.3419525051,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 204263.797114294,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 143249.227302093,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 120422.137934157,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Bermuda",
+          "value": 110268.562401264,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Norway",
+          "value": 97503.5407803783,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Cayman Islands",
+          "value": 89655.1185574521,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Qatar",
+          "value": 80781.4039187792,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "San Marino",
+          "value": 75902.1320521765,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Switzerland",
+          "value": 74175.1927898555,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Isle of Man",
+          "value": 72276.7741329461,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 169150.267344616,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 126024.714567466,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 109419.746953106,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Bermuda",
+          "value": 104711.712420357,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Cayman Islands",
+          "value": 81373.5721242232,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Norway",
+          "value": 80347.5700665184,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 71568.3123885672,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Isle of Man",
+          "value": 66156.105656847,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "San Marino",
+          "value": 62428.9943269418,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Qatar",
+          "value": 60785.7351551657,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 161853.920622244,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 141089.812849014,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 110885.991378721,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Bermuda",
+          "value": 104111.824244802,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Norway",
+          "value": 88163.2085931423,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Cayman Islands",
+          "value": 76837.6710064442,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 76531.3729407691,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Qatar",
+          "value": 76462.6119486736,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Isle of Man",
+          "value": 70587.3140283741,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Denmark",
+          "value": 58104.5445594981,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 179363.984221513,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 158066.369379163,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 119025.057203467,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Qatar",
+          "value": 103261.510293068,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Norway",
+          "value": 101221.813476644,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Bermuda",
+          "value": 99049.0169927667,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 90476.7589651577,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Isle of Man",
+          "value": 77808.8579649376,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Cayman Islands",
+          "value": 75280.9617699986,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Macao SAR, China",
+          "value": 67046.7284292101,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 165444.651378771,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 148842.035144342,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 112584.676270958,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Qatar",
+          "value": 108470.387023229,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Norway",
+          "value": 102175.919298374,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Bermuda",
+          "value": 100213.493385287,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 85836.2076767359,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Isle of Man",
+          "value": 79329.2034347434,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Macao SAR, China",
+          "value": 76058.0224963659,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Cayman Islands",
+          "value": 75101.5906883232,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 184940.663804718,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 172823.607794648,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 120000.140729859,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Qatar",
+          "value": 103697.062789144,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Norway",
+          "value": 103553.840134417,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Bermuda",
+          "value": 101704.40746217,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 87304.3305813557,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Macao SAR, China",
+          "value": 87107.8313063626,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Isle of Man",
+          "value": 83207.6588430451,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Cayman Islands",
+          "value": 75113.7342282813,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 195693.570738894,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 178735.153020908,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 123678.702143275,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Bermuda",
+          "value": 100961.576602811,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Norway",
+          "value": 97666.6951838749,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Qatar",
+          "value": 95840.6898934238,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Isle of Man",
+          "value": 91885.4528718026,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Switzerland",
+          "value": 88724.9909402638,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Macao SAR, China",
+          "value": 88355.3181764446,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Cayman Islands",
+          "value": 75845.3055572577,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 170437.101188261,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 167187.15730982,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 105462.012584423,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Bermuda",
+          "value": 104855.366822135,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Isle of Man",
+          "value": 84753.5187422732,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Switzerland",
+          "value": 83806.4476003837,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Cayman Islands",
+          "value": 76379.2098777987,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Norway",
+          "value": 74809.9658049898,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Macao SAR, China",
+          "value": 69902.9605741233,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Qatar",
+          "value": 68985.2433380102,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 173604.753555915,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 165375.491396259,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Bermuda",
+          "value": 108747.356144305,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 106899.293549552,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Switzerland",
+          "value": 82153.0745447889,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Isle of Man",
+          "value": 82025.9454509241,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Cayman Islands",
+          "value": 77802.2535658023,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Norway",
+          "value": 70867.3609970749,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Macao SAR, China",
+          "value": 68911.6755919628,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Ireland",
+          "value": 64129.5571542383,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 170663.375247872,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 170547.092298954,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Bermuda",
+          "value": 112339.425587467,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 110193.213797228,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Isle of Man",
+          "value": 83481.3038489014,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Switzerland",
+          "value": 82254.3769269767,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Cayman Islands",
+          "value": 80053.9442657031,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Macao SAR, China",
+          "value": 77570.9876166977,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Norway",
+          "value": 76131.8384032764,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Iceland",
+          "value": 72976.3729990975,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 188298.315668437,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 174988.775083446,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 116926.759593905,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Bermuda",
+          "value": 113204.82210838,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Isle of Man",
+          "value": 89393.8244248812,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Switzerland",
+          "value": 85217.3691512274,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Cayman Islands",
+          "value": 83865.5540393356,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Macao SAR, China",
+          "value": 83588.2875009014,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Norway",
+          "value": 82792.8427113304,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Ireland",
+          "value": 80804.1123164826,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 193746.785647412,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 166907.839305016,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Bermuda",
+          "value": 115798.040775578,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 112696.649059674,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Cayman Islands",
+          "value": 88254.2902486867,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Isle of Man",
+          "value": 87127.5517977404,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 84121.9310304414,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Macao SAR, China",
+          "value": 81882.6964523869,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Ireland",
+          "value": 81827.6688873996,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Norway",
+          "value": 76430.5889473338,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 176891.886538492,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 164671.093553454,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 116860.02817236,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Bermuda",
+          "value": 106976.546239632,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Ireland",
+          "value": 86514.0706108754,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Switzerland",
+          "value": 85897.7843338323,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Cayman Islands",
+          "value": 82338.7977439023,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Isle of Man",
+          "value": 79513.5330346598,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Norway",
+          "value": 68340.0181033702,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United States",
+          "value": 63515.9491807833,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 223823.363960226,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 201944.830335076,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 134965.815442152,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Bermuda",
+          "value": 112765.08167306,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Ireland",
+          "value": 103783.446284479,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Isle of Man",
+          "value": 94299.969348965,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 93664.7736696111,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Norway",
+          "value": 93072.8925119571,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Cayman Islands",
+          "value": 86449.6749037302,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Singapore",
+          "value": 80056.1288247844,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 226052.001905201,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 188055.003235348,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 123719.658915996,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Bermuda",
+          "value": 121613.939983629,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Norway",
+          "value": 109269.520580298,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Ireland",
+          "value": 105190.685952731,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Switzerland",
+          "value": 94394.5106803525,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Cayman Islands",
+          "value": 93030.7051447803,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Singapore",
+          "value": 90299.0694637269,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Qatar",
+          "value": 88701.4689763536,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 256799.788612806,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Liechtenstein",
+          "value": 206780.590353385,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 133230.619178899,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Bermuda",
+          "value": 132604.439086216,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Ireland",
+          "value": 106818.917130804,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Switzerland",
+          "value": 100623.549627296,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Cayman Islands",
+          "value": 99143.5180243123,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Norway",
+          "value": 87497.2179649556,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Singapore",
+          "value": 85412.230345235,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Iceland",
+          "value": 82138.7892973557,
+          "color": "#85C1E9"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "entries": [
+        {
+          "name": "Monaco",
+          "value": 288001.433369041,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Bermuda",
+          "value": 142855.374713782,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Luxembourg",
+          "value": 137781.681659123,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Ireland",
+          "value": 112894.953240805,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Switzerland",
+          "value": 103998.186685604,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Singapore",
+          "value": 90674.066632628,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Norway",
+          "value": 86785.4334489176,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Iceland",
+          "value": 86040.5309851288,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "United States",
+          "value": 84534.0407841548,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Qatar",
+          "value": 76688.6941743178,
+          "color": "#85C1E9"
+        }
+      ]
+    }
+  ],
+  "metricTitle": "GDP per Capita",
+  "narrationSrc": "audio/ragl/gdp-per-capita-rankings.wav",
+  "sourceLabel": "Source: World Bank Open Data",
+  "timelineSegments": [
+    {
+      "startFrame": 0,
+      "endFrame": 114,
+      "startIndex": 0,
+      "endIndex": 0
+    },
+    {
+      "startFrame": 114,
+      "endFrame": 300,
+      "startIndex": 0,
+      "endIndex": 0
+    },
+    {
+      "startFrame": 300,
+      "endFrame": 525,
+      "startIndex": 0,
+      "endIndex": 11
+    },
+    {
+      "startFrame": 525,
+      "endFrame": 753,
+      "startIndex": 11,
+      "endIndex": 21
+    },
+    {
+      "startFrame": 753,
+      "endFrame": 983,
+      "startIndex": 21,
+      "endIndex": 32
+    },
+    {
+      "startFrame": 983,
+      "endFrame": 1168,
+      "startIndex": 32,
+      "endIndex": 43
+    },
+    {
+      "startFrame": 1168,
+      "endFrame": 1356,
+      "startIndex": 43,
+      "endIndex": 53
+    },
+    {
+      "startFrame": 1356,
+      "endFrame": 1530,
+      "startIndex": 53,
+      "endIndex": 64
+    },
+    {
+      "startFrame": 1530,
+      "endFrame": 1731,
+      "startIndex": 64,
+      "endIndex": 64
+    },
+    {
+      "startFrame": 1731,
+      "endFrame": 1907,
+      "startIndex": 64,
+      "endIndex": 64
+    }
+  ],
+  "tickYears": [
+    1960,
+    1971,
+    1981,
+    1992,
+    2003,
+    2013,
+    2024
+  ]
+}

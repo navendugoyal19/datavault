@@ -1,0 +1,37 @@
+{
+  "mode": "country",
+  "title": "INDIA VS PAKISTAN",
+  "subtitle": "WHO ACTUALLY WINS?",
+  "countryA": "INDIA",
+  "countryB": "PAKISTAN",
+  "flagA": "🇮🇳",
+  "flagB": "🇵🇰",
+  "colorA": "#FF9933",
+  "colorB": "#0B8457",
+  "stats": [
+    {
+      "label": "Population",
+      "valueA": 1450935791,
+      "valueB": 251269164,
+      "unit": "people",
+      "higherIsBetter": true,
+      "note": "India's scale is overwhelming here."
+    },
+    {
+      "label": "GDP",
+      "valueA": 3909891533858.08,
+      "valueB": 371570000121.266,
+      "unit": "USD",
+      "higherIsBetter": true,
+      "note": "India's economy is roughly ten times larger."
+    },
+    {
+      "label": "Land Area",
+      "valueA": 3287263,
+      "valueB": 881913,
+      "unit": "km²",
+      "higherIsBetter": true,
+      "note": "More territory means more strategic depth."
+    }
+  ]
+}

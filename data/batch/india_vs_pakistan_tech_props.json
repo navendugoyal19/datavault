@@ -1,0 +1,102 @@
+{
+  "countryA": "INDIA",
+  "countryB": "PAKISTAN",
+  "flagA": "🇮🇳",
+  "flagB": "🇵🇰",
+  "colorA": "#FF9933",
+  "colorB": "#0B8457",
+  "stats": [
+    {
+      "label": "Internet Users",
+      "valueA": 806000000,
+      "valueB": 143000000,
+      "unit": "users",
+      "higherIsBetter": true
+    },
+    {
+      "label": "IT Exports",
+      "valueA": 250000000000,
+      "valueB": 3500000000,
+      "unit": "USD",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Startup Scale",
+      "valueA": 100,
+      "valueB": 8,
+      "unit": "score",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Digital Payments",
+      "valueA": 100,
+      "valueB": 10,
+      "unit": "score",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Smartphone Market",
+      "valueA": 700000000,
+      "valueB": 140000000,
+      "unit": "users",
+      "higherIsBetter": true
+    }
+  ],
+  "narrationSrc": "audio/india_vs_pakistan_tech_narration.mp3",
+  "timingLines": [
+    {
+      "index": 0,
+      "text": "India versus Pakistan. Technology and internet race. Who wins?",
+      "startFrame": 0,
+      "endFrame": 152
+    },
+    {
+      "index": 1,
+      "text": "Start with internet users. India has hundreds of millions more people online.",
+      "startFrame": 164,
+      "endFrame": 306
+    },
+    {
+      "index": 2,
+      "text": "Smartphone penetration and total app market size also heavily favor India.",
+      "startFrame": 318,
+      "endFrame": 459
+    },
+    {
+      "index": 3,
+      "text": "IT exports are where the difference becomes dramatic. India is a global giant. Pakistan is still far smaller.",
+      "startFrame": 471,
+      "endFrame": 675
+    },
+    {
+      "index": 4,
+      "text": "Startup scale and venture funding also point strongly toward India.",
+      "startFrame": 687,
+      "endFrame": 813
+    },
+    {
+      "index": 5,
+      "text": "Digital payments are another major advantage. India built one of the biggest instant payment systems on Earth.",
+      "startFrame": 825,
+      "endFrame": 1013
+    },
+    {
+      "index": 6,
+      "text": "Pakistan is growing fast online, but it is still playing catch-up in size and capital.",
+      "startFrame": 1025,
+      "endFrame": 1189
+    },
+    {
+      "index": 7,
+      "text": "So if the contest is modern tech scale, India wins clearly.",
+      "startFrame": 1201,
+      "endFrame": 1320
+    },
+    {
+      "index": 8,
+      "text": "Pakistan has momentum. India has the ecosystem.",
+      "startFrame": 1332,
+      "endFrame": 1426
+    }
+  ]
+}

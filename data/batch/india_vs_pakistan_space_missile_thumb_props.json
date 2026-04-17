@@ -1,0 +1,31 @@
+{
+  "mode": "country",
+  "title": "INDIA VS PAKISTAN",
+  "subtitle": "SPACE & MISSILE RACE",
+  "countryA": "INDIA",
+  "countryB": "PAKISTAN",
+  "flagA": "🇮🇳",
+  "flagB": "🇵🇰",
+  "colorA": "#FF9933",
+  "colorB": "#0B8457",
+  "stats": [
+    {
+      "label": "SPACE",
+      "valueA": 125,
+      "valueB": 6,
+      "unit": "missions"
+    },
+    {
+      "label": "LAUNCH CAPABILITY",
+      "valueA": 4,
+      "valueB": 0,
+      "unit": "score"
+    },
+    {
+      "label": "MAX PUBLIC RANGE",
+      "valueA": 5000,
+      "valueB": 2750,
+      "unit": "km"
+    }
+  ]
+}

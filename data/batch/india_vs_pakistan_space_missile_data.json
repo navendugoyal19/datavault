@@ -1,0 +1,75 @@
+{
+  "lines": [
+    "India versus Pakistan. Space and missile race. Who wins?",
+    "Space missions are the biggest gap. India has launched well over one hundred missions. Pakistan has launched only a few satellites.",
+    "Launch capability is another huge difference. India can launch from its own pads. Pakistan cannot match that.",
+    "Satellite count and domestic space infrastructure also strongly favor India.",
+    "Missile range is where the rivalry becomes more balanced. Both sides field nuclear-capable systems.",
+    "But India has broader depth across short, medium, and longer-range missile programs.",
+    "Pakistan still maintains a credible deterrent with rapid-response systems aimed at the regional balance.",
+    "So in space technology and missile depth together, India has the wider capability base.",
+    "Pakistan remains strategically relevant. But by the numbers, India wins this race."
+  ],
+  "data": {
+    "countryA": "INDIA",
+    "countryB": "PAKISTAN",
+    "flagA": "🇮🇳",
+    "flagB": "🇵🇰",
+    "colorA": "#FF9933",
+    "colorB": "#0B8457",
+    "stats": [
+      {
+        "label": "Space Missions",
+        "valueA": 125,
+        "valueB": 6,
+        "unit": "missions",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Launch Capability",
+        "valueA": 4,
+        "valueB": 0,
+        "unit": "score",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Satellites",
+        "valueA": 130,
+        "valueB": 8,
+        "unit": "satellites",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Missile Program Depth",
+        "valueA": 5,
+        "valueB": 3,
+        "unit": "score",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Max Public Range",
+        "valueA": 5000,
+        "valueB": 2750,
+        "unit": "km",
+        "higherIsBetter": true
+      }
+    ]
+  },
+  "seo": {
+    "title": "India vs Pakistan — Space & Missile Race 🚀",
+    "description": "India vs Pakistan space and missile comparison: launches, satellites, domestic launch capability, missile depth, and range.\n\n#shorts #india #pakistan #space #missiles #comparison #datavault",
+    "tags": [
+      "India vs Pakistan",
+      "space missile race",
+      "India",
+      "Pakistan",
+      "space missions",
+      "missiles",
+      "shorts",
+      "datavault"
+    ],
+    "published_url": "https://youtube.com/shorts/uiUtAXBX_rI",
+    "share_url": "https://youtube.com/shorts/uiUtAXBX_rI?feature=share",
+    "video_id": "uiUtAXBX_rI"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "SOLAR SYSTEM",
+  "subtitle": "The planets of our solar system. Smallest to largest.",
+  "items": [
+    {
+      "name": "Mercury",
+      "size": 4879,
+      "unit": "km",
+      "color": "#8B8FA3"
+    },
+    {
+      "name": "Mars",
+      "size": 6779,
+      "unit": "km",
+      "color": "#FF3D5A"
+    },
+    {
+      "name": "Venus",
+      "size": 12104,
+      "unit": "km",
+      "color": "#FFB800"
+    },
+    {
+      "name": "Earth",
+      "size": 12742,
+      "unit": "km",
+      "color": "#3A86FF"
+    },
+    {
+      "name": "Neptune",
+      "size": 49528,
+      "unit": "km",
+      "color": "#4ECDC4"
+    },
+    {
+      "name": "Saturn",
+      "size": 116460,
+      "unit": "km",
+      "color": "#FF6B35"
+    },
+    {
+      "name": "Jupiter",
+      "size": 139820,
+      "unit": "km",
+      "color": "#A855F7"
+    }
+  ],
+  "narrationSrc": "audio/solar_system_narration.wav",
+  "timingLines": [
+    {
+      "index": 0,
+      "text": "The planets of our solar system. Smallest to largest.",
+      "startFrame": 0,
+      "endFrame": 125
+    },
+    {
+      "index": 1,
+      "text": "Mercury. The smallest planet. Just 4,879 kilometers across.",
+      "startFrame": 132,
+      "endFrame": 337
+    },
+    {
+      "index": 2,
+      "text": "Mars. The red planet. 6,779 kilometers.",
+      "startFrame": 344,
+      "endFrame": 522
+    },
+    {
+      "index": 3,
+      "text": "Venus. Almost the same size as Earth. 12,104 kilometers.",
+      "startFrame": 528,
+      "endFrame": 717
+    },
+    {
+      "index": 4,
+      "text": "Earth. Our home. 12,742 kilometers.",
+      "startFrame": 724,
+      "endFrame": 884
+    },
+    {
+      "index": 5,
+      "text": "Neptune. The first ice giant. 49,528 kilometers. Nearly 4 times wider than Earth.",
+      "startFrame": 891,
+      "endFrame": 1160
+    },
+    {
+      "index": 6,
+      "text": "Saturn. Famous for its rings. 116,460 kilometers across.",
+      "startFrame": 1167,
+      "endFrame": 1378
+    },
+    {
+      "index": 7,
+      "text": "Jupiter. The king of planets. 139,820 kilometers. You could fit every other planet inside it.",
+      "startFrame": 1385,
+      "endFrame": 1672
+    }
+  ],
+  "bgVariant": "gradient"
+}

@@ -1,0 +1,67 @@
+{
+  "lines": [
+    "How fast can animals run? Let's compare.",
+    "Human. The fastest person alive hits 45 kilometers per hour.",
+    "Elephant. Surprisingly quick at 40 km per hour. Slower than us.",
+    "Grizzly Bear. Don't try to outrun one. 56 km per hour.",
+    "Lion. The king charges at 80 km per hour.",
+    "Pronghorn Antelope. Built for speed. 89 km per hour. Faster than any predator in North America.",
+    "Cheetah. The fastest land animal on Earth. 120 km per hour. Zero to 100 in 3 seconds.",
+    "Peregrine Falcon. The fastest animal alive. 390 km per hour in a dive."
+  ],
+  "items": [
+    {
+      "name": "Human",
+      "size": 45,
+      "unit": "km/h",
+      "color": "#3A86FF"
+    },
+    {
+      "name": "Elephant",
+      "size": 40,
+      "unit": "km/h",
+      "color": "#8B8FA3"
+    },
+    {
+      "name": "Grizzly Bear",
+      "size": 56,
+      "unit": "km/h",
+      "color": "#8B4513"
+    },
+    {
+      "name": "Lion",
+      "size": 80,
+      "unit": "km/h",
+      "color": "#FFB800"
+    },
+    {
+      "name": "Pronghorn",
+      "size": 89,
+      "unit": "km/h",
+      "color": "#FF6B35"
+    },
+    {
+      "name": "Cheetah",
+      "size": 120,
+      "unit": "km/h",
+      "color": "#FFD700"
+    },
+    {
+      "name": "Peregrine Falcon",
+      "size": 390,
+      "unit": "km/h",
+      "color": "#00E5FF"
+    }
+  ],
+  "seo": {
+    "title": "Animal Speed Comparison \u2014 Who's the Fastest? \ud83d\udc06\u26a1",
+    "tags": [
+      "animal speed comparison",
+      "fastest animals",
+      "cheetah",
+      "peregrine falcon",
+      "shorts",
+      "datavault"
+    ]
+  }
+}

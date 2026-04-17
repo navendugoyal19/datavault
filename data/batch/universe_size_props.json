@@ -1,0 +1,100 @@
+{
+  "title": "UNIVERSE SIZE",
+  "subtitle": "How big is the universe? Let's find out.",
+  "items": [
+    {
+      "name": "Earth",
+      "size": 12742,
+      "unit": "km",
+      "color": "#3A86FF"
+    },
+    {
+      "name": "Jupiter",
+      "size": 139820,
+      "unit": "km",
+      "color": "#FF6B35"
+    },
+    {
+      "name": "The Sun",
+      "size": 1392000,
+      "unit": "km",
+      "color": "#FFB800"
+    },
+    {
+      "name": "UY Scuti",
+      "size": 2400000000,
+      "unit": "km",
+      "color": "#FF3D5A"
+    },
+    {
+      "name": "Solar System",
+      "size": 18000000000,
+      "unit": "km",
+      "color": "#A855F7"
+    },
+    {
+      "name": "Milky Way",
+      "size": 9.5e+17,
+      "unit": "km",
+      "color": "#00E5FF"
+    },
+    {
+      "name": "Observable Universe",
+      "size": 8.8e+23,
+      "unit": "km",
+      "color": "#F72585"
+    }
+  ],
+  "narrationSrc": "audio/universe_size_narration.wav",
+  "timingLines": [
+    {
+      "index": 0,
+      "text": "How big is the universe? Let's find out.",
+      "startFrame": 0,
+      "endFrame": 99
+    },
+    {
+      "index": 1,
+      "text": "Earth. Our home. 12,742 kilometers across.",
+      "startFrame": 106,
+      "endFrame": 284
+    },
+    {
+      "index": 2,
+      "text": "Jupiter. The giant. 11 times wider than Earth at 139,820 kilometers.",
+      "startFrame": 291,
+      "endFrame": 539
+    },
+    {
+      "index": 3,
+      "text": "The Sun. 1.4 million kilometers. You could fit 1,300 Jupiters inside.",
+      "startFrame": 546,
+      "endFrame": 765
+    },
+    {
+      "index": 4,
+      "text": "UY Scuti. One of the largest known stars. 2.4 billion kilometers across. It would swallow Saturn's orbit.",
+      "startFrame": 771,
+      "endFrame": 1040
+    },
+    {
+      "index": 5,
+      "text": "The Solar System. 18 billion kilometers from edge to edge.",
+      "startFrame": 1047,
+      "endFrame": 1195
+    },
+    {
+      "index": 6,
+      "text": "The Milky Way. Our galaxy. 100,000 light years across. 950 quadrillion kilometers.",
+      "startFrame": 1201,
+      "endFrame": 1449
+    },
+    {
+      "index": 7,
+      "text": "The Observable Universe. 93 billion light years. The scale is beyond human comprehension.",
+      "startFrame": 1455,
+      "endFrame": 1685
+    }
+  ],
+  "bgVariant": "gradient"
+}

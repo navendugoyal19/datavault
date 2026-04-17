@@ -1,0 +1,90 @@
+{
+  "voice": "af_bella",
+  "speed": 0.95,
+  "fps": 30,
+  "sample_rate": 24000,
+  "duration_seconds": 75.08,
+  "duration_frames": 2253,
+  "lines": [
+    {
+      "index": 0,
+      "text": "United Kingdom versus France. Who wins?",
+      "start_seconds": 0.0,
+      "end_seconds": 3.65,
+      "start_frame": 0,
+      "end_frame": 110
+    },
+    {
+      "index": 1,
+      "text": "Population. France leads with 68 million people. The UK has 67 million. Extremely close.",
+      "start_seconds": 3.87,
+      "end_seconds": 12.42,
+      "start_frame": 116,
+      "end_frame": 373
+    },
+    {
+      "index": 2,
+      "text": "GDP. The UK edges ahead at 3.3 trillion dollars. France has 3.1 trillion.",
+      "start_seconds": 12.64,
+      "end_seconds": 20.39,
+      "start_frame": 379,
+      "end_frame": 612
+    },
+    {
+      "index": 3,
+      "text": "Land Area. France is larger at 640 thousand square kilometers. The UK has 243 thousand.",
+      "start_seconds": 20.61,
+      "end_seconds": 29.935,
+      "start_frame": 618,
+      "end_frame": 898
+    },
+    {
+      "index": 4,
+      "text": "Military Personnel. France has 205 thousand active. The UK has 150 thousand.",
+      "start_seconds": 30.155,
+      "end_seconds": 38.255,
+      "start_frame": 905,
+      "end_frame": 1148
+    },
+    {
+      "index": 5,
+      "text": "Nuclear Warheads. France leads with 290 warheads. The UK has 225.",
+      "start_seconds": 38.475,
+      "end_seconds": 46.275,
+      "start_frame": 1154,
+      "end_frame": 1388
+    },
+    {
+      "index": 6,
+      "text": "Olympic Gold Medals. The UK leads with 285 golds. France has 259.",
+      "start_seconds": 46.495,
+      "end_seconds": 54.595,
+      "start_frame": 1395,
+      "end_frame": 1638
+    },
+    {
+      "index": 7,
+      "text": "Tourism. France is the most visited country on Earth. 90 million tourists per year. The UK gets 40 million.",
+      "start_seconds": 54.815,
+      "end_seconds": 63.54,
+      "start_frame": 1644,
+      "end_frame": 1906
+    },
+    {
+      "index": 8,
+      "text": "Nobel Prizes. The UK dominates with 138 Nobel laureates. France has 73.",
+      "start_seconds": 63.76,
+      "end_seconds": 71.685,
+      "start_frame": 1913,
+      "end_frame": 2151
+    },
+    {
+      "index": 9,
+      "text": "The final score. Four all. It's a tie!",
+      "start_seconds": 71.905,
+      "end_seconds": 75.08,
+      "start_frame": 2157,
+      "end_frame": 2252
+    }
+  ]
+}

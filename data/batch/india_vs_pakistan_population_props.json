@@ -1,0 +1,102 @@
+{
+  "countryA": "INDIA",
+  "countryB": "PAKISTAN",
+  "flagA": "🇮🇳",
+  "flagB": "🇵🇰",
+  "colorA": "#FF9933",
+  "colorB": "#0B8457",
+  "stats": [
+    {
+      "label": "Population",
+      "valueA": 1450935791,
+      "valueB": 251269164,
+      "unit": "people",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Working-Age Pop",
+      "valueA": 980000000,
+      "valueB": 157000000,
+      "unit": "people",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Urban Population",
+      "valueA": 535000000,
+      "valueB": 98000000,
+      "unit": "people",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Internet Users",
+      "valueA": 806000000,
+      "valueB": 143000000,
+      "unit": "users",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Median Age Edge",
+      "valueA": 28,
+      "valueB": 21,
+      "unit": "years",
+      "higherIsBetter": true
+    }
+  ],
+  "narrationSrc": "audio/india_vs_pakistan_population_narration.mp3",
+  "timingLines": [
+    {
+      "index": 0,
+      "text": "India versus Pakistan. Population only. Who has the bigger human advantage?",
+      "startFrame": 0,
+      "endFrame": 156
+    },
+    {
+      "index": 1,
+      "text": "Total population is the obvious headline. India has about 1 point 45 billion people. Pakistan about 251 million.",
+      "startFrame": 168,
+      "endFrame": 420
+    },
+    {
+      "index": 2,
+      "text": "Working-age population also massively favors India, which means a larger labor and recruitment base.",
+      "startFrame": 432,
+      "endFrame": 619
+    },
+    {
+      "index": 3,
+      "text": "Urban population is another huge gap. India has far more people concentrated in major economic centers.",
+      "startFrame": 631,
+      "endFrame": 866
+    },
+    {
+      "index": 4,
+      "text": "Median age is lower in Pakistan, which means it is younger. But India still wins overall scale by an enormous margin.",
+      "startFrame": 878,
+      "endFrame": 1092
+    },
+    {
+      "index": 5,
+      "text": "Internet users in absolute numbers are also heavily in India’s favor.",
+      "startFrame": 1104,
+      "endFrame": 1241
+    },
+    {
+      "index": 6,
+      "text": "So if the question is pure demographic weight, this one is not close.",
+      "startFrame": 1253,
+      "endFrame": 1382
+    },
+    {
+      "index": 7,
+      "text": "Pakistan has a young and growing population, but India combines growth with much bigger total scale.",
+      "startFrame": 1394,
+      "endFrame": 1583
+    },
+    {
+      "index": 8,
+      "text": "By population power alone, India wins decisively.",
+      "startFrame": 1595,
+      "endFrame": 1706
+    }
+  ]
+}

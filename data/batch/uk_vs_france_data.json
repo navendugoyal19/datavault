@@ -1,0 +1,88 @@
+{
+  "lines": [
+    "United Kingdom versus France. Who wins?",
+    "Population. France leads with 68 million people. The UK has 67 million. Extremely close.",
+    "GDP. The UK edges ahead at 3.3 trillion dollars. France has 3.1 trillion.",
+    "Land Area. France is larger at 640 thousand square kilometers. The UK has 243 thousand.",
+    "Military Personnel. France has 205 thousand active. The UK has 150 thousand.",
+    "Nuclear Warheads. France leads with 290 warheads. The UK has 225.",
+    "Olympic Gold Medals. The UK leads with 285 golds. France has 259.",
+    "Tourism. France is the most visited country on Earth. 90 million tourists per year. The UK gets 40 million.",
+    "Nobel Prizes. The UK dominates with 138 Nobel laureates. France has 73.",
+    "The final score. Four all. It's a tie!"
+  ],
+  "data": {
+    "countryA": "UK",
+    "countryB": "FRANCE",
+    "flagA": "\ud83c\uddec\ud83c\udde7",
+    "flagB": "\ud83c\uddeb\ud83c\uddf7",
+    "colorA": "#012169",
+    "colorB": "#002395",
+    "stats": [
+      {
+        "label": "Population",
+        "valueA": 67000000,
+        "valueB": 68000000,
+        "unit": "people",
+        "higherIsBetter": true
+      },
+      {
+        "label": "GDP (Nominal)",
+        "valueA": 3300000000000,
+        "valueB": 3100000000000,
+        "unit": "USD",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Land Area",
+        "valueA": 243000,
+        "valueB": 640000,
+        "unit": "km\u00b2",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Military Personnel",
+        "valueA": 150000,
+        "valueB": 205000,
+        "unit": "active",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Nuclear Warheads",
+        "valueA": 225,
+        "valueB": 290,
+        "higherIsBetter": true
+      },
+      {
+        "label": "Olympic Gold Medals",
+        "valueA": 285,
+        "valueB": 259,
+        "higherIsBetter": true
+      },
+      {
+        "label": "Tourism (Annual)",
+        "valueA": 40000000,
+        "valueB": 90000000,
+        "unit": "visitors",
+        "higherIsBetter": true
+      },
+      {
+        "label": "Nobel Prizes",
+        "valueA": 138,
+        "valueB": 73,
+        "higherIsBetter": true
+      }
+    ]
+  },
+  "seo": {
+    "title": "UK vs France \u2014 Who ACTUALLY Wins? \ud83c\uddec\ud83c\udde7\ud83c\uddeb\ud83c\uddf7",
+    "tags": [
+      "UK vs France",
+      "country comparison",
+      "United Kingdom",
+      "France",
+      "shorts",
+      "datavault"
+    ]
+  }
+}

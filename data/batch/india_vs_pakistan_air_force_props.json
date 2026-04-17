@@ -1,0 +1,109 @@
+{
+  "countryA": "INDIA",
+  "countryB": "PAKISTAN",
+  "flagA": "🇮🇳",
+  "flagB": "🇵🇰",
+  "colorA": "#FF9933",
+  "colorB": "#0B8457",
+  "stats": [
+    {
+      "label": "Total Aircraft",
+      "valueA": 2183,
+      "valueB": 1397,
+      "unit": "aircraft",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Fighter Aircraft",
+      "valueA": 476,
+      "valueB": 331,
+      "unit": "fighters",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Attack Aircraft",
+      "valueA": 124,
+      "valueB": 90,
+      "unit": "attack",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Helicopters",
+      "valueA": 594,
+      "valueB": 379,
+      "unit": "helos",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Special Mission",
+      "valueA": 72,
+      "valueB": 27,
+      "unit": "special",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Trainer Aircraft",
+      "valueA": 334,
+      "valueB": 563,
+      "unit": "trainers",
+      "higherIsBetter": true
+    }
+  ],
+  "narrationSrc": "audio/india_vs_pakistan_air_force_narration.mp3",
+  "timingLines": [
+    {
+      "index": 0,
+      "text": "India versus Pakistan. Air force only. Who wins?",
+      "startFrame": 0,
+      "endFrame": 120
+    },
+    {
+      "index": 1,
+      "text": "Start with total aircraft. India leads with about 2,183. Pakistan has about 1,397.",
+      "startFrame": 132,
+      "endFrame": 386
+    },
+    {
+      "index": 2,
+      "text": "Fighter aircraft are closer, but India still leads. 476 versus 331.",
+      "startFrame": 398,
+      "endFrame": 600
+    },
+    {
+      "index": 3,
+      "text": "Attack aircraft also go to India. 124 versus 90.",
+      "startFrame": 612,
+      "endFrame": 748
+    },
+    {
+      "index": 4,
+      "text": "Helicopter strength gives India another edge. 594 versus 379.",
+      "startFrame": 760,
+      "endFrame": 949
+    },
+    {
+      "index": 5,
+      "text": "Special mission aircraft matter for surveillance and coordination. India has 72. Pakistan has 27.",
+      "startFrame": 961,
+      "endFrame": 1175
+    },
+    {
+      "index": 6,
+      "text": "One surprise: trainer aircraft actually favor Pakistan. 563 versus 334.",
+      "startFrame": 1187,
+      "endFrame": 1399
+    },
+    {
+      "index": 7,
+      "text": "So for total airpower, India is ahead in scale, fighters, attack aircraft, helicopters, and support platforms.",
+      "startFrame": 1411,
+      "endFrame": 1638
+    },
+    {
+      "index": 8,
+      "text": "Pakistan stays dangerous in a direct contest, but by the numbers, India wins the air force showdown.",
+      "startFrame": 1650,
+      "endFrame": 1846
+    }
+  ]
+}

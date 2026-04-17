@@ -1,0 +1,98 @@
+{
+  "lines": [
+    "India versus Pakistan. By the numbers, who really comes out ahead?",
+    "Population isn't close. India has about 1 point 45 billion people. Pakistan has about 251 million.",
+    "GDP is another huge gap. India is near 3 point 9 trillion dollars. Pakistan is around 372 billion.",
+    "Land area also goes to India. About 3 point 29 million square kilometers versus 882 thousand.",
+    "Life expectancy favors India too. Roughly 72 years versus 68.",
+    "Military spending is where the gap becomes dramatic. India spends about 86 billion dollars. Pakistan spends around 10 billion.",
+    "Internet access is improving in both, but India still leads. About 70 percent versus 57 percent.",
+    "The closest category is nuclear warheads. India is estimated near 172. Pakistan around 170. That's basically neck and neck.",
+    "So if you're scoring the big national numbers, India wins clearly. But the nuclear balance means the rivalry stays serious."
+  ],
+  "data": {
+    "countryA": "INDIA",
+    "countryB": "PAKISTAN",
+    "flagA": "🇮🇳",
+    "flagB": "🇵🇰",
+    "colorA": "#FF9933",
+    "colorB": "#0B8457",
+    "stats": [
+      {
+        "label": "Population",
+        "valueA": 1450935791,
+        "valueB": 251269164,
+        "unit": "people",
+        "higherIsBetter": true,
+        "note": "India's scale is overwhelming here."
+      },
+      {
+        "label": "GDP",
+        "valueA": 3909891533858.08,
+        "valueB": 371570000121.266,
+        "unit": "USD",
+        "higherIsBetter": true,
+        "note": "India's economy is roughly ten times larger."
+      },
+      {
+        "label": "Land Area",
+        "valueA": 3287263,
+        "valueB": 881913,
+        "unit": "km²",
+        "higherIsBetter": true,
+        "note": "More territory means more strategic depth."
+      },
+      {
+        "label": "Life Expectancy",
+        "valueA": 72.235,
+        "valueB": 67.799,
+        "unit": "years",
+        "higherIsBetter": true,
+        "note": "A quieter but important lead."
+      },
+      {
+        "label": "Military Spending",
+        "valueA": 86125976248.5524,
+        "valueB": 10165952756.2448,
+        "unit": "USD",
+        "higherIsBetter": true,
+        "note": "This is where the gap becomes dramatic."
+      },
+      {
+        "label": "Internet Users",
+        "valueA": 70.0,
+        "valueB": 57.253,
+        "unit": "%",
+        "higherIsBetter": true,
+        "note": "India also leads in digital reach."
+      },
+      {
+        "label": "Nuclear Warheads",
+        "valueA": 172,
+        "valueB": 170,
+        "unit": "warheads",
+        "higherIsBetter": true,
+        "note": "This one is effectively a dead heat."
+      }
+    ]
+  },
+  "seo": {
+    "title": "India vs Pakistan — Who ACTUALLY Wins? 🇮🇳🇵🇰",
+    "description": "India vs Pakistan by the numbers: population, GDP, land area, life expectancy, military spending, internet access, and the nuclear balance.\n\nThis Datavault short compares the biggest measurable gaps without politics — just the numbers.\n\n#shorts #india #pakistan #comparison #datavault",
+    "tags": [
+      "India vs Pakistan",
+      "country comparison",
+      "India",
+      "Pakistan",
+      "data comparison",
+      "geopolitics",
+      "population",
+      "GDP",
+      "shorts",
+      "datavault"
+    ],
+    "published_url": "https://youtube.com/shorts/_Y6CjGjiOvM",
+    "share_url": "https://youtube.com/shorts/_Y6CjGjiOvM?feature=share",
+    "video_id": "_Y6CjGjiOvM"
+  }
+}

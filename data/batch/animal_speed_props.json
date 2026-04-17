@@ -1,0 +1,100 @@
+{
+  "title": "ANIMAL SPEED",
+  "subtitle": "How fast can animals run? Let's compare.",
+  "items": [
+    {
+      "name": "Human",
+      "size": 45,
+      "unit": "km/h",
+      "color": "#3A86FF"
+    },
+    {
+      "name": "Elephant",
+      "size": 40,
+      "unit": "km/h",
+      "color": "#8B8FA3"
+    },
+    {
+      "name": "Grizzly Bear",
+      "size": 56,
+      "unit": "km/h",
+      "color": "#8B4513"
+    },
+    {
+      "name": "Lion",
+      "size": 80,
+      "unit": "km/h",
+      "color": "#FFB800"
+    },
+    {
+      "name": "Pronghorn",
+      "size": 89,
+      "unit": "km/h",
+      "color": "#FF6B35"
+    },
+    {
+      "name": "Cheetah",
+      "size": 120,
+      "unit": "km/h",
+      "color": "#FFD700"
+    },
+    {
+      "name": "Peregrine Falcon",
+      "size": 390,
+      "unit": "km/h",
+      "color": "#00E5FF"
+    }
+  ],
+  "narrationSrc": "audio/animal_speed_narration.wav",
+  "timingLines": [
+    {
+      "index": 0,
+      "text": "How fast can animals run? Let's compare.",
+      "startFrame": 0,
+      "endFrame": 108
+    },
+    {
+      "index": 1,
+      "text": "Human. The fastest person alive hits 45 kilometers per hour.",
+      "startFrame": 115,
+      "endFrame": 282
+    },
+    {
+      "index": 2,
+      "text": "Elephant. Surprisingly quick at 40 km per hour. Slower than us.",
+      "startFrame": 288,
+      "endFrame": 450
+    },
+    {
+      "index": 3,
+      "text": "Grizzly Bear. Don't try to outrun one. 56 km per hour.",
+      "startFrame": 456,
+      "endFrame": 616
+    },
+    {
+      "index": 4,
+      "text": "Lion. The king charges at 80 km per hour.",
+      "startFrame": 623,
+      "endFrame": 739
+    },
+    {
+      "index": 5,
+      "text": "Pronghorn Antelope. Built for speed. 89 km per hour. Faster than any predator in North America.",
+      "startFrame": 746,
+      "endFrame": 991
+    },
+    {
+      "index": 6,
+      "text": "Cheetah. The fastest land animal on Earth. 120 km per hour. Zero to 100 in 3 seconds.",
+      "startFrame": 997,
+      "endFrame": 1261
+    },
+    {
+      "index": 7,
+      "text": "Peregrine Falcon. The fastest animal alive. 390 km per hour in a dive.",
+      "startFrame": 1267,
+      "endFrame": 1479
+    }
+  ],
+  "bgVariant": "gradient"
+}

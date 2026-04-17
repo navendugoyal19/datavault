@@ -1,0 +1,116 @@
+{
+  "countryA": "INDIA",
+  "countryB": "PAKISTAN",
+  "flagA": "🇮🇳",
+  "flagB": "🇵🇰",
+  "colorA": "#FF9933",
+  "colorB": "#0B8457",
+  "stats": [
+    {
+      "label": "Active Personnel",
+      "valueA": 1431000,
+      "valueB": 660000,
+      "unit": "active",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Defense Budget",
+      "valueA": 109000000000,
+      "valueB": 9102115350,
+      "unit": "USD",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Total Aircraft",
+      "valueA": 2183,
+      "valueB": 1397,
+      "unit": "aircraft",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Fighter Aircraft",
+      "valueA": 476,
+      "valueB": 331,
+      "unit": "fighters",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Tank Strength",
+      "valueA": 3913,
+      "valueB": 2677,
+      "unit": "tanks",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Fleet Strength",
+      "valueA": 343,
+      "valueB": 120,
+      "unit": "assets",
+      "higherIsBetter": true
+    },
+    {
+      "label": "Nuclear Warheads",
+      "valueA": 190,
+      "valueB": 170,
+      "unit": "warheads",
+      "higherIsBetter": true
+    }
+  ],
+  "narrationSrc": "audio/india_vs_pakistan_military_narration.mp3",
+  "timingLines": [
+    {
+      "index": 0,
+      "text": "India versus Pakistan. Military only. Who wins?",
+      "startFrame": 0,
+      "endFrame": 120
+    },
+    {
+      "index": 1,
+      "text": "Active personnel gives India the first edge. About 1 point 43 million versus 660 thousand.",
+      "startFrame": 132,
+      "endFrame": 348
+    },
+    {
+      "index": 2,
+      "text": "Defense budget is where the gap explodes. India spends about 109 billion dollars. Pakistan is near 9 billion.",
+      "startFrame": 360,
+      "endFrame": 590
+    },
+    {
+      "index": 3,
+      "text": "Total aircraft also favor India. About 2,183 versus 1,397.",
+      "startFrame": 602,
+      "endFrame": 822
+    },
+    {
+      "index": 4,
+      "text": "Fighter aircraft are closer, but India still leads. 476 versus 331.",
+      "startFrame": 834,
+      "endFrame": 1070
+    },
+    {
+      "index": 5,
+      "text": "Tank strength goes to India too. 3,913 tanks versus 2,677.",
+      "startFrame": 1082,
+      "endFrame": 1296
+    },
+    {
+      "index": 6,
+      "text": "At sea, India has overwhelming depth. 343 naval assets versus 120.",
+      "startFrame": 1308,
+      "endFrame": 1508
+    },
+    {
+      "index": 7,
+      "text": "But nuclear warheads are far closer. India is estimated around 190. Pakistan around 170.",
+      "startFrame": 1520,
+      "endFrame": 1733
+    },
+    {
+      "index": 8,
+      "text": "So in conventional military depth, India wins clearly. But the nuclear balance keeps the rivalry dangerous.",
+      "startFrame": 1745,
+      "endFrame": 1980
+    }
+  ]
+}

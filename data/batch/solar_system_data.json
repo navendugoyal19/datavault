@@ -1,0 +1,68 @@
+{
+  "lines": [
+    "The planets of our solar system. Smallest to largest.",
+    "Mercury. The smallest planet. Just 4,879 kilometers across.",
+    "Mars. The red planet. 6,779 kilometers.",
+    "Venus. Almost the same size as Earth. 12,104 kilometers.",
+    "Earth. Our home. 12,742 kilometers.",
+    "Neptune. The first ice giant. 49,528 kilometers. Nearly 4 times wider than Earth.",
+    "Saturn. Famous for its rings. 116,460 kilometers across.",
+    "Jupiter. The king of planets. 139,820 kilometers. You could fit every other planet inside it."
+  ],
+  "items": [
+    {
+      "name": "Mercury",
+      "size": 4879,
+      "unit": "km",
+      "color": "#8B8FA3"
+    },
+    {
+      "name": "Mars",
+      "size": 6779,
+      "unit": "km",
+      "color": "#FF3D5A"
+    },
+    {
+      "name": "Venus",
+      "size": 12104,
+      "unit": "km",
+      "color": "#FFB800"
+    },
+    {
+      "name": "Earth",
+      "size": 12742,
+      "unit": "km",
+      "color": "#3A86FF"
+    },
+    {
+      "name": "Neptune",
+      "size": 49528,
+      "unit": "km",
+      "color": "#4ECDC4"
+    },
+    {
+      "name": "Saturn",
+      "size": 116460,
+      "unit": "km",
+      "color": "#FF6B35"
+    },
+    {
+      "name": "Jupiter",
+      "size": 139820,
+      "unit": "km",
+      "color": "#A855F7"
+    }
+  ],
+  "seo": {
+    "title": "Solar System Size Comparison \u2014 Smallest to Largest \ud83e\ude90",
+    "tags": [
+      "solar system",
+      "planet sizes",
+      "Jupiter",
+      "size comparison",
+      "space",
+      "shorts",
+      "datavault"
+    ]
+  }
+}

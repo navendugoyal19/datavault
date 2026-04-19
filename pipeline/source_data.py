@@ -261,6 +261,7 @@ def save_bar_race_data(
     *,
     top_n: int = 10,
     year_range: tuple[int, int] = (1960, 2023),
+    countries: list[str] | None = None,
 ) -> Path:
     """Fetch time-series data and save as BarChartFrame[] JSON.
 
@@ -269,7 +270,7 @@ def save_bar_race_data(
     out = Path(output_path)
     out.parent.mkdir(parents=True, exist_ok=True)
 
-    records = fetch_world_bank(indicator, years=year_range, exclude_aggregates=True)
+    records = fetch_world_bank(indicator, countries=countries, years=year_range, exclude_aggregates=True)
     if not records:
         raise RuntimeError(f"No data for indicator {indicator}")
 
@@ -281,14 +282,14 @@ def save_bar_race_data(
     frames: list[dict[str, Any]] = []
     for year in sorted(by_year.keys()):
         entries_raw = sorted(by_year[year], key=lambda x: x["value"], reverse=True)
-        entries = []
+        bars = []
         for i, e in enumerate(entries_raw[:top_n]):
-            entries.append({
+            bars.append({
                 "name": e["country"],
                 "value": e["value"],
                 "color": BAR_COLORS[i % len(BAR_COLORS)],
             })
-        frames.append({"year": year, "entries": entries})
+        frames.append({"year": year, "bars": bars})
 
     output = {
         "title": title,
@@ -342,6 +343,7 @@ def main() -> None:
     br.add_argument("--top", type=int, default=10, help="Top N countries per frame")
     br.add_argument("--start", type=int, default=1960, help="Start year")
     br.add_argument("--end", type=int, default=2023, help="End year")
+    br.add_argument("--countries", nargs="+", default=None, help="Filter to specific country names or codes")
 
     # country-vs
     cv = sub.add_parser("country-vs", help="Fetch country-vs-country comparison data")
@@ -358,6 +360,7 @@ def main() -> None:
             output_path=ROOT / args.out,
             top_n=args.top,
             year_range=(args.start, args.end),
+            countries=args.countries,
         )
     elif args.command == "country-vs":
         save_comparison_data(

@@ -9,6 +9,7 @@ import { SizeComparisonVideo } from "./compositions/SizeComparisonVideo";
 import { CountryVsShortGeneric } from "./compositions/CountryVsShortGeneric";
 import { SizeComparisonShortGeneric } from "./compositions/SizeComparisonShortGeneric";
 import { ComparisonThumbnailGeneric } from "./compositions/ComparisonThumbnailGeneric";
+import { GreatConvergenceLong } from "./compositions/GreatConvergenceLong";
 import { TOTAL_DURATION_FRAMES as INDIA_PAKISTAN_DURATION } from "./generated/india_vs_pakistan_timing";
 
 export const Root: React.FC = () => {
@@ -39,6 +40,16 @@ export const Root: React.FC = () => {
         id="SizeComparisonVideo"
         component={SizeComparisonVideo}
         durationInFrames={2400}
+        fps={30}
+        width={1920}
+        height={1080}
+      />
+
+      {/* Long-form: The Great Convergence — GDP per capita PPP bar chart race (~8 min) */}
+      <Composition
+        id="GreatConvergenceLong"
+        component={GreatConvergenceLong}
+        durationInFrames={14400}
         fps={30}
         width={1920}
         height={1080}

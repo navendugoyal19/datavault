@@ -1,0 +1,2727 @@
+{
+  "title": "GDP per Capita (PPP)",
+  "type": "bar-race",
+  "indicator": "NY.GDP.PCAP.PP.KD",
+  "frames": [
+    {
+      "year": 1990,
+      "entries": [
+        {
+          "name": "Saudi Arabia",
+          "value": 65196.573386053,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Switzerland",
+          "value": 64010.7585544032,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 44378.5240275575,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Netherlands",
+          "value": 43128.3126390938,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Italy",
+          "value": 42656.7445101659,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Germany",
+          "value": 42287.6527205782,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Sweden",
+          "value": 40549.3075177599,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Canada",
+          "value": 40475.1123914259,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 38655.8856842914,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Australia",
+          "value": 36267.7410592234,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "Japan",
+          "value": 35272.4189828727,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 32993.1694419805,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Spain",
+          "value": 31773.2267420042,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 29643.595703125,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Mexico",
+          "value": 17169.5925840496,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 1991,
+      "entries": [
+        {
+          "name": "Saudi Arabia",
+          "value": 67268.5518488763,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Switzerland",
+          "value": 62636.7741067256,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Germany",
+          "value": 44125.1442791519,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Netherlands",
+          "value": 43833.4841712698,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "United States",
+          "value": 43742.0261213549,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Italy",
+          "value": 43283.0204441901,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Sweden",
+          "value": 39812.3177083366,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Canada",
+          "value": 39139.3122852292,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 38937.9522513749,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 36372.0347517186,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "Australia",
+          "value": 35670.6678637309,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Spain",
+          "value": 32499.3481371902,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 32466.1961615901,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 28066.921875,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Argentina",
+          "value": 18295.6091996812,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 1992,
+      "entries": [
+        {
+          "name": "Saudi Arabia",
+          "value": 67183.9100290945,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Switzerland",
+          "value": 61922.8908444333,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Germany",
+          "value": 44672.6920465936,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "United States",
+          "value": 44659.1514617994,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Netherlands",
+          "value": 44245.5254850329,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Italy",
+          "value": 43614.4850883758,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "France",
+          "value": 39331.9041920718,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Sweden",
+          "value": 39120.9249133997,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Canada",
+          "value": 39023.182197815,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Japan",
+          "value": 36563.6226393696,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "Australia",
+          "value": 35426.2848289008,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 32797.7299280942,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Spain",
+          "value": 32641.082719936,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 23965.244140625,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Argentina",
+          "value": 19476.2840606477,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 1993,
+      "entries": [
+        {
+          "name": "Saudi Arabia",
+          "value": 64517.6652891052,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Switzerland",
+          "value": 61284.2042587758,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 45286.9355090342,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Netherlands",
+          "value": 44490.7561855682,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Germany",
+          "value": 43948.1489792699,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Italy",
+          "value": 43216.1096444751,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Canada",
+          "value": 39622.4790617509,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "France",
+          "value": 39020.6141584284,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Sweden",
+          "value": 38090.9458960736,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Australia",
+          "value": 36533.1468283451,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "Japan",
+          "value": 36277.9231838837,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 33861.2523742725,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Spain",
+          "value": 32137.3138437727,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 21899.517578125,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Argentina",
+          "value": 20791.3451479504,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 1994,
+      "entries": [
+        {
+          "name": "Saudi Arabia",
+          "value": 62403.6937320122,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Switzerland",
+          "value": 61569.5965405613,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 46537.3571477424,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Netherlands",
+          "value": 45532.8045253849,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Germany",
+          "value": 44933.2942631644,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Italy",
+          "value": 44136.7059141923,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Canada",
+          "value": 40952.1359325297,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "France",
+          "value": 39801.3888979817,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Sweden",
+          "value": 39340.0016622619,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Australia",
+          "value": 37622.6524772939,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "Japan",
+          "value": 36568.7123907341,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 35448.1781034952,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Spain",
+          "value": 32746.9287826598,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Argentina",
+          "value": 21711.842788091,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 19153.36328125,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 61453.6297020666,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 60058.3174503511,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 47220.9579604358,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Netherlands",
+          "value": 46720.2879220144,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Germany",
+          "value": 45475.6859114918,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Italy",
+          "value": 45410.1391731091,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Canada",
+          "value": 41617.7233238779,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Sweden",
+          "value": 40736.4273400135,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 40570.7169560557,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Australia",
+          "value": 38653.3366778657,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "Japan",
+          "value": 37442.8946125519,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 36603.7383816545,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Spain",
+          "value": 33501.7314182929,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Argentina",
+          "value": 20819.4999479903,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 20697.8969808345,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 1996,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 61471.1689633393,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 59612.8125993665,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 48435.70010416,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Netherlands",
+          "value": 48095.966024712,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Italy",
+          "value": 46008.2389303796,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Germany",
+          "value": 45814.8523072639,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Canada",
+          "value": 41880.5520989428,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Sweden",
+          "value": 41364.9857254278,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 40990.7395148125,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Australia",
+          "value": 39663.1617728168,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "Japan",
+          "value": 38528.791438519,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 37465.3771277415,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Spain",
+          "value": 34232.3786868602,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 22139.7963785414,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Argentina",
+          "value": 21695.5949515372,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 1997,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 62709.9871171841,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 58875.5473738828,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 49984.2696497419,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Netherlands",
+          "value": 49881.8758323461,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Italy",
+          "value": 46869.4256086419,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Germany",
+          "value": 46596.1810672853,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Canada",
+          "value": 43241.2407061887,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Sweden",
+          "value": 42608.4136690457,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 41876.9330265158,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Australia",
+          "value": 40773.5660516518,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 39192.610054674,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Japan",
+          "value": 38814.2535478124,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Spain",
+          "value": 35312.0862854389,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 23311.0420901741,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Argentina",
+          "value": 23172.1583398342,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 64418.3857592838,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 58306.622809723,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Netherlands",
+          "value": 51879.3803259073,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "United States",
+          "value": 51619.8698375216,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Italy",
+          "value": 47701.3974191265,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Germany",
+          "value": 47565.4526830045,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Canada",
+          "value": 44553.2827303697,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Sweden",
+          "value": 44392.8449919299,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 43162.5423856938,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Australia",
+          "value": 42257.1718122395,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 40347.1799533754,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Japan",
+          "value": 38217.1955920953,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Spain",
+          "value": 36679.0942334698,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Argentina",
+          "value": 23783.1017185449,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 22000.3387603516,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 65177.8822005074,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 55878.1736494426,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Netherlands",
+          "value": 54134.3622865113,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "United States",
+          "value": 53474.045430104,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Germany",
+          "value": 48547.0040773031,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Italy",
+          "value": 48493.6651210308,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Canada",
+          "value": 46464.5457841559,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Sweden",
+          "value": 46221.8079937232,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 44400.1357889191,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Australia",
+          "value": 43899.073794405,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 41396.9358449656,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Spain",
+          "value": 38141.316878689,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Japan",
+          "value": 38020.0940020688,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 24382.2508517369,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Argentina",
+          "value": 22714.5111302701,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 67378.3901472877,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Netherlands",
+          "value": 56016.8727218416,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 55962.2661342789,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "United States",
+          "value": 55038.6224959451,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Italy",
+          "value": 50353.4200415436,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Germany",
+          "value": 49875.8764172059,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Canada",
+          "value": 48399.3055389359,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Sweden",
+          "value": 48284.8001841043,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 45922.4789363701,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Australia",
+          "value": 45099.0752097084,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 43115.5630082237,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Spain",
+          "value": 39945.8971298178,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Japan",
+          "value": 39005.9136305044,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 26404.1588575745,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Argentina",
+          "value": 22281.3814299958,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 68008.3441852855,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Netherlands",
+          "value": 56887.4332731111,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 55017.3049786608,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 53309.111388544,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Italy",
+          "value": 51332.2904432567,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Germany",
+          "value": 50606.7114616457,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Sweden",
+          "value": 48810.644590655,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Canada",
+          "value": 48774.1675534138,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 46454.8706927365,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Australia",
+          "value": 45428.2000837579,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 43976.8391685783,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Spain",
+          "value": 41224.2924057393,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Japan",
+          "value": 39062.2817355235,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 27440.6564915847,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 21219.904296875,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 67446.4044310268,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Netherlands",
+          "value": 56664.4134372303,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 55436.1169813778,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Italy",
+          "value": 51369.1149098293,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Germany",
+          "value": 50406.3800683443,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 50371.9783079834,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Sweden",
+          "value": 49760.2161636006,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Canada",
+          "value": 49695.0066909867,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Australia",
+          "value": 46688.3947760633,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "France",
+          "value": 46610.7820717214,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 44539.4636492853,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Spain",
+          "value": 41766.0378188791,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Japan",
+          "value": 38987.9102707538,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 29395.2766036796,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 22319.677734375,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 66926.167976443,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 56498.2078314911,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Netherlands",
+          "value": 56452.8674805644,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 52234.649280791,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Italy",
+          "value": 51126.2585544038,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Sweden",
+          "value": 50507.9330738641,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Canada",
+          "value": 50139.7862347007,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Germany",
+          "value": 50111.5752591319,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Australia",
+          "value": 47581.2285345879,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "France",
+          "value": 46730.975806379,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 45759.4020280715,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Spain",
+          "value": 42223.130174522,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Japan",
+          "value": 39501.806782419,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 30142.4605585814,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 24057.927734375,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 68263.4411390817,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 58131.6336853496,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Netherlands",
+          "value": 57391.3645202468,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 54196.5514152953,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Sweden",
+          "value": 52412.411275873,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Italy",
+          "value": 51495.0028841364,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Canada",
+          "value": 51210.6796118735,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Germany",
+          "value": 50704.9219887398,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Australia",
+          "value": 49061.2761503925,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "France",
+          "value": 47720.4413351103,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 46558.1299600699,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Spain",
+          "value": 42793.3902326006,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Japan",
+          "value": 40351.776374395,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 31579.5283048867,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 25894.146484375,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 69692.5954827493,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 59604.7536374577,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Netherlands",
+          "value": 58422.0135197444,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 54931.7942450845,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Sweden",
+          "value": 53661.3178643623,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Canada",
+          "value": 52356.5578038534,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Italy",
+          "value": 51585.6445807938,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Germany",
+          "value": 51182.9591615718,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Australia",
+          "value": 49997.0664953941,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "France",
+          "value": 48257.4650937971,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 47529.9377511933,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Spain",
+          "value": 43570.7652574033,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Japan",
+          "value": 41075.8243580849,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 32886.0472450743,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 27656.658203125,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 72077.8598470308,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 60676.5655690664,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Netherlands",
+          "value": 60391.544265121,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Sweden",
+          "value": 55855.4978279347,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 54373.737695386,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Germany",
+          "value": 53222.0409282226,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Canada",
+          "value": 53195.781842155,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Italy",
+          "value": 52304.2402949819,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Australia",
+          "value": 50693.7248649798,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "France",
+          "value": 49223.247197008,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 48215.0486668938,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Spain",
+          "value": 44572.6815459931,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Japan",
+          "value": 41613.1483821427,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 34429.6222013137,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 30022.671875,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 74234.3010991931,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Netherlands",
+          "value": 62601.6205718183,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 61306.596938633,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Sweden",
+          "value": 57230.7901610156,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Germany",
+          "value": 54832.9610328446,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Canada",
+          "value": 53761.8620298113,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 53318.4191601834,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Italy",
+          "value": 52747.1905476807,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Australia",
+          "value": 51663.2403953881,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "France",
+          "value": 50157.7837477634,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 49243.2517368789,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Spain",
+          "value": 45301.2843416374,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Japan",
+          "value": 42182.1758636624,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 36257.3401689702,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 32630.369140625,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 75355.202488789,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Netherlands",
+          "value": 63678.4032834996,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 60798.4338401606,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Sweden",
+          "value": 56262.4700751994,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Germany",
+          "value": 55425.1109251245,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 54407.7081673247,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Canada",
+          "value": 53711.6792064975,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Australia",
+          "value": 52473.3819160773,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Italy",
+          "value": 51806.3906176391,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "France",
+          "value": 50068.2969141379,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 48833.0712359377,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Spain",
+          "value": 44926.348951812,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Japan",
+          "value": 41645.5722078975,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 37064.1518484106,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 34342.2265625,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 72709.8138293408,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Netherlands",
+          "value": 61029.7298855714,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 58714.9736915861,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Sweden",
+          "value": 53411.2005853182,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Germany",
+          "value": 52484.8550055388,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Australia",
+          "value": 52407.9115378584,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 51760.7643987566,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Canada",
+          "value": 51552.4223837895,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Italy",
+          "value": 48774.3916833748,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "France",
+          "value": 48404.9657826363,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 46241.8039957358,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Spain",
+          "value": 42852.220888454,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Japan",
+          "value": 39279.498871012,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 37176.1939270969,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 31654.00390625,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 74290.2619629278,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Netherlands",
+          "value": 61518.5540088717,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 59789.4129069749,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Sweden",
+          "value": 56003.2704715511,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 54911.547517012,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Germany",
+          "value": 54738.7083006711,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Australia",
+          "value": 52739.2681556133,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Canada",
+          "value": 52558.4408142168,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Italy",
+          "value": 49301.6959141674,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "France",
+          "value": 49130.422942344,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 46917.8912974837,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Spain",
+          "value": 42695.5274189933,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Japan",
+          "value": 40881.7972423185,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 39574.0500732947,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 33063.5859375,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 74800.8886353533,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Netherlands",
+          "value": 62318.1416226231,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 60245.4843994565,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 58645.4459416531,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Germany",
+          "value": 57858.4222602355,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Sweden",
+          "value": 57340.5039813247,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Canada",
+          "value": 53681.1296700569,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Australia",
+          "value": 53257.0473237603,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 50085.6829779109,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Italy",
+          "value": 49473.0149235634,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 46949.0207981339,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Spain",
+          "value": 42271.8346788238,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Japan",
+          "value": 40967.3431400832,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 40719.2273771671,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 34444.64453125,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 74883.6158924249,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Netherlands",
+          "value": 61480.8126014961,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "United States",
+          "value": 61134.530608776,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 59471.7001909394,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Germany",
+          "value": 58017.5855783147,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Sweden",
+          "value": 56682.0187013753,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Australia",
+          "value": 54403.8836902433,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Canada",
+          "value": 54034.8034751988,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 49935.6269081617,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Italy",
+          "value": 47795.9579360541,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 47328.2100308702,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Japan",
+          "value": 41596.9238038796,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 41537.6728611117,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Spain",
+          "value": 41034.0481566356,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 35740.69921875,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 75354.1550500884,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 61958.7234416953,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Netherlands",
+          "value": 61281.288807752,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Germany",
+          "value": 58089.1708538296,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 57998.4644619155,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Sweden",
+          "value": 56843.1649263734,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Australia",
+          "value": 54895.0052588984,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Canada",
+          "value": 54712.178423981,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 50066.5304324783,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 47820.2821627006,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "Italy",
+          "value": 46833.3615309303,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 42709.9751857887,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Japan",
+          "value": 42492.2439560498,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Spain",
+          "value": 40594.914008768,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 36260.06640625,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 76189.6018443969,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 63018.8033942192,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Netherlands",
+          "value": 62045.8563802085,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Germany",
+          "value": 59108.6977289315,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 58872.2671400126,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Sweden",
+          "value": 57574.0500485264,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Canada",
+          "value": 55723.4835404159,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Australia",
+          "value": 55489.068844146,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 50326.567863089,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 48964.2863514962,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "Italy",
+          "value": 46825.6511245062,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 43806.9250985661,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Japan",
+          "value": 42674.6976301321,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Spain",
+          "value": 41339.4111169417,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 35853.24609375,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 76566.0772542148,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 64359.4725899466,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Netherlands",
+          "value": 63081.3941350677,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Germany",
+          "value": 59573.7089539686,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Sweden",
+          "value": 59468.3538687625,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 58498.5399040699,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Australia",
+          "value": 55879.9958817103,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Canada",
+          "value": 55660.8675272614,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 50682.8953586333,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 49652.7188154397,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "Italy",
+          "value": 47311.8255262709,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 44849.106767089,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Japan",
+          "value": 43386.7100739513,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Spain",
+          "value": 43053.761430314,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 35037.15234375,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 77301.2124304857,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 65017.654963867,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Netherlands",
+          "value": 64267.736357935,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Germany",
+          "value": 60407.9713703755,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Sweden",
+          "value": 59977.3886010694,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 57308.4484127497,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Australia",
+          "value": 56529.951824687,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Canada",
+          "value": 55606.1549191947,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 50984.075297832,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 50346.8592925717,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "Italy",
+          "value": 47987.8379581014,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 46088.2430785383,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Spain",
+          "value": 44274.6676149922,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Japan",
+          "value": 43736.1305076612,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 35005.44921875,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 77626.9027376941,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 66155.5555676249,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Netherlands",
+          "value": 65666.0036593237,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Germany",
+          "value": 61866.4872205276,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Sweden",
+          "value": 60288.7998168676,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 57942.5484983044,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Australia",
+          "value": 56881.8569859104,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Canada",
+          "value": 56612.3285367448,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 51895.5662985838,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 51586.6756125445,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "Italy",
+          "value": 48849.2183534756,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 47536.7898568851,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Spain",
+          "value": 45446.2508575695,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Japan",
+          "value": 44505.2792603684,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 35570.390625,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 79261.3563641288,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 67719.7656392064,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Netherlands",
+          "value": 66758.2640145753,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Germany",
+          "value": 62381.3478772241,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 61359.4653740388,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Sweden",
+          "value": 60647.449528586,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Australia",
+          "value": 57647.8455068105,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Canada",
+          "value": 57337.4909099991,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 52560.9536243841,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 52131.6948248133,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "Italy",
+          "value": 49133.143527174,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 48834.4471157733,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Spain",
+          "value": 46325.2099441141,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Japan",
+          "value": 44848.4899421798,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Russian Federation",
+          "value": 36536.6953125,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 79596.7029465098,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 69112.602688656,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Netherlands",
+          "value": 67847.8542926795,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Germany",
+          "value": 62849.3741865912,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 62647.7299487842,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Sweden",
+          "value": 61601.6292338778,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Australia",
+          "value": 58048.6188420831,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Canada",
+          "value": 57583.845798092,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 53448.5548849943,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 52515.684446109,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 49790.8679884821,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Italy",
+          "value": 49690.6298505274,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Spain",
+          "value": 46896.4171141424,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Japan",
+          "value": 44730.9102844958,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Poland",
+          "value": 38181.6230334689,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 77324.8870934007,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 67342.0709287722,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Netherlands",
+          "value": 64862.1922496366,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Germany",
+          "value": 60203.289760263,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Sweden",
+          "value": 59975.3644061895,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 57420.7335736424,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Australia",
+          "value": 57260.4650530108,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Canada",
+          "value": 54092.8790317796,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 49374.0926148025,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "France",
+          "value": 49311.333409639,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 47158.985486323,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Italy",
+          "value": 45505.0688708956,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Japan",
+          "value": 42992.4796365328,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Spain",
+          "value": 41553.4477945675,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Poland",
+          "value": 37852.8021313639,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 81001.4111206118,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 71307.4017277218,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Netherlands",
+          "value": 68573.5648786446,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Sweden",
+          "value": 62731.700616293,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 62690.4966645929,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Germany",
+          "value": 62530.7653199239,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Australia",
+          "value": 58327.4146842325,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Canada",
+          "value": 56995.1176781351,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 52517.3354905855,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 51718.2518656631,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 51004.4271714238,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Italy",
+          "value": 49825.3934111848,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Japan",
+          "value": 44355.3487163354,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Spain",
+          "value": 44251.6658222621,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Poland",
+          "value": 41059.5847829682,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 82777.293582076,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 72679.2575396348,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Netherlands",
+          "value": 71324.0360349277,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 67178.5902274906,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Germany",
+          "value": 63676.087821808,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Sweden",
+          "value": 63088.4236678734,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Australia",
+          "value": 60029.1329190733,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Canada",
+          "value": 58321.0611834624,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 53673.8137406422,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 53228.6035655365,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 53139.151252206,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Italy",
+          "value": 52333.3274270604,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Spain",
+          "value": 46733.4809780536,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Japan",
+          "value": 44972.3438362201,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Poland",
+          "value": 43405.0215797441,
+          "color": "#FFEAA7"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "entries": [
+        {
+          "name": "Switzerland",
+          "value": 82295.2993346568,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United States",
+          "value": 74158.7164155605,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Netherlands",
+          "value": 70198.9297909022,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Saudi Arabia",
+          "value": 64481.8441927288,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Germany",
+          "value": 63039.3719696432,
+          "color": "#FFEAA7"
+        },
+        {
+          "name": "Sweden",
+          "value": 62662.7652797761,
+          "color": "#DDA0DD"
+        },
+        {
+          "name": "Australia",
+          "value": 60684.9596204883,
+          "color": "#98D8C8"
+        },
+        {
+          "name": "Canada",
+          "value": 57517.4431587432,
+          "color": "#F7DC6F"
+        },
+        {
+          "name": "France",
+          "value": 54296.7230897731,
+          "color": "#BB8FCE"
+        },
+        {
+          "name": "Korea, Rep.",
+          "value": 54029.3434990785,
+          "color": "#85C1E9"
+        },
+        {
+          "name": "Italy",
+          "value": 52870.3261442897,
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "United Kingdom",
+          "value": 52592.6822066393,
+          "color": "#4ECDC4"
+        },
+        {
+          "name": "Spain",
+          "value": 47322.5937004504,
+          "color": "#45B7D1"
+        },
+        {
+          "name": "Japan",
+          "value": 45858.6595131439,
+          "color": "#96CEB4"
+        },
+        {
+          "name": "Poland",
+          "value": 43672.7668014946,
+          "color": "#FFEAA7"
+        }
+      ]
+    }
+  ]
+}

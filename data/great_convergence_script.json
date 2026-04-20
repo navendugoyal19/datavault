@@ -1,0 +1,327 @@
+{
+  "type": "bar-race",
+  "title": "The Great Convergence: How the World Got Rich",
+  "totalFrames": 18180,
+  "fps": 30,
+  "segments": [
+    {
+      "text": "The Great Convergence. How the World Got Rich. A story of nations, numbers, and the narrowing gap between East and West.",
+      "startFrame": 0,
+      "endFrame": 180,
+      "type": "intro"
+    },
+    {
+      "text": "In 1990, Saudi Arabia leads with $65,197.",
+      "startFrame": 180,
+      "endFrame": 600,
+      "type": "year",
+      "year": 1990
+    },
+    {
+      "text": "In 1991, Saudi Arabia holds the lead at $67,269. Meanwhile, Germany moves up to 3.",
+      "startFrame": 600,
+      "endFrame": 1020,
+      "type": "year",
+      "year": 1991
+    },
+    {
+      "text": "In 1992, Saudi Arabia holds the lead at $67,184. Meanwhile, United States moves up to 4.",
+      "startFrame": 1020,
+      "endFrame": 1440,
+      "type": "year",
+      "year": 1992
+    },
+    {
+      "text": "In 1993, Saudi Arabia holds the lead at $64,518. Meanwhile, United States moves up to 3.",
+      "startFrame": 1440,
+      "endFrame": 1860,
+      "type": "year",
+      "year": 1993
+    },
+    {
+      "text": "1994. Saudi Arabia maintains the lead with $62,404.",
+      "startFrame": 1860,
+      "endFrame": 2280,
+      "type": "year",
+      "year": 1994
+    },
+    {
+      "text": "Spotlight on United States, currently ranked 3. The American tech revolution drives unprecedented wealth creation, with Silicon Valley redefining the global economy.",
+      "startFrame": 2280,
+      "endFrame": 2640,
+      "type": "spotlight",
+      "country": "United States"
+    },
+    {
+      "text": "1995 brings a seismic shift. Switzerland overtakes Saudi Arabia with $61,454, rewriting the global economic order.",
+      "startFrame": 2640,
+      "endFrame": 3060,
+      "type": "year",
+      "year": 1995
+    },
+    {
+      "text": "In 1996, Switzerland holds the lead at $61,471. Meanwhile, Italy moves up to 5.",
+      "startFrame": 3060,
+      "endFrame": 3480,
+      "type": "year",
+      "year": 1996
+    },
+    {
+      "text": "1997. Switzerland maintains the lead with $62,710.",
+      "startFrame": 3480,
+      "endFrame": 3900,
+      "type": "year",
+      "year": 1997
+    },
+    {
+      "text": "In 1998, Switzerland holds the lead at $64,418. Meanwhile, Netherlands moves up to 3.",
+      "startFrame": 3900,
+      "endFrame": 4320,
+      "type": "year",
+      "year": 1998
+    },
+    {
+      "text": "In 1999, Switzerland holds the lead at $65,178. Meanwhile, Germany moves up to 5.",
+      "startFrame": 4320,
+      "endFrame": 4740,
+      "type": "year",
+      "year": 1999
+    },
+    {
+      "text": "The Great Divergence. Globalization accelerates, but the benefits are unevenly distributed. China enters the World Trade Organization and begins its economic miracle.",
+      "startFrame": 4740,
+      "endFrame": 5040,
+      "type": "era",
+      "eraName": "The Great Divergence"
+    },
+    {
+      "text": "In 2000, Switzerland holds the lead at $67,378. Meanwhile, Netherlands moves up to 2.",
+      "startFrame": 5040,
+      "endFrame": 5460,
+      "type": "year",
+      "year": 2000
+    },
+    {
+      "text": "Spotlight on China, currently in the rankings. China's entry into the WTO marks the beginning of the greatest economic transformation in human history.",
+      "startFrame": 5460,
+      "endFrame": 5820,
+      "type": "spotlight",
+      "country": "China"
+    },
+    {
+      "text": "In 2001, Switzerland holds the lead at $68,008. Meanwhile, United States moves up to 3.",
+      "startFrame": 5820,
+      "endFrame": 6240,
+      "type": "year",
+      "year": 2001
+    },
+    {
+      "text": "In 2002, Switzerland holds the lead at $67,446. Meanwhile, Italy moves up to 4.",
+      "startFrame": 6240,
+      "endFrame": 6660,
+      "type": "year",
+      "year": 2002
+    },
+    {
+      "text": "In 2003, Switzerland holds the lead at $66,926. Meanwhile, United States moves up to 2.",
+      "startFrame": 6660,
+      "endFrame": 7080,
+      "type": "year",
+      "year": 2003
+    },
+    {
+      "text": "In 2004, Switzerland holds the lead at $68,263. Meanwhile, Sweden moves up to 5.",
+      "startFrame": 7080,
+      "endFrame": 7500,
+      "type": "year",
+      "year": 2004
+    },
+    {
+      "text": "Spotlight on Germany, currently ranked 8. German engineering and the expanding European Union create an economic powerhouse at the heart of Europe.",
+      "startFrame": 7500,
+      "endFrame": 7860,
+      "type": "spotlight",
+      "country": "Germany"
+    },
+    {
+      "text": "2005. Switzerland maintains the lead with $69,693.",
+      "startFrame": 7860,
+      "endFrame": 8280,
+      "type": "year",
+      "year": 2005
+    },
+    {
+      "text": "In 2006, Switzerland holds the lead at $72,078. Meanwhile, Sweden moves up to 4.",
+      "startFrame": 8280,
+      "endFrame": 8700,
+      "type": "year",
+      "year": 2006
+    },
+    {
+      "text": "In 2007, Switzerland holds the lead at $74,234. Meanwhile, Netherlands moves up to 2.",
+      "startFrame": 8700,
+      "endFrame": 9120,
+      "type": "year",
+      "year": 2007
+    },
+    {
+      "text": "2008. Switzerland maintains the lead with $75,355.",
+      "startFrame": 9120,
+      "endFrame": 9540,
+      "type": "year",
+      "year": 2008
+    },
+    {
+      "text": "The Rise of Asia. The financial crisis reshapes the global order. Asian economies surge forward while Western growth stagnates.",
+      "startFrame": 9540,
+      "endFrame": 9840,
+      "type": "era",
+      "eraName": "The Rise of Asia"
+    },
+    {
+      "text": "2009. Switzerland maintains the lead with $72,710.",
+      "startFrame": 9840,
+      "endFrame": 10260,
+      "type": "year",
+      "year": 2009
+    },
+    {
+      "text": "Spotlight on Saudi Arabia, currently ranked 5. Oil wealth and strategic vision position the Kingdom as a pivotal force in global energy markets.",
+      "startFrame": 10260,
+      "endFrame": 10620,
+      "type": "spotlight",
+      "country": "Saudi Arabia"
+    },
+    {
+      "text": "In 2010, Switzerland holds the lead at $74,290. Meanwhile, Saudi Arabia moves up to 5.",
+      "startFrame": 10620,
+      "endFrame": 11040,
+      "type": "year",
+      "year": 2010
+    },
+    {
+      "text": "In 2011, Switzerland holds the lead at $74,801. Meanwhile, Saudi Arabia moves up to 4.",
+      "startFrame": 11040,
+      "endFrame": 11460,
+      "type": "year",
+      "year": 2011
+    },
+    {
+      "text": "2012. Switzerland maintains the lead with $74,884.",
+      "startFrame": 11460,
+      "endFrame": 11880,
+      "type": "year",
+      "year": 2012
+    },
+    {
+      "text": "In 2013, Switzerland holds the lead at $75,354. Meanwhile, United States moves up to 2.",
+      "startFrame": 11880,
+      "endFrame": 12300,
+      "type": "year",
+      "year": 2013
+    },
+    {
+      "text": "2014. Switzerland maintains the lead with $76,190.",
+      "startFrame": 12300,
+      "endFrame": 12720,
+      "type": "year",
+      "year": 2014
+    },
+    {
+      "text": "Spotlight on Switzerland, currently ranked 1. Swiss precision in banking, pharmaceuticals, and engineering propels this small nation to the top of global wealth rankings.",
+      "startFrame": 12720,
+      "endFrame": 13080,
+      "type": "spotlight",
+      "country": "Switzerland"
+    },
+    {
+      "text": "In 2015, Switzerland holds the lead at $76,566. Meanwhile, Sweden moves up to 5.",
+      "startFrame": 13080,
+      "endFrame": 13500,
+      "type": "year",
+      "year": 2015
+    },
+    {
+      "text": "2016. Switzerland maintains the lead with $77,301.",
+      "startFrame": 13500,
+      "endFrame": 13920,
+      "type": "year",
+      "year": 2016
+    },
+    {
+      "text": "2017. Switzerland maintains the lead with $77,627.",
+      "startFrame": 13920,
+      "endFrame": 14340,
+      "type": "year",
+      "year": 2017
+    },
+    {
+      "text": "In 2018, Switzerland holds the lead at $79,261. Meanwhile, Saudi Arabia moves up to 5.",
+      "startFrame": 14340,
+      "endFrame": 14760,
+      "type": "year",
+      "year": 2018
+    },
+    {
+      "text": "2019. Switzerland maintains the lead with $79,597.",
+      "startFrame": 14760,
+      "endFrame": 15180,
+      "type": "year",
+      "year": 2019
+    },
+    {
+      "text": "The Great Convergence. The pandemic and its aftermath accelerate the narrowing gap between East and West. The world enters a new multipolar era.",
+      "startFrame": 15180,
+      "endFrame": 15480,
+      "type": "era",
+      "eraName": "The Great Convergence"
+    },
+    {
+      "text": "Spotlight on United States, currently ranked 2. Even amid pandemic disruption, American innovation and resilience maintain its position at the forefront of global wealth.",
+      "startFrame": 15480,
+      "endFrame": 15840,
+      "type": "spotlight",
+      "country": "United States"
+    },
+    {
+      "text": "In 2020, Switzerland holds the lead at $77,325. Meanwhile, Sweden moves up to 5.",
+      "startFrame": 15840,
+      "endFrame": 16260,
+      "type": "year",
+      "year": 2020
+    },
+    {
+      "text": "In 2021, Switzerland holds the lead at $81,001. Meanwhile, Sweden moves up to 4.",
+      "startFrame": 16260,
+      "endFrame": 16680,
+      "type": "year",
+      "year": 2021
+    },
+    {
+      "text": "In 2022, Switzerland holds the lead at $82,777. Meanwhile, Saudi Arabia moves up to 4.",
+      "startFrame": 16680,
+      "endFrame": 17100,
+      "type": "year",
+      "year": 2022
+    },
+    {
+      "text": "2023. Switzerland maintains the lead with $82,295.",
+      "startFrame": 17100,
+      "endFrame": 17520,
+      "type": "year",
+      "year": 2023
+    },
+    {
+      "text": "And so we arrive at 2023. Switzerland leads with $82,295. The top five: Switzerland at $82,295, United States at $74,159, Netherlands at $70,199, Saudi Arabia at $64,482, and Germany at $63,039. But look closer — the gap between rich and poor nations has never been narrower.",
+      "startFrame": 17520,
+      "endFrame": 18000,
+      "type": "finale"
+    },
+    {
+      "text": "This is the Great Convergence. The story of how billions rose from poverty, how technology spread, and how the world's economic center of gravity shifted. If you want to see more stories hidden in the data, like and subscribe.",
+      "startFrame": 18000,
+      "endFrame": 18180,
+      "type": "outro"
+    }
+  ]
+}

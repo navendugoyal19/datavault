@@ -71,6 +71,7 @@ INDICATORS: dict[str, str] = {
     "population": "SP.POP.TOTL",
     "gdp": "NY.GDP.MKTP.CD",
     "gdp_per_capita": "NY.GDP.PCAP.CD",
+    "gdp_per_capita_ppp": "NY.GDP.PCAP.PP.KD",
     "life_expectancy": "SP.DYN.LE00.IN",
     "co2_emissions": "EN.ATM.CO2E.KT",
     "military_spending": "MS.MIL.XPND.CD",
@@ -261,15 +262,17 @@ def save_bar_race_data(
     *,
     top_n: int = 10,
     year_range: tuple[int, int] = (1960, 2023),
+    countries: list[str] | None = None,
 ) -> Path:
     """Fetch time-series data and save as BarChartFrame[] JSON.
 
     Each frame represents one year with the top N countries.
+    If countries is provided, only those countries are fetched.
     """
     out = Path(output_path)
     out.parent.mkdir(parents=True, exist_ok=True)
 
-    records = fetch_world_bank(indicator, years=year_range, exclude_aggregates=True)
+    records = fetch_world_bank(indicator, countries=countries, years=year_range, exclude_aggregates=True)
     if not records:
         raise RuntimeError(f"No data for indicator {indicator}")
 
@@ -342,6 +345,7 @@ def main() -> None:
     br.add_argument("--top", type=int, default=10, help="Top N countries per frame")
     br.add_argument("--start", type=int, default=1960, help="Start year")
     br.add_argument("--end", type=int, default=2023, help="End year")
+    br.add_argument("--countries", nargs="+", help="List of country names or codes to include")
 
     # country-vs
     cv = sub.add_parser("country-vs", help="Fetch country-vs-country comparison data")
@@ -358,6 +362,7 @@ def main() -> None:
             output_path=ROOT / args.out,
             top_n=args.top,
             year_range=(args.start, args.end),
+            countries=args.countries,
         )
     elif args.command == "country-vs":
         save_comparison_data(

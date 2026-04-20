@@ -1,411 +1,327 @@
 {
-  "type": "bar-race-longform",
-  "title": "The Great Convergence",
-  "subtitle": "How the World Got Rich",
-  "totalFrames": 18756,
+  "type": "bar-race",
+  "title": "The Great Convergence: How the World Got Rich",
+  "totalFrames": 18180,
   "fps": 30,
   "segments": [
     {
-      "text": "This is the story of how the world got rich. From 1990 to 2023, we'll trace GDP per capita across nations, revealing four distinct eras of global wealth.",
+      "text": "The Great Convergence. How the World Got Rich. A story of nations, numbers, and the narrowing gap between East and West.",
       "startFrame": 0,
-      "endFrame": 150,
+      "endFrame": 180,
       "type": "intro"
     },
     {
-      "text": "1990. Saudi Arabia: $65,197 — Switzerland: $64,011 — United States: $44,379.",
-      "startFrame": 150,
-      "endFrame": 588,
+      "text": "In 1990, Saudi Arabia leads with $65,197.",
+      "startFrame": 180,
+      "endFrame": 600,
       "type": "year",
       "year": 1990
     },
     {
-      "text": "1991. Saudi Arabia: $67,269 — Switzerland: $62,637 — Germany: $44,125.",
-      "startFrame": 588,
-      "endFrame": 1026,
+      "text": "In 1991, Saudi Arabia holds the lead at $67,269. Meanwhile, Germany moves up to 3.",
+      "startFrame": 600,
+      "endFrame": 1020,
       "type": "year",
       "year": 1991
     },
     {
-      "text": "1992. Saudi Arabia: $67,184 — Switzerland: $61,923 — Germany: $44,673.",
-      "startFrame": 1026,
-      "endFrame": 1464,
+      "text": "In 1992, Saudi Arabia holds the lead at $67,184. Meanwhile, United States moves up to 4.",
+      "startFrame": 1020,
+      "endFrame": 1440,
       "type": "year",
       "year": 1992
     },
     {
-      "text": "1993. Saudi Arabia: $64,518 — Switzerland: $61,284 — United States: $45,287.",
-      "startFrame": 1464,
-      "endFrame": 1902,
+      "text": "In 1993, Saudi Arabia holds the lead at $64,518. Meanwhile, United States moves up to 3.",
+      "startFrame": 1440,
+      "endFrame": 1860,
       "type": "year",
       "year": 1993
     },
     {
-      "text": "1994. Saudi Arabia: $62,404 — Switzerland: $61,570 — United States: $46,537.",
-      "startFrame": 1902,
-      "endFrame": 2340,
+      "text": "1994. Saudi Arabia maintains the lead with $62,404.",
+      "startFrame": 1860,
+      "endFrame": 2280,
       "type": "year",
       "year": 1994
     },
     {
-      "text": "In the mid-nineties, America's economy soared on the back of the tech revolution, cementing its position as the world's wealthiest major nation. In 1995, United States ranked #3 with $47,221 per person.",
-      "startFrame": 2340,
-      "endFrame": 2580,
+      "text": "Spotlight on United States, currently ranked 3. The American tech revolution drives unprecedented wealth creation, with Silicon Valley redefining the global economy.",
+      "startFrame": 2280,
+      "endFrame": 2640,
       "type": "spotlight",
-      "country": "United States",
-      "rank": 3,
-      "value": 47220.9579604358
+      "country": "United States"
     },
     {
-      "text": "1995. Switzerland: $61,454 — Saudi Arabia: $60,058 — United States: $47,221.",
-      "startFrame": 2580,
-      "endFrame": 3018,
+      "text": "1995 brings a seismic shift. Switzerland overtakes Saudi Arabia with $61,454, rewriting the global economic order.",
+      "startFrame": 2640,
+      "endFrame": 3060,
       "type": "year",
       "year": 1995
     },
     {
-      "text": "1996. Switzerland: $61,471 — Saudi Arabia: $59,613 — United States: $48,436.",
-      "startFrame": 3018,
-      "endFrame": 3456,
+      "text": "In 1996, Switzerland holds the lead at $61,471. Meanwhile, Italy moves up to 5.",
+      "startFrame": 3060,
+      "endFrame": 3480,
       "type": "year",
       "year": 1996
     },
     {
-      "text": "1997. Switzerland: $62,710 — Saudi Arabia: $58,876 — United States: $49,984.",
-      "startFrame": 3456,
-      "endFrame": 3894,
+      "text": "1997. Switzerland maintains the lead with $62,710.",
+      "startFrame": 3480,
+      "endFrame": 3900,
       "type": "year",
       "year": 1997
     },
     {
-      "text": "1998. Switzerland: $64,418 — Saudi Arabia: $58,307 — Netherlands: $51,879.",
-      "startFrame": 3894,
-      "endFrame": 4332,
+      "text": "In 1998, Switzerland holds the lead at $64,418. Meanwhile, Netherlands moves up to 3.",
+      "startFrame": 3900,
+      "endFrame": 4320,
       "type": "year",
       "year": 1998
     },
     {
-      "text": "1999. Switzerland: $65,178 — Saudi Arabia: $55,878 — Netherlands: $54,134.",
-      "startFrame": 4332,
-      "endFrame": 4770,
+      "text": "In 1999, Switzerland holds the lead at $65,178. Meanwhile, Germany moves up to 5.",
+      "startFrame": 4320,
+      "endFrame": 4740,
       "type": "year",
       "year": 1999
     },
     {
-      "text": "2000. Switzerland: $67,378 — Netherlands: $56,017 — Saudi Arabia: $55,962.",
-      "startFrame": 4770,
-      "endFrame": 5208,
+      "text": "The Great Divergence. Globalization accelerates, but the benefits are unevenly distributed. China enters the World Trade Organization and begins its economic miracle.",
+      "startFrame": 4740,
+      "endFrame": 5040,
+      "type": "era",
+      "eraName": "The Great Divergence"
+    },
+    {
+      "text": "In 2000, Switzerland holds the lead at $67,378. Meanwhile, Netherlands moves up to 2.",
+      "startFrame": 5040,
+      "endFrame": 5460,
       "type": "year",
       "year": 2000
     },
     {
-      "text": "The Asian Renaissance. While Japan's bubble economy deflated, China began its historic transformation from poverty to power.",
-      "startFrame": 5208,
-      "endFrame": 5508,
-      "type": "era_transition",
-      "eraTitle": "The Asian Renaissance",
-      "eraSubtitle": "China Enters the Stage"
+      "text": "Spotlight on China, currently in the rankings. China's entry into the WTO marks the beginning of the greatest economic transformation in human history.",
+      "startFrame": 5460,
+      "endFrame": 5820,
+      "type": "spotlight",
+      "country": "China"
     },
     {
-      "text": "2000. Switzerland: $67,378 — Netherlands: $56,017 — Saudi Arabia: $55,962.",
-      "startFrame": 5508,
-      "endFrame": 5946,
-      "type": "year",
-      "year": 2000
-    },
-    {
-      "text": "2001. Switzerland: $68,008 — Netherlands: $56,887 — United States: $55,017.",
-      "startFrame": 5946,
-      "endFrame": 6384,
+      "text": "In 2001, Switzerland holds the lead at $68,008. Meanwhile, United States moves up to 3.",
+      "startFrame": 5820,
+      "endFrame": 6240,
       "type": "year",
       "year": 2001
     },
     {
-      "text": "2002. Switzerland: $67,446 — Netherlands: $56,664 — United States: $55,436.",
-      "startFrame": 6384,
-      "endFrame": 6822,
+      "text": "In 2002, Switzerland holds the lead at $67,446. Meanwhile, Italy moves up to 4.",
+      "startFrame": 6240,
+      "endFrame": 6660,
       "type": "year",
       "year": 2002
     },
     {
-      "text": "2003. Switzerland: $66,926 — United States: $56,498 — Netherlands: $56,453.",
-      "startFrame": 6822,
-      "endFrame": 7260,
+      "text": "In 2003, Switzerland holds the lead at $66,926. Meanwhile, United States moves up to 2.",
+      "startFrame": 6660,
+      "endFrame": 7080,
       "type": "year",
       "year": 2003
     },
     {
-      "text": "2004. Switzerland: $68,263 — United States: $58,132 — Netherlands: $57,391.",
-      "startFrame": 7260,
-      "endFrame": 7698,
+      "text": "In 2004, Switzerland holds the lead at $68,263. Meanwhile, Sweden moves up to 5.",
+      "startFrame": 7080,
+      "endFrame": 7500,
       "type": "year",
       "year": 2004
     },
     {
-      "text": "As the engine of European expansion, Germany's manufacturing prowess drove its per capita wealth to new heights. In 2005, Germany ranked #8 with $51,183 per person.",
-      "startFrame": 7698,
-      "endFrame": 7938,
+      "text": "Spotlight on Germany, currently ranked 8. German engineering and the expanding European Union create an economic powerhouse at the heart of Europe.",
+      "startFrame": 7500,
+      "endFrame": 7860,
       "type": "spotlight",
-      "country": "Germany",
-      "rank": 8,
-      "value": 51182.9591615718
+      "country": "Germany"
     },
     {
-      "text": "2005. Switzerland: $69,693 — United States: $59,605 — Netherlands: $58,422.",
-      "startFrame": 7938,
-      "endFrame": 8376,
+      "text": "2005. Switzerland maintains the lead with $69,693.",
+      "startFrame": 7860,
+      "endFrame": 8280,
       "type": "year",
       "year": 2005
     },
     {
-      "text": "2006. Switzerland: $72,078 — United States: $60,677 — Netherlands: $60,392.",
-      "startFrame": 8376,
-      "endFrame": 8814,
+      "text": "In 2006, Switzerland holds the lead at $72,078. Meanwhile, Sweden moves up to 4.",
+      "startFrame": 8280,
+      "endFrame": 8700,
       "type": "year",
       "year": 2006
     },
     {
-      "text": "2007. Switzerland: $74,234 — Netherlands: $62,602 — United States: $61,307.",
-      "startFrame": 8814,
-      "endFrame": 9252,
+      "text": "In 2007, Switzerland holds the lead at $74,234. Meanwhile, Netherlands moves up to 2.",
+      "startFrame": 8700,
+      "endFrame": 9120,
       "type": "year",
       "year": 2007
     },
     {
-      "text": "2008. Switzerland: $75,355 — Netherlands: $63,678 — United States: $60,798.",
-      "startFrame": 9252,
-      "endFrame": 9690,
+      "text": "2008. Switzerland maintains the lead with $75,355.",
+      "startFrame": 9120,
+      "endFrame": 9540,
       "type": "year",
       "year": 2008
     },
     {
-      "text": "The Great Divergence. The financial crisis reshaped global wealth. Small resource-rich nations surged while traditional powers struggled.",
-      "startFrame": 9690,
-      "endFrame": 9990,
-      "type": "era_transition",
-      "eraTitle": "The Great Divergence",
-      "eraSubtitle": "Resource Wealth vs. Innovation"
+      "text": "The Rise of Asia. The financial crisis reshapes the global order. Asian economies surge forward while Western growth stagnates.",
+      "startFrame": 9540,
+      "endFrame": 9840,
+      "type": "era",
+      "eraName": "The Rise of Asia"
     },
     {
-      "text": "2008. Switzerland: $75,355 — Netherlands: $63,678 — United States: $60,798.",
-      "startFrame": 9990,
-      "endFrame": 10428,
-      "type": "year",
-      "year": 2008
-    },
-    {
-      "text": "2009. Switzerland: $72,710 — Netherlands: $61,030 — United States: $58,715.",
-      "startFrame": 10428,
-      "endFrame": 10866,
+      "text": "2009. Switzerland maintains the lead with $72,710.",
+      "startFrame": 9840,
+      "endFrame": 10260,
       "type": "year",
       "year": 2009
     },
     {
-      "text": "Riding a wave of oil wealth, Saudi Arabia transformed desert into prosperity, becoming one of the world's richest nations per person. In 2010, Saudi Arabia ranked #5 with $54,912 per person.",
-      "startFrame": 10866,
-      "endFrame": 11106,
+      "text": "Spotlight on Saudi Arabia, currently ranked 5. Oil wealth and strategic vision position the Kingdom as a pivotal force in global energy markets.",
+      "startFrame": 10260,
+      "endFrame": 10620,
       "type": "spotlight",
-      "country": "Saudi Arabia",
-      "rank": 5,
-      "value": 54911.547517012
+      "country": "Saudi Arabia"
     },
     {
-      "text": "2010. Switzerland: $74,290 — Netherlands: $61,519 — United States: $59,789.",
-      "startFrame": 11106,
-      "endFrame": 11544,
+      "text": "In 2010, Switzerland holds the lead at $74,290. Meanwhile, Saudi Arabia moves up to 5.",
+      "startFrame": 10620,
+      "endFrame": 11040,
       "type": "year",
       "year": 2010
     },
     {
-      "text": "2011. Switzerland: $74,801 — Netherlands: $62,318 — United States: $60,245.",
-      "startFrame": 11544,
-      "endFrame": 11982,
+      "text": "In 2011, Switzerland holds the lead at $74,801. Meanwhile, Saudi Arabia moves up to 4.",
+      "startFrame": 11040,
+      "endFrame": 11460,
       "type": "year",
       "year": 2011
     },
     {
-      "text": "2012. Switzerland: $74,884 — Netherlands: $61,481 — United States: $61,135.",
-      "startFrame": 11982,
-      "endFrame": 12420,
+      "text": "2012. Switzerland maintains the lead with $74,884.",
+      "startFrame": 11460,
+      "endFrame": 11880,
       "type": "year",
       "year": 2012
     },
     {
-      "text": "2013. Switzerland: $75,354 — United States: $61,959 — Netherlands: $61,281.",
-      "startFrame": 12420,
-      "endFrame": 12858,
+      "text": "In 2013, Switzerland holds the lead at $75,354. Meanwhile, United States moves up to 2.",
+      "startFrame": 11880,
+      "endFrame": 12300,
       "type": "year",
       "year": 2013
     },
     {
-      "text": "2014. Switzerland: $76,190 — United States: $63,019 — Netherlands: $62,046.",
-      "startFrame": 12858,
-      "endFrame": 13296,
+      "text": "2014. Switzerland maintains the lead with $76,190.",
+      "startFrame": 12300,
+      "endFrame": 12720,
       "type": "year",
       "year": 2014
     },
     {
-      "text": "With precision engineering and banking mastery, Switzerland consistently ranked among the world's wealthiest nations. In 2015, Switzerland ranked #1 with $76,566 per person.",
-      "startFrame": 13296,
-      "endFrame": 13536,
+      "text": "Spotlight on Switzerland, currently ranked 1. Swiss precision in banking, pharmaceuticals, and engineering propels this small nation to the top of global wealth rankings.",
+      "startFrame": 12720,
+      "endFrame": 13080,
       "type": "spotlight",
-      "country": "Switzerland",
-      "rank": 1,
-      "value": 76566.0772542148
+      "country": "Switzerland"
     },
     {
-      "text": "2015. Switzerland: $76,566 — United States: $64,359 — Netherlands: $63,081.",
-      "startFrame": 13536,
-      "endFrame": 13974,
+      "text": "In 2015, Switzerland holds the lead at $76,566. Meanwhile, Sweden moves up to 5.",
+      "startFrame": 13080,
+      "endFrame": 13500,
       "type": "year",
       "year": 2015
     },
     {
-      "text": "2016. Switzerland: $77,301 — United States: $65,018 — Netherlands: $64,268.",
-      "startFrame": 13974,
-      "endFrame": 14412,
+      "text": "2016. Switzerland maintains the lead with $77,301.",
+      "startFrame": 13500,
+      "endFrame": 13920,
       "type": "year",
       "year": 2016
     },
     {
-      "text": "2017. Switzerland: $77,627 — United States: $66,156 — Netherlands: $65,666.",
-      "startFrame": 14412,
-      "endFrame": 14850,
+      "text": "2017. Switzerland maintains the lead with $77,627.",
+      "startFrame": 13920,
+      "endFrame": 14340,
       "type": "year",
       "year": 2017
     },
     {
-      "text": "2018. Switzerland: $79,261 — United States: $67,720 — Netherlands: $66,758.",
-      "startFrame": 14850,
-      "endFrame": 15288,
+      "text": "In 2018, Switzerland holds the lead at $79,261. Meanwhile, Saudi Arabia moves up to 5.",
+      "startFrame": 14340,
+      "endFrame": 14760,
       "type": "year",
       "year": 2018
     },
     {
-      "text": "2019. Switzerland: $79,597 — United States: $69,113 — Netherlands: $67,848.",
-      "startFrame": 15288,
-      "endFrame": 15726,
+      "text": "2019. Switzerland maintains the lead with $79,597.",
+      "startFrame": 14760,
+      "endFrame": 15180,
       "type": "year",
       "year": 2019
     },
     {
-      "text": "The New Normal. COVID-19 tested every economy. Some emerged stronger; others face new challenges in a fragmented world.",
-      "startFrame": 15726,
-      "endFrame": 16026,
-      "type": "era_transition",
-      "eraTitle": "The New Normal",
-      "eraSubtitle": "Pandemic, Recovery, and Rivalry"
+      "text": "The Great Convergence. The pandemic and its aftermath accelerate the narrowing gap between East and West. The world enters a new multipolar era.",
+      "startFrame": 15180,
+      "endFrame": 15480,
+      "type": "era",
+      "eraName": "The Great Convergence"
     },
     {
-      "text": "2019. Switzerland: $79,597 — United States: $69,113 — Netherlands: $67,848.",
-      "startFrame": 16026,
-      "endFrame": 16464,
-      "type": "year",
-      "year": 2019
-    },
-    {
-      "text": "Despite the pandemic's devastation, America's tech-driven recovery pushed its per capita wealth to new records. In 2020, United States ranked #2 with $67,342 per person.",
-      "startFrame": 16464,
-      "endFrame": 16704,
+      "text": "Spotlight on United States, currently ranked 2. Even amid pandemic disruption, American innovation and resilience maintain its position at the forefront of global wealth.",
+      "startFrame": 15480,
+      "endFrame": 15840,
       "type": "spotlight",
-      "country": "United States",
-      "rank": 2,
-      "value": 67342.0709287722
+      "country": "United States"
     },
     {
-      "text": "2020. Switzerland: $77,325 — United States: $67,342 — Netherlands: $64,862.",
-      "startFrame": 16704,
-      "endFrame": 17142,
+      "text": "In 2020, Switzerland holds the lead at $77,325. Meanwhile, Sweden moves up to 5.",
+      "startFrame": 15840,
+      "endFrame": 16260,
       "type": "year",
       "year": 2020
     },
     {
-      "text": "2021. Switzerland: $81,001 — United States: $71,307 — Netherlands: $68,574.",
-      "startFrame": 17142,
-      "endFrame": 17580,
+      "text": "In 2021, Switzerland holds the lead at $81,001. Meanwhile, Sweden moves up to 4.",
+      "startFrame": 16260,
+      "endFrame": 16680,
       "type": "year",
       "year": 2021
     },
     {
-      "text": "2022. Switzerland: $82,777 — United States: $72,679 — Netherlands: $71,324.",
-      "startFrame": 17580,
-      "endFrame": 17880,
+      "text": "In 2022, Switzerland holds the lead at $82,777. Meanwhile, Saudi Arabia moves up to 4.",
+      "startFrame": 16680,
+      "endFrame": 17100,
       "type": "year",
       "year": 2022
     },
     {
-      "text": "2023. Switzerland: $82,295 — United States: $74,159 — Netherlands: $70,199.",
-      "startFrame": 18018,
-      "endFrame": 18078,
+      "text": "2023. Switzerland maintains the lead with $82,295.",
+      "startFrame": 17100,
+      "endFrame": 17520,
       "type": "year",
       "year": 2023
     },
     {
-      "text": "And so we arrive at 2023. The podium: Switzerland: $82,295 — United States: $74,159 — Netherlands: $70,199. The great convergence continues—but the destination remains unwritten.",
-      "startFrame": 18456,
-      "endFrame": 18516,
+      "text": "And so we arrive at 2023. Switzerland leads with $82,295. The top five: Switzerland at $82,295, United States at $74,159, Netherlands at $70,199, Saudi Arabia at $64,482, and Germany at $63,039. But look closer — the gap between rich and poor nations has never been narrower.",
+      "startFrame": 17520,
+      "endFrame": 18000,
+      "type": "finale"
+    },
+    {
+      "text": "This is the Great Convergence. The story of how billions rose from poverty, how technology spread, and how the world's economic center of gravity shifted. If you want to see more stories hidden in the data, like and subscribe.",
+      "startFrame": 18000,
+      "endFrame": 18180,
       "type": "outro"
-    }
-  ],
-  "eras": [
-    {
-      "startYear": 1990,
-      "endYear": 2000,
-      "title": "The Post-Cold War Order",
-      "subtitle": "American Century's Peak",
-      "description": "The collapse of the Soviet Union left the United States as the undisputed economic superpower."
-    },
-    {
-      "startYear": 2000,
-      "endYear": 2008,
-      "title": "The Asian Renaissance",
-      "subtitle": "China Enters the Stage",
-      "description": "While Japan's bubble economy deflated, China began its historic transformation from poverty to power."
-    },
-    {
-      "startYear": 2008,
-      "endYear": 2019,
-      "title": "The Great Divergence",
-      "subtitle": "Resource Wealth vs. Innovation",
-      "description": "The financial crisis reshaped global wealth. Small resource-rich nations surged while traditional powers struggled."
-    },
-    {
-      "startYear": 2019,
-      "endYear": 2023,
-      "title": "The New Normal",
-      "subtitle": "Pandemic, Recovery, and Rivalry",
-      "description": "COVID-19 tested every economy. Some emerged stronger; others face new challenges in a fragmented world."
-    }
-  ],
-  "spotlights": [
-    {
-      "year": 1995,
-      "country": "United States",
-      "narrative": "In the mid-nineties, America's economy soared on the back of the tech revolution, cementing its position as the world's wealthiest major nation."
-    },
-    {
-      "year": 2001,
-      "country": "China",
-      "narrative": "After joining the WTO, China began a historic transformation that would lift hundreds of millions from poverty and reshape global trade."
-    },
-    {
-      "year": 2005,
-      "country": "Germany",
-      "narrative": "As the engine of European expansion, Germany's manufacturing prowess drove its per capita wealth to new heights."
-    },
-    {
-      "year": 2010,
-      "country": "Saudi Arabia",
-      "narrative": "Riding a wave of oil wealth, Saudi Arabia transformed desert into prosperity, becoming one of the world's richest nations per person."
-    },
-    {
-      "year": 2015,
-      "country": "Switzerland",
-      "narrative": "With precision engineering and banking mastery, Switzerland consistently ranked among the world's wealthiest nations."
-    },
-    {
-      "year": 2020,
-      "country": "United States",
-      "narrative": "Despite the pandemic's devastation, America's tech-driven recovery pushed its per capita wealth to new records."
     }
   ]
 }

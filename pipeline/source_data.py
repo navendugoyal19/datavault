@@ -71,6 +71,7 @@ INDICATORS: dict[str, str] = {
     "population": "SP.POP.TOTL",
     "gdp": "NY.GDP.MKTP.CD",
     "gdp_per_capita": "NY.GDP.PCAP.CD",
+    "gdp_per_capita_ppp": "NY.GDP.PCAP.PP.KD",
     "life_expectancy": "SP.DYN.LE00.IN",
     "co2_emissions": "EN.ATM.CO2E.KT",
     "military_spending": "MS.MIL.XPND.CD",
@@ -266,6 +267,7 @@ def save_bar_race_data(
     """Fetch time-series data and save as BarChartFrame[] JSON.
 
     Each frame represents one year with the top N countries.
+    If countries is provided, only those countries are fetched.
     """
     out = Path(output_path)
     out.parent.mkdir(parents=True, exist_ok=True)
@@ -282,14 +284,14 @@ def save_bar_race_data(
     frames: list[dict[str, Any]] = []
     for year in sorted(by_year.keys()):
         entries_raw = sorted(by_year[year], key=lambda x: x["value"], reverse=True)
-        bars = []
+        entries = []
         for i, e in enumerate(entries_raw[:top_n]):
-            bars.append({
+            entries.append({
                 "name": e["country"],
                 "value": e["value"],
                 "color": BAR_COLORS[i % len(BAR_COLORS)],
             })
-        frames.append({"year": year, "bars": bars})
+        frames.append({"year": year, "entries": entries})
 
     output = {
         "title": title,
@@ -343,7 +345,7 @@ def main() -> None:
     br.add_argument("--top", type=int, default=10, help="Top N countries per frame")
     br.add_argument("--start", type=int, default=1960, help="Start year")
     br.add_argument("--end", type=int, default=2023, help="End year")
-    br.add_argument("--countries", nargs="+", default=None, help="Filter to specific country names or codes")
+    br.add_argument("--countries", nargs="+", help="List of country names or codes to include")
 
     # country-vs
     cv = sub.add_parser("country-vs", help="Fetch country-vs-country comparison data")

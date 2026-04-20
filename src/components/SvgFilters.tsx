@@ -63,6 +63,23 @@ export const SvgFilters: React.FC = () => (
           <feMergeNode in="SourceGraphic" />
         </feMerge>
       </filter>
+
+      <filter id="glow-cyan" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="blur" />
+        <feColorMatrix
+          in="blur"
+          type="matrix"
+          values="0 0 0 0 0
+                  0 0.9 0 0 0.1
+                  0 0 1 0 0
+                  0 0 0 0.6 0"
+          result="tinted"
+        />
+        <feMerge>
+          <feMergeNode in="tinted" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
     </defs>
   </svg>
 );

@@ -19,12 +19,13 @@ import { Background } from "../components/Background";
 import { SvgFilters } from "../components/SvgFilters";
 import { SoundLayer } from "../components/SoundLayer";
 import { BarChartRace, type TimelineSegment } from "../components/BarChartRace";
-import { EraMarker } from "../components/EraMarker";
+import { EraMarker, type EraMarkerData } from "../components/EraMarker";
+import { ParticleField } from "../components/ParticleField";
+import { DataOrb3D } from "../components/DataOrb3D";
 import { SFX, SFX_VOLUME } from "../lib/sfx";
 import type { BarChartFrame } from "../lib/types";
 import type { SfxCue } from "../lib/sfx";
-
-export const GREAT_CONVERGENCE_DURATION = 18756;
+import greatConvergenceData from "../../data/great_convergence_data.json";
 
 const GlobeIcon: React.FC<{ size: number; progress: number }> = ({
   size,
@@ -40,7 +41,6 @@ const GlobeIcon: React.FC<{ size: number; progress: number }> = ({
       style={{ overflow: "visible" }}
       aria-label="Globe icon"
     >
-      <title>Globe</title>
       <circle
         cx={r}
         cy={r}
@@ -205,6 +205,34 @@ const TimelineProgress: React.FC<{
   );
 };
 
+export interface GreatConvergenceLongProps {
+  title?: string;
+  data?: BarChartFrame[];
+  metricTitle?: string;
+  narrationSrc?: string;
+  sourceLabel?: string;
+  timelineSegments?: TimelineSegment[];
+  tickYears?: Array<number | string>;
+  eraMarkers?: EraMarkerData[];
+}
+
+const deriveDateRangeLabel = (data: BarChartFrame[]): string => {
+  if (data.length === 0) {
+    return "";
+  }
+  return `${data[0].year} — ${data[data.length - 1].year}`;
+};
+
+const deriveTickYears = (data: BarChartFrame[]): Array<number | string> => {
+  if (data.length <= 6) {
+    return data.map((frame) => frame.year);
+  }
+  const indexes = Array.from({ length: 6 }, (_, index) =>
+    Math.round(((data.length - 1) * index) / 5),
+  );
+  return indexes.map((index) => data[index].year);
+};
+
 const TitleCard: React.FC<{
   title: string;
   dateRangeLabel: string;
@@ -309,113 +337,22 @@ const TitleCard: React.FC<{
   );
 };
 
-const deriveSfxCues = (introDuration: number, eraMarkers: EraConfig[]): SfxCue[] => {
-  const cues: SfxCue[] = [
-    { frame: 0, sfx: SFX.sweep, volume: SFX_VOLUME.transition, duration: 60 },
-    { frame: 85, sfx: SFX.whoosh, volume: SFX_VOLUME.transition, duration: 30 },
-  ];
-
-  for (const era of eraMarkers) {
-    cues.push({
-      frame: era.startFrame,
-      sfx: SFX.impact,
-      volume: SFX_VOLUME.accent,
-      duration: 40,
-    });
-    cues.push({
-      frame: era.startFrame + 60,
-      sfx: SFX.chime,
-      volume: SFX_VOLUME.accent,
-      duration: 30,
-    });
-  }
-
-  cues.push({
-    frame: GREAT_CONVERGENCE_DURATION - 120,
-    sfx: SFX.reveal,
-    volume: SFX_VOLUME.accent,
-    duration: 50,
-  });
-
-  return cues;
-};
-
-export interface GreatConvergenceLongProps {
-  title?: string;
-  data?: BarChartFrame[];
-  metricTitle?: string;
-  narrationSrc?: string;
-  sourceLabel?: string;
-  timelineSegments?: TimelineSegment[];
-  tickYears?: Array<number | string>;
-  eraMarkers?: EraConfig[];
-}
-
-export interface EraConfig {
-  title: string;
-  subtitle: string;
-  description?: string;
-  startFrame: number;
-  endFrame: number;
-}
-
-const deriveDateRangeLabel = (data: BarChartFrame[]): string => {
-  if (data.length === 0) return "";
-  return `${data[0].year} — ${data[data.length - 1].year}`;
-};
-
-const deriveTickYears = (data: BarChartFrame[]): Array<number | string> => {
-  if (data.length <= 6) return data.map((frame) => frame.year);
-  const indexes = Array.from({ length: 6 }, (_, index) =>
-    Math.round(((data.length - 1) * index) / 5),
-  );
-  return indexes.map((index) => data[index].year);
-};
-
-const DEFAULT_ERA_MARKERS: EraConfig[] = [
-  {
-    title: "The Post-War Boom",
-    subtitle: "1950 — 1973",
-    description: "Reconstruction, industrialization, and the rise of the Western middle class.",
-    startFrame: 3120,
-    endFrame: 3900,
-  },
-  {
-    title: "The Great Divergence",
-    subtitle: "1973 — 1991",
-    description: "Oil shocks, stagflation, and the widening gap between rich and poor nations.",
-    startFrame: 7020,
-    endFrame: 7800,
-  },
-  {
-    title: "The Rise of Asia",
-    subtitle: "1991 — 2008",
-    description: "China's opening, India's reforms, and the fastest wealth creation in history.",
-    startFrame: 10920,
-    endFrame: 11700,
-  },
-  {
-    title: "The Great Convergence",
-    subtitle: "2008 — 2023",
-    description: "Emerging markets catch up. The global wealth gap narrows for the first time.",
-    startFrame: 14820,
-    endFrame: 15600,
-  },
-];
-
 export const GreatConvergenceLong: React.FC<GreatConvergenceLongProps> = ({
   title = "THE GREAT CONVERGENCE",
-  data = [],
-  metricTitle = "GDP PER CAPITA (PPP, INT'L $)",
+  data,
+  metricTitle = "GDP PER CAPITA (PPP, CONSTANT 2017 INTERNATIONAL $)",
   narrationSrc,
-  sourceLabel = "Source: World Bank",
+  sourceLabel = "Source: World Bank Open Data",
   timelineSegments,
   tickYears,
-  eraMarkers = DEFAULT_ERA_MARKERS,
+  eraMarkers,
 }) => {
   const frame = useCurrentFrame();
   const { fps, durationInFrames } = useVideoConfig();
-  const resolvedData = data.length > 0 ? data : [];
+  
+  const resolvedData = data && data.length > 0 
+    ? data 
+    : (greatConvergenceData as { frames: BarChartFrame[] }).frames || [];
 
   const introDuration = 3 * fps;
   const raceDuration = durationInFrames - introDuration;
@@ -424,21 +361,94 @@ export const GreatConvergenceLong: React.FC<GreatConvergenceLongProps> = ({
     ? tickYears
     : deriveTickYears(resolvedData);
 
-  const sfxCues = useMemo(
-    () => deriveSfxCues(introDuration, eraMarkers),
-    [introDuration, eraMarkers]
-  );
-
   const globalOpacity = fadeWindow(frame, 0, durationInFrames, 15, 25);
+
+  const defaultEraMarkers: EraMarkerData[] = [
+    {
+      startFrame: introDuration + Math.floor(raceDuration * 0.15),
+      endFrame: introDuration + Math.floor(raceDuration * 0.22),
+      title: "Post-Cold War Order",
+      subtitle: "1990 — 1997",
+      description: "The collapse of the Soviet Union reshapes the global economy. Western nations dominate while former communist states begin their transition.",
+      color: colors.accent.cyan,
+    },
+    {
+      startFrame: introDuration + Math.floor(raceDuration * 0.35),
+      endFrame: introDuration + Math.floor(raceDuration * 0.42),
+      title: "Great Divergence",
+      subtitle: "1998 — 2007",
+      description: "Globalization accelerates. China's WTO entry in 2001 and India's economic liberalization begin shifting the center of economic gravity eastward.",
+      color: colors.accent.amber,
+    },
+    {
+      startFrame: introDuration + Math.floor(raceDuration * 0.58),
+      endFrame: introDuration + Math.floor(raceDuration * 0.65),
+      title: "Rise of Asia",
+      subtitle: "2008 — 2017",
+      description: "The Global Financial Crisis hits the West hard. Asian economies, led by China and India, emerge as the primary engines of global growth.",
+      color: colors.accent.purple,
+    },
+    {
+      startFrame: introDuration + Math.floor(raceDuration * 0.82),
+      endFrame: introDuration + Math.floor(raceDuration * 0.90),
+      title: "The Great Convergence",
+      subtitle: "2018 — 2023",
+      description: "The gap between developed and developing nations narrows. Emerging markets now account for the majority of global GDP growth.",
+      color: colors.accent.green,
+    },
+  ];
+
+  const resolvedEraMarkers = eraMarkers && eraMarkers.length > 0
+    ? eraMarkers
+    : defaultEraMarkers;
+
+  const defaultSfxCues: SfxCue[] = [
+    { frame: 0, sfx: SFX.sweep, volume: SFX_VOLUME.transition, duration: 60 },
+    { frame: 85, sfx: SFX.whoosh, volume: SFX_VOLUME.transition, duration: 30 },
+    ...resolvedEraMarkers.map((era, i) => ({
+      frame: era.startFrame,
+      sfx: SFX.chime,
+      volume: SFX_VOLUME.accent,
+      duration: 40,
+    })),
+    { frame: durationInFrames - 120, sfx: SFX.reveal, volume: SFX_VOLUME.accent, duration: 60 },
+  ];
 
   return (
     <AbsoluteFill style={{ opacity: globalOpacity }}>
       <Background variant="cinematic" />
       <SvgFilters />
+
+      <ParticleField 
+        count={80} 
+        speed={0.3} 
+        drift={20}
+        glowFilter="glow-cyan"
+      />
+
+      <div
+        style={{
+          position: "absolute",
+          top: 60,
+          right: 60,
+          width: 180,
+          height: 180,
+          opacity: 0.4,
+          pointerEvents: "none",
+        }}
+      >
+        <DataOrb3D 
+          accent={colors.accent.cyan}
+          secondary={colors.accent.amber}
+          scale={0.6}
+          opacity={0.6}
+        />
+      </div>
+
       <SoundLayer
         narrationSrc={narrationSrc ? staticFile(narrationSrc) : undefined}
         ambientSrc={SFX.ambient}
-        sfxCues={sfxCues}
+        sfxCues={defaultSfxCues}
       />
 
       <Sequence from={0} durationInFrames={introDuration} layout="none">
@@ -455,39 +465,31 @@ export const GreatConvergenceLong: React.FC<GreatConvergenceLongProps> = ({
         layout="none"
       >
         <AbsoluteFill style={{ padding: "40px 10px 20px 10px" }}>
-          {resolvedData.length > 0 && (
-            <BarChartRace
-              data={resolvedData}
-              maxBars={10}
-              metricTitle={metricTitle}
-              timelineSegments={timelineSegments}
-            />
-          )}
+          <BarChartRace
+            data={resolvedData}
+            maxBars={10}
+            metricTitle={metricTitle}
+            timelineSegments={timelineSegments}
+          />
         </AbsoluteFill>
       </Sequence>
-
-      {eraMarkers.map((era) => (
-        <Sequence
-          key={`${era.title}-${era.startFrame}`}
-          from={era.startFrame}
-          durationInFrames={era.endFrame - era.startFrame}
-          layout="none"
-        >
-          <EraMarker
-            title={era.title}
-            subtitle={era.subtitle}
-            description={era.description}
-            startFrame={era.startFrame}
-            endFrame={era.endFrame}
-          />
-        </Sequence>
-      ))}
 
       <TimelineProgress
         raceStart={introDuration}
         raceDuration={raceDuration}
         years={resolvedTickYears}
       />
+
+      {resolvedEraMarkers.map((era) => (
+        <Sequence
+          key={era.title}
+          from={era.startFrame}
+          durationInFrames={era.endFrame - era.startFrame}
+          layout="none"
+        >
+          <EraMarker eraMarkers={[era]} />
+        </Sequence>
+      ))}
 
       <div
         style={{
